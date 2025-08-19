@@ -1,6 +1,7 @@
 import pandas as pd
 import fastf1 as ff
 
+# cache to store the data fetched from the API
 ff.Cache.enable_cache('f1_cache')
 
 # function to get results from race from specified year and round
@@ -32,12 +33,15 @@ def get_year_data(year):
     race_data = []
     quali_data = []
 
+    # if any issues encountered fetching from API then catch the exception
     try:
         schedule = ff.get_event_schedule(year)
     except Exception as e:
         print(f"Skipping {year} due to error: {e}")
         return None, None
 
+    # iterate through each event and stop if the race weekend has not been yet
+    # also check to see if it is a testing event and ignore if so
     for _, event in schedule.iterrows():
         if event['EventDate'] > pd.Timestamp.today():
             continue
@@ -45,7 +49,8 @@ def get_year_data(year):
             continue
 
         round_num = event['RoundNumber']
-
+        
+        # use helper functions to get data for each session
         try:
             quali_result = get_quali_results(year, round_num)
             quali_data.append(quali_result)
@@ -57,20 +62,8 @@ def get_year_data(year):
             race_data.append(race_result)
         except Exception as e:
             print(f"Skipping race {event['EventName']} ({year}) due to error: {e}")
-
+    # store every session from the year as one big dataframe
     race_df = pd.concat(race_data, ignore_index=True) if race_data else None
     quali_df = pd.concat(quali_data, ignore_index=True) if quali_data else None
 
     return race_df, quali_df
-
-
-for year in range(2018, 2026):  # up to 2025
-    try:
-        race_df, quali_df = get_year_data(year)  # should load from cache
-        race_df.to_csv(f"race_results_{year}.csv", index=False)
-        quali_df.to_csv(f"quali_results_{year}.csv", index=False)
-        print(f"Saved {year} data to CSV")
-    except Exception as e:
-        print(f"Skipping {year} due to error: {e}")
-
-        
