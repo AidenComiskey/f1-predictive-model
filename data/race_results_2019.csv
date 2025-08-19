@@ -1,0 +1,421 @@
+Position,Abbreviation,DriverNumber,TeamName,GridPosition,Year,Round,Circuit
+1.0,BOT,77,Mercedes,2.0,2019,1,Melbourne
+2.0,HAM,44,Mercedes,1.0,2019,1,Melbourne
+3.0,VER,33,Red Bull Racing,4.0,2019,1,Melbourne
+4.0,VET,5,Ferrari,3.0,2019,1,Melbourne
+5.0,LEC,16,Ferrari,5.0,2019,1,Melbourne
+6.0,MAG,20,Haas F1 Team,7.0,2019,1,Melbourne
+7.0,HUL,27,Renault,11.0,2019,1,Melbourne
+8.0,RAI,7,Alfa Romeo Racing,9.0,2019,1,Melbourne
+9.0,STR,18,Racing Point,16.0,2019,1,Melbourne
+10.0,KVY,26,Toro Rosso,15.0,2019,1,Melbourne
+11.0,GAS,10,Red Bull Racing,17.0,2019,1,Melbourne
+12.0,NOR,4,McLaren,8.0,2019,1,Melbourne
+13.0,PER,11,Racing Point,10.0,2019,1,Melbourne
+14.0,ALB,23,Toro Rosso,13.0,2019,1,Melbourne
+15.0,GIO,99,Alfa Romeo Racing,14.0,2019,1,Melbourne
+16.0,RUS,63,Williams,19.0,2019,1,Melbourne
+17.0,KUB,88,Williams,20.0,2019,1,Melbourne
+18.0,GRO,8,Haas F1 Team,6.0,2019,1,Melbourne
+19.0,RIC,3,Renault,12.0,2019,1,Melbourne
+20.0,SAI,55,McLaren,18.0,2019,1,Melbourne
+1.0,HAM,44,Mercedes,3.0,2019,2,Sakhir
+2.0,BOT,77,Mercedes,4.0,2019,2,Sakhir
+3.0,LEC,16,Ferrari,1.0,2019,2,Sakhir
+4.0,VER,33,Red Bull Racing,5.0,2019,2,Sakhir
+5.0,VET,5,Ferrari,2.0,2019,2,Sakhir
+6.0,NOR,4,McLaren,9.0,2019,2,Sakhir
+7.0,RAI,7,Alfa Romeo Racing,8.0,2019,2,Sakhir
+8.0,GAS,10,Red Bull Racing,13.0,2019,2,Sakhir
+9.0,ALB,23,Toro Rosso,12.0,2019,2,Sakhir
+10.0,PER,11,Racing Point,14.0,2019,2,Sakhir
+11.0,GIO,99,Alfa Romeo Racing,16.0,2019,2,Sakhir
+12.0,KVY,26,Toro Rosso,15.0,2019,2,Sakhir
+13.0,MAG,20,Haas F1 Team,6.0,2019,2,Sakhir
+14.0,STR,18,Racing Point,18.0,2019,2,Sakhir
+15.0,RUS,63,Williams,19.0,2019,2,Sakhir
+16.0,KUB,88,Williams,20.0,2019,2,Sakhir
+17.0,HUL,27,Renault,17.0,2019,2,Sakhir
+18.0,RIC,3,Renault,10.0,2019,2,Sakhir
+19.0,SAI,55,McLaren,7.0,2019,2,Sakhir
+20.0,GRO,8,Haas F1 Team,11.0,2019,2,Sakhir
+1.0,HAM,44,Mercedes,2.0,2019,3,Shanghai
+2.0,BOT,77,Mercedes,1.0,2019,3,Shanghai
+3.0,VET,5,Ferrari,3.0,2019,3,Shanghai
+4.0,VER,33,Red Bull Racing,5.0,2019,3,Shanghai
+5.0,LEC,16,Ferrari,4.0,2019,3,Shanghai
+6.0,GAS,10,Red Bull Racing,6.0,2019,3,Shanghai
+7.0,RIC,3,Renault,7.0,2019,3,Shanghai
+8.0,PER,11,Racing Point,12.0,2019,3,Shanghai
+9.0,RAI,7,Alfa Romeo Racing,13.0,2019,3,Shanghai
+10.0,ALB,23,Toro Rosso,0.0,2019,3,Shanghai
+11.0,GRO,8,Haas F1 Team,10.0,2019,3,Shanghai
+12.0,STR,18,Racing Point,16.0,2019,3,Shanghai
+13.0,MAG,20,Haas F1 Team,9.0,2019,3,Shanghai
+14.0,SAI,55,McLaren,14.0,2019,3,Shanghai
+15.0,GIO,99,Alfa Romeo Racing,19.0,2019,3,Shanghai
+16.0,RUS,63,Williams,17.0,2019,3,Shanghai
+17.0,KUB,88,Williams,18.0,2019,3,Shanghai
+18.0,NOR,4,McLaren,15.0,2019,3,Shanghai
+19.0,KVY,26,Toro Rosso,11.0,2019,3,Shanghai
+20.0,HUL,27,Renault,8.0,2019,3,Shanghai
+1.0,BOT,77,Mercedes,1.0,2019,4,Baku
+2.0,HAM,44,Mercedes,2.0,2019,4,Baku
+3.0,VET,5,Ferrari,3.0,2019,4,Baku
+4.0,VER,33,Red Bull Racing,4.0,2019,4,Baku
+5.0,LEC,16,Ferrari,8.0,2019,4,Baku
+6.0,PER,11,Racing Point,5.0,2019,4,Baku
+7.0,SAI,55,McLaren,9.0,2019,4,Baku
+8.0,NOR,4,McLaren,7.0,2019,4,Baku
+9.0,STR,18,Racing Point,13.0,2019,4,Baku
+10.0,RAI,7,Alfa Romeo Racing,0.0,2019,4,Baku
+11.0,ALB,23,Toro Rosso,11.0,2019,4,Baku
+12.0,GIO,99,Alfa Romeo Racing,17.0,2019,4,Baku
+13.0,MAG,20,Haas F1 Team,12.0,2019,4,Baku
+14.0,HUL,27,Renault,15.0,2019,4,Baku
+15.0,RUS,63,Williams,16.0,2019,4,Baku
+16.0,KUB,88,Williams,0.0,2019,4,Baku
+17.0,GAS,10,Red Bull Racing,0.0,2019,4,Baku
+18.0,GRO,8,Haas F1 Team,14.0,2019,4,Baku
+19.0,KVY,26,Toro Rosso,6.0,2019,4,Baku
+20.0,RIC,3,Renault,10.0,2019,4,Baku
+1.0,HAM,44,Mercedes,2.0,2019,5,Barcelona
+2.0,BOT,77,Mercedes,1.0,2019,5,Barcelona
+3.0,VER,33,Red Bull Racing,4.0,2019,5,Barcelona
+4.0,VET,5,Ferrari,3.0,2019,5,Barcelona
+5.0,LEC,16,Ferrari,5.0,2019,5,Barcelona
+6.0,GAS,10,Red Bull Racing,6.0,2019,5,Barcelona
+7.0,MAG,20,Haas F1 Team,8.0,2019,5,Barcelona
+8.0,SAI,55,McLaren,12.0,2019,5,Barcelona
+9.0,KVY,26,Toro Rosso,9.0,2019,5,Barcelona
+10.0,GRO,8,Haas F1 Team,7.0,2019,5,Barcelona
+11.0,ALB,23,Toro Rosso,11.0,2019,5,Barcelona
+12.0,RIC,3,Renault,13.0,2019,5,Barcelona
+13.0,HUL,27,Renault,0.0,2019,5,Barcelona
+14.0,RAI,7,Alfa Romeo Racing,14.0,2019,5,Barcelona
+15.0,PER,11,Racing Point,15.0,2019,5,Barcelona
+16.0,GIO,99,Alfa Romeo Racing,18.0,2019,5,Barcelona
+17.0,RUS,63,Williams,19.0,2019,5,Barcelona
+18.0,KUB,88,Williams,17.0,2019,5,Barcelona
+19.0,STR,18,Racing Point,16.0,2019,5,Barcelona
+20.0,NOR,4,McLaren,10.0,2019,5,Barcelona
+1.0,HAM,44,Mercedes,1.0,2019,6,Monte Carlo
+2.0,VET,5,Ferrari,4.0,2019,6,Monte Carlo
+3.0,BOT,77,Mercedes,2.0,2019,6,Monte Carlo
+4.0,VER,33,Red Bull Racing,3.0,2019,6,Monte Carlo
+5.0,GAS,10,Red Bull Racing,8.0,2019,6,Monte Carlo
+6.0,SAI,55,McLaren,9.0,2019,6,Monte Carlo
+7.0,KVY,26,Toro Rosso,7.0,2019,6,Monte Carlo
+8.0,ALB,23,Toro Rosso,10.0,2019,6,Monte Carlo
+9.0,RIC,3,Renault,6.0,2019,6,Monte Carlo
+10.0,GRO,8,Haas F1 Team,13.0,2019,6,Monte Carlo
+11.0,NOR,4,McLaren,12.0,2019,6,Monte Carlo
+12.0,PER,11,Racing Point,16.0,2019,6,Monte Carlo
+13.0,HUL,27,Renault,11.0,2019,6,Monte Carlo
+14.0,MAG,20,Haas F1 Team,5.0,2019,6,Monte Carlo
+15.0,RUS,63,Williams,19.0,2019,6,Monte Carlo
+16.0,STR,18,Racing Point,17.0,2019,6,Monte Carlo
+17.0,RAI,7,Alfa Romeo Racing,14.0,2019,6,Monte Carlo
+18.0,KUB,88,Williams,20.0,2019,6,Monte Carlo
+19.0,GIO,99,Alfa Romeo Racing,18.0,2019,6,Monte Carlo
+20.0,LEC,16,Ferrari,15.0,2019,6,Monte Carlo
+1.0,HAM,44,Mercedes,2.0,2019,7,Montréal
+2.0,VET,5,Ferrari,1.0,2019,7,Montréal
+3.0,LEC,16,Ferrari,3.0,2019,7,Montréal
+4.0,BOT,77,Mercedes,6.0,2019,7,Montréal
+5.0,VER,33,Red Bull Racing,9.0,2019,7,Montréal
+6.0,RIC,3,Renault,4.0,2019,7,Montréal
+7.0,HUL,27,Renault,7.0,2019,7,Montréal
+8.0,GAS,10,Red Bull Racing,5.0,2019,7,Montréal
+9.0,STR,18,Racing Point,17.0,2019,7,Montréal
+10.0,KVY,26,Toro Rosso,10.0,2019,7,Montréal
+11.0,SAI,55,McLaren,11.0,2019,7,Montréal
+12.0,PER,11,Racing Point,15.0,2019,7,Montréal
+13.0,GIO,99,Alfa Romeo Racing,12.0,2019,7,Montréal
+14.0,GRO,8,Haas F1 Team,14.0,2019,7,Montréal
+15.0,RAI,7,Alfa Romeo Racing,16.0,2019,7,Montréal
+16.0,RUS,63,Williams,18.0,2019,7,Montréal
+17.0,MAG,20,Haas F1 Team,0.0,2019,7,Montréal
+18.0,KUB,88,Williams,19.0,2019,7,Montréal
+19.0,ALB,23,Toro Rosso,13.0,2019,7,Montréal
+20.0,NOR,4,McLaren,8.0,2019,7,Montréal
+1.0,HAM,44,Mercedes,1.0,2019,8,Le Castellet
+2.0,BOT,77,Mercedes,2.0,2019,8,Le Castellet
+3.0,LEC,16,Ferrari,3.0,2019,8,Le Castellet
+4.0,VER,33,Red Bull Racing,4.0,2019,8,Le Castellet
+5.0,VET,5,Ferrari,7.0,2019,8,Le Castellet
+6.0,SAI,55,McLaren,6.0,2019,8,Le Castellet
+7.0,RAI,7,Alfa Romeo Racing,12.0,2019,8,Le Castellet
+8.0,HUL,27,Renault,13.0,2019,8,Le Castellet
+9.0,NOR,4,McLaren,5.0,2019,8,Le Castellet
+10.0,GAS,10,Red Bull Racing,9.0,2019,8,Le Castellet
+11.0,RIC,3,Renault,8.0,2019,8,Le Castellet
+12.0,PER,11,Racing Point,14.0,2019,8,Le Castellet
+13.0,STR,18,Racing Point,17.0,2019,8,Le Castellet
+14.0,KVY,26,Toro Rosso,19.0,2019,8,Le Castellet
+15.0,ALB,23,Toro Rosso,11.0,2019,8,Le Castellet
+16.0,GIO,99,Alfa Romeo Racing,10.0,2019,8,Le Castellet
+17.0,MAG,20,Haas F1 Team,15.0,2019,8,Le Castellet
+18.0,KUB,88,Williams,18.0,2019,8,Le Castellet
+19.0,RUS,63,Williams,20.0,2019,8,Le Castellet
+20.0,GRO,8,Haas F1 Team,16.0,2019,8,Le Castellet
+1.0,VER,33,Red Bull Racing,2.0,2019,9,Spielberg
+2.0,LEC,16,Ferrari,1.0,2019,9,Spielberg
+3.0,BOT,77,Mercedes,3.0,2019,9,Spielberg
+4.0,VET,5,Ferrari,9.0,2019,9,Spielberg
+5.0,HAM,44,Mercedes,4.0,2019,9,Spielberg
+6.0,NOR,4,McLaren,5.0,2019,9,Spielberg
+7.0,GAS,10,Red Bull Racing,8.0,2019,9,Spielberg
+8.0,SAI,55,McLaren,19.0,2019,9,Spielberg
+9.0,RAI,7,Alfa Romeo Racing,6.0,2019,9,Spielberg
+10.0,GIO,99,Alfa Romeo Racing,7.0,2019,9,Spielberg
+11.0,PER,11,Racing Point,13.0,2019,9,Spielberg
+12.0,RIC,3,Renault,12.0,2019,9,Spielberg
+13.0,HUL,27,Renault,15.0,2019,9,Spielberg
+14.0,STR,18,Racing Point,14.0,2019,9,Spielberg
+15.0,ALB,23,Toro Rosso,18.0,2019,9,Spielberg
+16.0,GRO,8,Haas F1 Team,11.0,2019,9,Spielberg
+17.0,KVY,26,Toro Rosso,16.0,2019,9,Spielberg
+18.0,RUS,63,Williams,0.0,2019,9,Spielberg
+19.0,MAG,20,Haas F1 Team,10.0,2019,9,Spielberg
+20.0,KUB,88,Williams,17.0,2019,9,Spielberg
+1.0,HAM,44,Mercedes,2.0,2019,10,Silverstone
+2.0,BOT,77,Mercedes,1.0,2019,10,Silverstone
+3.0,LEC,16,Ferrari,3.0,2019,10,Silverstone
+4.0,GAS,10,Red Bull Racing,5.0,2019,10,Silverstone
+5.0,VER,33,Red Bull Racing,4.0,2019,10,Silverstone
+6.0,SAI,55,McLaren,13.0,2019,10,Silverstone
+7.0,RIC,3,Renault,7.0,2019,10,Silverstone
+8.0,RAI,7,Alfa Romeo Racing,12.0,2019,10,Silverstone
+9.0,KVY,26,Toro Rosso,17.0,2019,10,Silverstone
+10.0,HUL,27,Renault,10.0,2019,10,Silverstone
+11.0,NOR,4,McLaren,8.0,2019,10,Silverstone
+12.0,ALB,23,Toro Rosso,9.0,2019,10,Silverstone
+13.0,STR,18,Racing Point,18.0,2019,10,Silverstone
+14.0,RUS,63,Williams,19.0,2019,10,Silverstone
+15.0,KUB,88,Williams,20.0,2019,10,Silverstone
+16.0,VET,5,Ferrari,6.0,2019,10,Silverstone
+17.0,PER,11,Racing Point,15.0,2019,10,Silverstone
+18.0,GIO,99,Alfa Romeo Racing,11.0,2019,10,Silverstone
+19.0,GRO,8,Haas F1 Team,14.0,2019,10,Silverstone
+20.0,MAG,20,Haas F1 Team,16.0,2019,10,Silverstone
+1.0,VER,33,Red Bull Racing,2.0,2019,11,Hockenheim
+2.0,VET,5,Ferrari,20.0,2019,11,Hockenheim
+3.0,KVY,26,Toro Rosso,14.0,2019,11,Hockenheim
+4.0,STR,18,Racing Point,15.0,2019,11,Hockenheim
+5.0,SAI,55,McLaren,7.0,2019,11,Hockenheim
+6.0,ALB,23,Toro Rosso,16.0,2019,11,Hockenheim
+7.0,GRO,8,Haas F1 Team,6.0,2019,11,Hockenheim
+8.0,MAG,20,Haas F1 Team,12.0,2019,11,Hockenheim
+9.0,HAM,44,Mercedes,1.0,2019,11,Hockenheim
+10.0,KUB,88,Williams,18.0,2019,11,Hockenheim
+11.0,RUS,63,Williams,17.0,2019,11,Hockenheim
+12.0,RAI,7,Alfa Romeo Racing,5.0,2019,11,Hockenheim
+13.0,GIO,99,Alfa Romeo Racing,11.0,2019,11,Hockenheim
+14.0,GAS,10,Red Bull Racing,4.0,2019,11,Hockenheim
+15.0,BOT,77,Mercedes,3.0,2019,11,Hockenheim
+16.0,HUL,27,Renault,9.0,2019,11,Hockenheim
+17.0,LEC,16,Ferrari,10.0,2019,11,Hockenheim
+18.0,NOR,4,McLaren,19.0,2019,11,Hockenheim
+19.0,RIC,3,Renault,13.0,2019,11,Hockenheim
+20.0,PER,11,Racing Point,8.0,2019,11,Hockenheim
+1.0,HAM,44,Mercedes,3.0,2019,12,Budapest
+2.0,VER,33,Red Bull Racing,1.0,2019,12,Budapest
+3.0,VET,5,Ferrari,5.0,2019,12,Budapest
+4.0,LEC,16,Ferrari,4.0,2019,12,Budapest
+5.0,SAI,55,McLaren,8.0,2019,12,Budapest
+6.0,GAS,10,Red Bull Racing,6.0,2019,12,Budapest
+7.0,RAI,7,Alfa Romeo Racing,10.0,2019,12,Budapest
+8.0,BOT,77,Mercedes,2.0,2019,12,Budapest
+9.0,NOR,4,McLaren,7.0,2019,12,Budapest
+10.0,ALB,23,Toro Rosso,12.0,2019,12,Budapest
+11.0,PER,11,Racing Point,16.0,2019,12,Budapest
+12.0,HUL,27,Renault,11.0,2019,12,Budapest
+13.0,MAG,20,Haas F1 Team,14.0,2019,12,Budapest
+14.0,RIC,3,Renault,20.0,2019,12,Budapest
+15.0,KVY,26,Toro Rosso,13.0,2019,12,Budapest
+16.0,RUS,63,Williams,15.0,2019,12,Budapest
+17.0,STR,18,Racing Point,18.0,2019,12,Budapest
+18.0,GIO,99,Alfa Romeo Racing,17.0,2019,12,Budapest
+19.0,KUB,88,Williams,19.0,2019,12,Budapest
+20.0,GRO,8,Haas F1 Team,9.0,2019,12,Budapest
+1.0,LEC,16,Ferrari,1.0,2019,13,Spa-Francorchamps
+2.0,HAM,44,Mercedes,3.0,2019,13,Spa-Francorchamps
+3.0,BOT,77,Mercedes,4.0,2019,13,Spa-Francorchamps
+4.0,VET,5,Ferrari,2.0,2019,13,Spa-Francorchamps
+5.0,ALB,23,Red Bull Racing,17.0,2019,13,Spa-Francorchamps
+6.0,PER,11,Racing Point,7.0,2019,13,Spa-Francorchamps
+7.0,KVY,26,Toro Rosso,19.0,2019,13,Spa-Francorchamps
+8.0,HUL,27,Renault,12.0,2019,13,Spa-Francorchamps
+9.0,GAS,10,Toro Rosso,13.0,2019,13,Spa-Francorchamps
+10.0,STR,18,Racing Point,16.0,2019,13,Spa-Francorchamps
+11.0,NOR,4,McLaren,11.0,2019,13,Spa-Francorchamps
+12.0,MAG,20,Haas F1 Team,8.0,2019,13,Spa-Francorchamps
+13.0,GRO,8,Haas F1 Team,9.0,2019,13,Spa-Francorchamps
+14.0,RIC,3,Renault,10.0,2019,13,Spa-Francorchamps
+15.0,RUS,63,Williams,14.0,2019,13,Spa-Francorchamps
+16.0,RAI,7,Alfa Romeo Racing,6.0,2019,13,Spa-Francorchamps
+17.0,KUB,88,Williams,0.0,2019,13,Spa-Francorchamps
+18.0,GIO,99,Alfa Romeo Racing,18.0,2019,13,Spa-Francorchamps
+19.0,SAI,55,McLaren,15.0,2019,13,Spa-Francorchamps
+20.0,VER,33,Red Bull Racing,5.0,2019,13,Spa-Francorchamps
+1.0,LEC,16,Ferrari,1.0,2019,14,Monza
+2.0,BOT,77,Mercedes,3.0,2019,14,Monza
+3.0,HAM,44,Mercedes,2.0,2019,14,Monza
+4.0,RIC,3,Renault,5.0,2019,14,Monza
+5.0,HUL,27,Renault,6.0,2019,14,Monza
+6.0,ALB,23,Red Bull Racing,8.0,2019,14,Monza
+7.0,PER,11,Racing Point,18.0,2019,14,Monza
+8.0,VER,33,Red Bull Racing,19.0,2019,14,Monza
+9.0,GIO,99,Alfa Romeo Racing,10.0,2019,14,Monza
+10.0,NOR,4,McLaren,16.0,2019,14,Monza
+11.0,GAS,10,Toro Rosso,17.0,2019,14,Monza
+12.0,STR,18,Racing Point,9.0,2019,14,Monza
+13.0,VET,5,Ferrari,4.0,2019,14,Monza
+14.0,RUS,63,Williams,14.0,2019,14,Monza
+15.0,RAI,7,Alfa Romeo Racing,0.0,2019,14,Monza
+16.0,GRO,8,Haas F1 Team,13.0,2019,14,Monza
+17.0,KUB,88,Williams,15.0,2019,14,Monza
+18.0,MAG,20,Haas F1 Team,11.0,2019,14,Monza
+19.0,KVY,26,Toro Rosso,12.0,2019,14,Monza
+20.0,SAI,55,McLaren,7.0,2019,14,Monza
+1.0,VET,5,Ferrari,3.0,2019,15,Singapore
+2.0,LEC,16,Ferrari,1.0,2019,15,Singapore
+3.0,VER,33,Red Bull Racing,4.0,2019,15,Singapore
+4.0,HAM,44,Mercedes,2.0,2019,15,Singapore
+5.0,BOT,77,Mercedes,5.0,2019,15,Singapore
+6.0,ALB,23,Red Bull Racing,6.0,2019,15,Singapore
+7.0,NOR,4,McLaren,9.0,2019,15,Singapore
+8.0,GAS,10,Toro Rosso,11.0,2019,15,Singapore
+9.0,HUL,27,Renault,8.0,2019,15,Singapore
+10.0,GIO,99,Alfa Romeo Racing,10.0,2019,15,Singapore
+11.0,GRO,8,Haas F1 Team,17.0,2019,15,Singapore
+12.0,SAI,55,McLaren,7.0,2019,15,Singapore
+13.0,STR,18,Racing Point,16.0,2019,15,Singapore
+14.0,RIC,3,Renault,20.0,2019,15,Singapore
+15.0,KVY,26,Toro Rosso,14.0,2019,15,Singapore
+16.0,KUB,88,Williams,19.0,2019,15,Singapore
+17.0,MAG,20,Haas F1 Team,13.0,2019,15,Singapore
+18.0,RAI,7,Alfa Romeo Racing,12.0,2019,15,Singapore
+19.0,PER,11,Racing Point,15.0,2019,15,Singapore
+20.0,RUS,63,Williams,18.0,2019,15,Singapore
+1.0,HAM,44,Mercedes,2.0,2019,16,Sochi
+2.0,BOT,77,Mercedes,4.0,2019,16,Sochi
+3.0,LEC,16,Ferrari,1.0,2019,16,Sochi
+4.0,VER,33,Red Bull Racing,9.0,2019,16,Sochi
+5.0,ALB,23,Red Bull Racing,0.0,2019,16,Sochi
+6.0,SAI,55,McLaren,5.0,2019,16,Sochi
+7.0,PER,11,Racing Point,11.0,2019,16,Sochi
+8.0,NOR,4,McLaren,7.0,2019,16,Sochi
+9.0,MAG,20,Haas F1 Team,13.0,2019,16,Sochi
+10.0,HUL,27,Renault,6.0,2019,16,Sochi
+11.0,STR,18,Racing Point,14.0,2019,16,Sochi
+12.0,KVY,26,Toro Rosso,19.0,2019,16,Sochi
+13.0,RAI,7,Alfa Romeo Racing,15.0,2019,16,Sochi
+14.0,GAS,10,Toro Rosso,16.0,2019,16,Sochi
+15.0,GIO,99,Alfa Romeo Racing,12.0,2019,16,Sochi
+16.0,KUB,88,Williams,18.0,2019,16,Sochi
+17.0,RUS,63,Williams,17.0,2019,16,Sochi
+18.0,VET,5,Ferrari,3.0,2019,16,Sochi
+19.0,RIC,3,Renault,10.0,2019,16,Sochi
+20.0,GRO,8,Haas F1 Team,8.0,2019,16,Sochi
+1.0,BOT,77,Mercedes,3.0,2019,17,Suzuka
+2.0,VET,5,Ferrari,1.0,2019,17,Suzuka
+3.0,HAM,44,Mercedes,4.0,2019,17,Suzuka
+4.0,ALB,23,Red Bull Racing,6.0,2019,17,Suzuka
+5.0,SAI,55,McLaren,7.0,2019,17,Suzuka
+6.0,LEC,16,Ferrari,2.0,2019,17,Suzuka
+7.0,GAS,10,Toro Rosso,9.0,2019,17,Suzuka
+8.0,PER,11,Racing Point,17.0,2019,17,Suzuka
+9.0,STR,18,Racing Point,12.0,2019,17,Suzuka
+10.0,KVY,26,Toro Rosso,14.0,2019,17,Suzuka
+11.0,NOR,4,McLaren,8.0,2019,17,Suzuka
+12.0,RAI,7,Alfa Romeo Racing,13.0,2019,17,Suzuka
+13.0,GRO,8,Haas F1 Team,10.0,2019,17,Suzuka
+14.0,GIO,99,Alfa Romeo Racing,11.0,2019,17,Suzuka
+15.0,MAG,20,Haas F1 Team,19.0,2019,17,Suzuka
+16.0,RUS,63,Williams,18.0,2019,17,Suzuka
+17.0,KUB,88,Williams,0.0,2019,17,Suzuka
+18.0,VER,33,Red Bull Racing,5.0,2019,17,Suzuka
+19.0,RIC,3,Renault,16.0,2019,17,Suzuka
+20.0,HUL,27,Renault,15.0,2019,17,Suzuka
+1.0,HAM,44,Mercedes,3.0,2019,18,Mexico City
+2.0,VET,5,Ferrari,2.0,2019,18,Mexico City
+3.0,BOT,77,Mercedes,6.0,2019,18,Mexico City
+4.0,LEC,16,Ferrari,1.0,2019,18,Mexico City
+5.0,ALB,23,Red Bull Racing,5.0,2019,18,Mexico City
+6.0,VER,33,Red Bull Racing,4.0,2019,18,Mexico City
+7.0,PER,11,Racing Point,11.0,2019,18,Mexico City
+8.0,RIC,3,Renault,13.0,2019,18,Mexico City
+9.0,GAS,10,Toro Rosso,10.0,2019,18,Mexico City
+10.0,HUL,27,Renault,12.0,2019,18,Mexico City
+11.0,KVY,26,Toro Rosso,9.0,2019,18,Mexico City
+12.0,STR,18,Racing Point,16.0,2019,18,Mexico City
+13.0,SAI,55,McLaren,7.0,2019,18,Mexico City
+14.0,GIO,99,Alfa Romeo Racing,15.0,2019,18,Mexico City
+15.0,MAG,20,Haas F1 Team,17.0,2019,18,Mexico City
+16.0,RUS,63,Williams,19.0,2019,18,Mexico City
+17.0,GRO,8,Haas F1 Team,18.0,2019,18,Mexico City
+18.0,KUB,88,Williams,20.0,2019,18,Mexico City
+19.0,RAI,7,Alfa Romeo Racing,14.0,2019,18,Mexico City
+20.0,NOR,4,McLaren,8.0,2019,18,Mexico City
+1.0,BOT,77,Mercedes,1.0,2019,19,Austin
+2.0,HAM,44,Mercedes,5.0,2019,19,Austin
+3.0,VER,33,Red Bull Racing,3.0,2019,19,Austin
+4.0,LEC,16,Ferrari,4.0,2019,19,Austin
+5.0,ALB,23,Red Bull Racing,6.0,2019,19,Austin
+6.0,RIC,3,Renault,9.0,2019,19,Austin
+7.0,NOR,4,McLaren,8.0,2019,19,Austin
+8.0,SAI,55,McLaren,7.0,2019,19,Austin
+9.0,HUL,27,Renault,11.0,2019,19,Austin
+10.0,PER,11,Racing Point,0.0,2019,19,Austin
+11.0,RAI,7,Alfa Romeo Racing,17.0,2019,19,Austin
+12.0,KVY,26,Toro Rosso,13.0,2019,19,Austin
+13.0,STR,18,Racing Point,14.0,2019,19,Austin
+14.0,GIO,99,Alfa Romeo Racing,16.0,2019,19,Austin
+15.0,GRO,8,Haas F1 Team,15.0,2019,19,Austin
+16.0,GAS,10,Toro Rosso,10.0,2019,19,Austin
+17.0,RUS,63,Williams,18.0,2019,19,Austin
+18.0,MAG,20,Haas F1 Team,12.0,2019,19,Austin
+19.0,KUB,88,Williams,19.0,2019,19,Austin
+20.0,VET,5,Ferrari,2.0,2019,19,Austin
+1.0,VER,33,Red Bull Racing,1.0,2019,20,São Paulo
+2.0,GAS,10,Toro Rosso,6.0,2019,20,São Paulo
+3.0,SAI,55,McLaren,20.0,2019,20,São Paulo
+4.0,RAI,7,Alfa Romeo Racing,8.0,2019,20,São Paulo
+5.0,GIO,99,Alfa Romeo Racing,12.0,2019,20,São Paulo
+6.0,RIC,3,Renault,11.0,2019,20,São Paulo
+7.0,HAM,44,Mercedes,3.0,2019,20,São Paulo
+8.0,NOR,4,McLaren,10.0,2019,20,São Paulo
+9.0,PER,11,Racing Point,15.0,2019,20,São Paulo
+10.0,KVY,26,Toro Rosso,16.0,2019,20,São Paulo
+11.0,MAG,20,Haas F1 Team,9.0,2019,20,São Paulo
+12.0,RUS,63,Williams,18.0,2019,20,São Paulo
+13.0,GRO,8,Haas F1 Team,7.0,2019,20,São Paulo
+14.0,ALB,23,Red Bull Racing,5.0,2019,20,São Paulo
+15.0,HUL,27,Renault,13.0,2019,20,São Paulo
+16.0,KUB,88,Williams,19.0,2019,20,São Paulo
+17.0,VET,5,Ferrari,2.0,2019,20,São Paulo
+18.0,LEC,16,Ferrari,14.0,2019,20,São Paulo
+19.0,STR,18,Racing Point,17.0,2019,20,São Paulo
+20.0,BOT,77,Mercedes,4.0,2019,20,São Paulo
+1.0,HAM,44,Mercedes,1.0,2019,21,Yas Island
+2.0,VER,33,Red Bull Racing,2.0,2019,21,Yas Island
+3.0,LEC,16,Ferrari,3.0,2019,21,Yas Island
+4.0,BOT,77,Mercedes,20.0,2019,21,Yas Island
+5.0,VET,5,Ferrari,4.0,2019,21,Yas Island
+6.0,ALB,23,Red Bull Racing,5.0,2019,21,Yas Island
+7.0,PER,11,Racing Point,10.0,2019,21,Yas Island
+8.0,NOR,4,McLaren,6.0,2019,21,Yas Island
+9.0,KVY,26,Toro Rosso,13.0,2019,21,Yas Island
+10.0,SAI,55,McLaren,8.0,2019,21,Yas Island
+11.0,RIC,3,Renault,7.0,2019,21,Yas Island
+12.0,HUL,27,Renault,9.0,2019,21,Yas Island
+13.0,RAI,7,Alfa Romeo Racing,17.0,2019,21,Yas Island
+14.0,MAG,20,Haas F1 Team,14.0,2019,21,Yas Island
+15.0,GRO,8,Haas F1 Team,15.0,2019,21,Yas Island
+16.0,GIO,99,Alfa Romeo Racing,16.0,2019,21,Yas Island
+17.0,RUS,63,Williams,18.0,2019,21,Yas Island
+18.0,GAS,10,Toro Rosso,11.0,2019,21,Yas Island
+19.0,KUB,88,Williams,19.0,2019,21,Yas Island
+20.0,STR,18,Racing Point,12.0,2019,21,Yas Island

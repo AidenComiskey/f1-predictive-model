@@ -1,0 +1,441 @@
+Position,Abbreviation,DriverNumber,TeamName,GridPosition,Year,Round,Circuit
+1.0,LEC,16,Ferrari,1.0,2022,1,Sakhir
+2.0,SAI,55,Ferrari,3.0,2022,1,Sakhir
+3.0,HAM,44,Mercedes,5.0,2022,1,Sakhir
+4.0,RUS,63,Mercedes,9.0,2022,1,Sakhir
+5.0,MAG,20,Haas F1 Team,7.0,2022,1,Sakhir
+6.0,BOT,77,Alfa Romeo,6.0,2022,1,Sakhir
+7.0,OCO,31,Alpine,11.0,2022,1,Sakhir
+8.0,TSU,22,AlphaTauri,16.0,2022,1,Sakhir
+9.0,ALO,14,Alpine,8.0,2022,1,Sakhir
+10.0,ZHO,24,Alfa Romeo,15.0,2022,1,Sakhir
+11.0,MSC,47,Haas F1 Team,12.0,2022,1,Sakhir
+12.0,STR,18,Aston Martin,19.0,2022,1,Sakhir
+13.0,ALB,23,Williams,14.0,2022,1,Sakhir
+14.0,RIC,3,McLaren,18.0,2022,1,Sakhir
+15.0,NOR,4,McLaren,13.0,2022,1,Sakhir
+16.0,LAT,6,Williams,20.0,2022,1,Sakhir
+17.0,HUL,27,Aston Martin,17.0,2022,1,Sakhir
+18.0,PER,11,Red Bull Racing,4.0,2022,1,Sakhir
+19.0,VER,1,Red Bull Racing,2.0,2022,1,Sakhir
+20.0,GAS,10,AlphaTauri,10.0,2022,1,Sakhir
+1.0,VER,1,Red Bull Racing,4.0,2022,2,Jeddah
+2.0,LEC,16,Ferrari,2.0,2022,2,Jeddah
+3.0,SAI,55,Ferrari,3.0,2022,2,Jeddah
+4.0,PER,11,Red Bull Racing,1.0,2022,2,Jeddah
+5.0,RUS,63,Mercedes,6.0,2022,2,Jeddah
+6.0,OCO,31,Alpine,5.0,2022,2,Jeddah
+7.0,NOR,4,McLaren,11.0,2022,2,Jeddah
+8.0,GAS,10,AlphaTauri,9.0,2022,2,Jeddah
+9.0,MAG,20,Haas F1 Team,10.0,2022,2,Jeddah
+10.0,HAM,44,Mercedes,15.0,2022,2,Jeddah
+11.0,ZHO,24,Alfa Romeo,12.0,2022,2,Jeddah
+12.0,HUL,27,Aston Martin,17.0,2022,2,Jeddah
+13.0,STR,18,Aston Martin,13.0,2022,2,Jeddah
+14.0,ALB,23,Williams,16.0,2022,2,Jeddah
+15.0,BOT,77,Alfa Romeo,8.0,2022,2,Jeddah
+16.0,ALO,14,Alpine,7.0,2022,2,Jeddah
+17.0,RIC,3,McLaren,14.0,2022,2,Jeddah
+18.0,LAT,6,Williams,18.0,2022,2,Jeddah
+19.0,TSU,22,AlphaTauri,19.0,2022,2,Jeddah
+,MSC,47,Haas F1 Team,,2022,2,Jeddah
+1.0,LEC,16,Ferrari,1.0,2022,3,Melbourne
+2.0,PER,11,Red Bull Racing,3.0,2022,3,Melbourne
+3.0,RUS,63,Mercedes,6.0,2022,3,Melbourne
+4.0,HAM,44,Mercedes,5.0,2022,3,Melbourne
+5.0,NOR,4,McLaren,4.0,2022,3,Melbourne
+6.0,RIC,3,McLaren,7.0,2022,3,Melbourne
+7.0,OCO,31,Alpine,8.0,2022,3,Melbourne
+8.0,BOT,77,Alfa Romeo,12.0,2022,3,Melbourne
+9.0,GAS,10,AlphaTauri,11.0,2022,3,Melbourne
+10.0,ALB,23,Williams,20.0,2022,3,Melbourne
+11.0,ZHO,24,Alfa Romeo,14.0,2022,3,Melbourne
+12.0,STR,18,Aston Martin,19.0,2022,3,Melbourne
+13.0,MSC,47,Haas F1 Team,15.0,2022,3,Melbourne
+14.0,MAG,20,Haas F1 Team,16.0,2022,3,Melbourne
+15.0,TSU,22,AlphaTauri,13.0,2022,3,Melbourne
+16.0,LAT,6,Williams,18.0,2022,3,Melbourne
+17.0,ALO,14,Alpine,10.0,2022,3,Melbourne
+18.0,VER,1,Red Bull Racing,2.0,2022,3,Melbourne
+19.0,VET,5,Aston Martin,17.0,2022,3,Melbourne
+20.0,SAI,55,Ferrari,9.0,2022,3,Melbourne
+1.0,VER,1,Red Bull Racing,1.0,2022,4,Imola
+2.0,PER,11,Red Bull Racing,3.0,2022,4,Imola
+3.0,NOR,4,McLaren,5.0,2022,4,Imola
+4.0,RUS,63,Mercedes,11.0,2022,4,Imola
+5.0,BOT,77,Alfa Romeo,7.0,2022,4,Imola
+6.0,LEC,16,Ferrari,2.0,2022,4,Imola
+7.0,TSU,22,AlphaTauri,12.0,2022,4,Imola
+8.0,VET,5,Aston Martin,13.0,2022,4,Imola
+9.0,MAG,20,Haas F1 Team,8.0,2022,4,Imola
+10.0,STR,18,Aston Martin,15.0,2022,4,Imola
+11.0,ALB,23,Williams,18.0,2022,4,Imola
+12.0,GAS,10,AlphaTauri,17.0,2022,4,Imola
+13.0,HAM,44,Mercedes,14.0,2022,4,Imola
+14.0,OCO,31,Alpine,16.0,2022,4,Imola
+15.0,ZHO,24,Alfa Romeo,0.0,2022,4,Imola
+16.0,LAT,6,Williams,19.0,2022,4,Imola
+17.0,MSC,47,Haas F1 Team,10.0,2022,4,Imola
+18.0,RIC,3,McLaren,6.0,2022,4,Imola
+19.0,ALO,14,Alpine,9.0,2022,4,Imola
+20.0,SAI,55,Ferrari,4.0,2022,4,Imola
+1.0,VER,1,Red Bull Racing,3.0,2022,5,Miami
+2.0,LEC,16,Ferrari,1.0,2022,5,Miami
+3.0,SAI,55,Ferrari,2.0,2022,5,Miami
+4.0,PER,11,Red Bull Racing,4.0,2022,5,Miami
+5.0,RUS,63,Mercedes,12.0,2022,5,Miami
+6.0,HAM,44,Mercedes,6.0,2022,5,Miami
+7.0,BOT,77,Alfa Romeo,5.0,2022,5,Miami
+8.0,OCO,31,Alpine,20.0,2022,5,Miami
+9.0,ALB,23,Williams,18.0,2022,5,Miami
+10.0,STR,18,Aston Martin,0.0,2022,5,Miami
+11.0,ALO,14,Alpine,11.0,2022,5,Miami
+12.0,TSU,22,AlphaTauri,9.0,2022,5,Miami
+13.0,RIC,3,McLaren,14.0,2022,5,Miami
+14.0,LAT,6,Williams,19.0,2022,5,Miami
+15.0,MSC,47,Haas F1 Team,15.0,2022,5,Miami
+16.0,MAG,20,Haas F1 Team,16.0,2022,5,Miami
+17.0,VET,5,Aston Martin,0.0,2022,5,Miami
+18.0,GAS,10,AlphaTauri,7.0,2022,5,Miami
+19.0,NOR,4,McLaren,8.0,2022,5,Miami
+20.0,ZHO,24,Alfa Romeo,17.0,2022,5,Miami
+1.0,VER,1,Red Bull Racing,2.0,2022,6,Barcelona
+2.0,PER,11,Red Bull Racing,5.0,2022,6,Barcelona
+3.0,RUS,63,Mercedes,4.0,2022,6,Barcelona
+4.0,SAI,55,Ferrari,3.0,2022,6,Barcelona
+5.0,HAM,44,Mercedes,6.0,2022,6,Barcelona
+6.0,BOT,77,Alfa Romeo,7.0,2022,6,Barcelona
+7.0,OCO,31,Alpine,12.0,2022,6,Barcelona
+8.0,NOR,4,McLaren,11.0,2022,6,Barcelona
+9.0,ALO,14,Alpine,20.0,2022,6,Barcelona
+10.0,TSU,22,AlphaTauri,13.0,2022,6,Barcelona
+11.0,VET,5,Aston Martin,16.0,2022,6,Barcelona
+12.0,RIC,3,McLaren,9.0,2022,6,Barcelona
+13.0,GAS,10,AlphaTauri,14.0,2022,6,Barcelona
+14.0,MSC,47,Haas F1 Team,10.0,2022,6,Barcelona
+15.0,STR,18,Aston Martin,17.0,2022,6,Barcelona
+16.0,LAT,6,Williams,19.0,2022,6,Barcelona
+17.0,MAG,20,Haas F1 Team,8.0,2022,6,Barcelona
+18.0,ALB,23,Williams,18.0,2022,6,Barcelona
+19.0,ZHO,24,Alfa Romeo,15.0,2022,6,Barcelona
+20.0,LEC,16,Ferrari,1.0,2022,6,Barcelona
+1.0,PER,11,Red Bull Racing,3.0,2022,7,Monaco
+2.0,SAI,55,Ferrari,2.0,2022,7,Monaco
+3.0,VER,1,Red Bull Racing,4.0,2022,7,Monaco
+4.0,LEC,16,Ferrari,1.0,2022,7,Monaco
+5.0,RUS,63,Mercedes,6.0,2022,7,Monaco
+6.0,NOR,4,McLaren,5.0,2022,7,Monaco
+7.0,ALO,14,Alpine,7.0,2022,7,Monaco
+8.0,HAM,44,Mercedes,8.0,2022,7,Monaco
+9.0,BOT,77,Alfa Romeo,12.0,2022,7,Monaco
+10.0,VET,5,Aston Martin,9.0,2022,7,Monaco
+11.0,GAS,10,AlphaTauri,17.0,2022,7,Monaco
+12.0,OCO,31,Alpine,10.0,2022,7,Monaco
+13.0,RIC,3,McLaren,14.0,2022,7,Monaco
+14.0,STR,18,Aston Martin,18.0,2022,7,Monaco
+15.0,LAT,6,Williams,19.0,2022,7,Monaco
+16.0,ZHO,24,Alfa Romeo,20.0,2022,7,Monaco
+17.0,TSU,22,AlphaTauri,11.0,2022,7,Monaco
+18.0,ALB,23,Williams,16.0,2022,7,Monaco
+19.0,MSC,47,Haas F1 Team,15.0,2022,7,Monaco
+20.0,MAG,20,Haas F1 Team,13.0,2022,7,Monaco
+1.0,VER,1,Red Bull Racing,3.0,2022,8,Baku
+2.0,PER,11,Red Bull Racing,2.0,2022,8,Baku
+3.0,RUS,63,Mercedes,5.0,2022,8,Baku
+4.0,HAM,44,Mercedes,7.0,2022,8,Baku
+5.0,GAS,10,AlphaTauri,6.0,2022,8,Baku
+6.0,VET,5,Aston Martin,9.0,2022,8,Baku
+7.0,ALO,14,Alpine,10.0,2022,8,Baku
+8.0,RIC,3,McLaren,12.0,2022,8,Baku
+9.0,NOR,4,McLaren,11.0,2022,8,Baku
+10.0,OCO,31,Alpine,13.0,2022,8,Baku
+11.0,BOT,77,Alfa Romeo,15.0,2022,8,Baku
+12.0,ALB,23,Williams,17.0,2022,8,Baku
+13.0,TSU,22,AlphaTauri,8.0,2022,8,Baku
+14.0,MSC,47,Haas F1 Team,20.0,2022,8,Baku
+15.0,LAT,6,Williams,18.0,2022,8,Baku
+16.0,STR,18,Aston Martin,19.0,2022,8,Baku
+17.0,MAG,20,Haas F1 Team,16.0,2022,8,Baku
+18.0,ZHO,24,Alfa Romeo,14.0,2022,8,Baku
+19.0,LEC,16,Ferrari,1.0,2022,8,Baku
+20.0,SAI,55,Ferrari,4.0,2022,8,Baku
+1.0,VER,1,Red Bull Racing,1.0,2022,9,Montréal
+2.0,SAI,55,Ferrari,3.0,2022,9,Montréal
+3.0,HAM,44,Mercedes,4.0,2022,9,Montréal
+4.0,RUS,63,Mercedes,8.0,2022,9,Montréal
+5.0,LEC,16,Ferrari,19.0,2022,9,Montréal
+6.0,OCO,31,Alpine,7.0,2022,9,Montréal
+7.0,BOT,77,Alfa Romeo,11.0,2022,9,Montréal
+8.0,ZHO,24,Alfa Romeo,10.0,2022,9,Montréal
+9.0,ALO,14,Alpine,2.0,2022,9,Montréal
+10.0,STR,18,Aston Martin,17.0,2022,9,Montréal
+11.0,RIC,3,McLaren,9.0,2022,9,Montréal
+12.0,VET,5,Aston Martin,16.0,2022,9,Montréal
+13.0,ALB,23,Williams,12.0,2022,9,Montréal
+14.0,GAS,10,AlphaTauri,15.0,2022,9,Montréal
+15.0,NOR,4,McLaren,14.0,2022,9,Montréal
+16.0,LAT,6,Williams,18.0,2022,9,Montréal
+17.0,MAG,20,Haas F1 Team,5.0,2022,9,Montréal
+18.0,TSU,22,AlphaTauri,20.0,2022,9,Montréal
+19.0,MSC,47,Haas F1 Team,6.0,2022,9,Montréal
+20.0,PER,11,Red Bull Racing,13.0,2022,9,Montréal
+1.0,SAI,55,Ferrari,1.0,2022,10,Silverstone
+2.0,PER,11,Red Bull Racing,4.0,2022,10,Silverstone
+3.0,HAM,44,Mercedes,5.0,2022,10,Silverstone
+4.0,LEC,16,Ferrari,3.0,2022,10,Silverstone
+5.0,ALO,14,Alpine,7.0,2022,10,Silverstone
+6.0,NOR,4,McLaren,6.0,2022,10,Silverstone
+7.0,VER,1,Red Bull Racing,2.0,2022,10,Silverstone
+8.0,MSC,47,Haas F1 Team,19.0,2022,10,Silverstone
+9.0,VET,5,Aston Martin,18.0,2022,10,Silverstone
+10.0,MAG,20,Haas F1 Team,17.0,2022,10,Silverstone
+11.0,STR,18,Aston Martin,20.0,2022,10,Silverstone
+12.0,LAT,6,Williams,10.0,2022,10,Silverstone
+13.0,RIC,3,McLaren,14.0,2022,10,Silverstone
+14.0,TSU,22,AlphaTauri,13.0,2022,10,Silverstone
+15.0,OCO,31,Alpine,15.0,2022,10,Silverstone
+16.0,GAS,10,AlphaTauri,11.0,2022,10,Silverstone
+17.0,BOT,77,Alfa Romeo,12.0,2022,10,Silverstone
+18.0,RUS,63,Mercedes,8.0,2022,10,Silverstone
+19.0,ZHO,24,Alfa Romeo,9.0,2022,10,Silverstone
+20.0,ALB,23,Williams,16.0,2022,10,Silverstone
+1.0,LEC,16,Ferrari,2.0,2022,11,Spielberg
+2.0,VER,1,Red Bull Racing,1.0,2022,11,Spielberg
+3.0,HAM,44,Mercedes,8.0,2022,11,Spielberg
+4.0,RUS,63,Mercedes,4.0,2022,11,Spielberg
+5.0,OCO,31,Alpine,6.0,2022,11,Spielberg
+6.0,MSC,47,Haas F1 Team,9.0,2022,11,Spielberg
+7.0,NOR,4,McLaren,10.0,2022,11,Spielberg
+8.0,MAG,20,Haas F1 Team,7.0,2022,11,Spielberg
+9.0,RIC,3,McLaren,11.0,2022,11,Spielberg
+10.0,ALO,14,Alpine,19.0,2022,11,Spielberg
+11.0,BOT,77,Alfa Romeo,0.0,2022,11,Spielberg
+12.0,ALB,23,Williams,15.0,2022,11,Spielberg
+13.0,STR,18,Aston Martin,12.0,2022,11,Spielberg
+14.0,ZHO,24,Alfa Romeo,13.0,2022,11,Spielberg
+15.0,GAS,10,AlphaTauri,14.0,2022,11,Spielberg
+16.0,TSU,22,AlphaTauri,16.0,2022,11,Spielberg
+17.0,VET,5,Aston Martin,18.0,2022,11,Spielberg
+18.0,SAI,55,Ferrari,3.0,2022,11,Spielberg
+19.0,LAT,6,Williams,17.0,2022,11,Spielberg
+20.0,PER,11,Red Bull Racing,5.0,2022,11,Spielberg
+1.0,VER,1,Red Bull Racing,2.0,2022,12,Le Castellet
+2.0,HAM,44,Mercedes,4.0,2022,12,Le Castellet
+3.0,RUS,63,Mercedes,6.0,2022,12,Le Castellet
+4.0,PER,11,Red Bull Racing,3.0,2022,12,Le Castellet
+5.0,SAI,55,Ferrari,19.0,2022,12,Le Castellet
+6.0,ALO,14,Alpine,7.0,2022,12,Le Castellet
+7.0,NOR,4,McLaren,5.0,2022,12,Le Castellet
+8.0,OCO,31,Alpine,10.0,2022,12,Le Castellet
+9.0,RIC,3,McLaren,9.0,2022,12,Le Castellet
+10.0,STR,18,Aston Martin,15.0,2022,12,Le Castellet
+11.0,VET,5,Aston Martin,12.0,2022,12,Le Castellet
+12.0,GAS,10,AlphaTauri,14.0,2022,12,Le Castellet
+13.0,ALB,23,Williams,13.0,2022,12,Le Castellet
+14.0,BOT,77,Alfa Romeo,11.0,2022,12,Le Castellet
+15.0,MSC,47,Haas F1 Team,17.0,2022,12,Le Castellet
+16.0,ZHO,24,Alfa Romeo,16.0,2022,12,Le Castellet
+17.0,LAT,6,Williams,18.0,2022,12,Le Castellet
+18.0,MAG,20,Haas F1 Team,20.0,2022,12,Le Castellet
+19.0,LEC,16,Ferrari,1.0,2022,12,Le Castellet
+20.0,TSU,22,AlphaTauri,8.0,2022,12,Le Castellet
+1.0,VER,1,Red Bull Racing,10.0,2022,13,Budapest
+2.0,HAM,44,Mercedes,7.0,2022,13,Budapest
+3.0,RUS,63,Mercedes,1.0,2022,13,Budapest
+4.0,SAI,55,Ferrari,2.0,2022,13,Budapest
+5.0,PER,11,Red Bull Racing,11.0,2022,13,Budapest
+6.0,LEC,16,Ferrari,3.0,2022,13,Budapest
+7.0,NOR,4,McLaren,4.0,2022,13,Budapest
+8.0,ALO,14,Alpine,6.0,2022,13,Budapest
+9.0,OCO,31,Alpine,5.0,2022,13,Budapest
+10.0,VET,5,Aston Martin,18.0,2022,13,Budapest
+11.0,STR,18,Aston Martin,14.0,2022,13,Budapest
+12.0,GAS,10,AlphaTauri,0.0,2022,13,Budapest
+13.0,ZHO,24,Alfa Romeo,12.0,2022,13,Budapest
+14.0,MSC,47,Haas F1 Team,15.0,2022,13,Budapest
+15.0,RIC,3,McLaren,9.0,2022,13,Budapest
+16.0,MAG,20,Haas F1 Team,13.0,2022,13,Budapest
+17.0,ALB,23,Williams,17.0,2022,13,Budapest
+18.0,LAT,6,Williams,19.0,2022,13,Budapest
+19.0,TSU,22,AlphaTauri,16.0,2022,13,Budapest
+20.0,BOT,77,Alfa Romeo,8.0,2022,13,Budapest
+1.0,VER,1,Red Bull Racing,14.0,2022,14,Spa-Francorchamps
+2.0,PER,11,Red Bull Racing,2.0,2022,14,Spa-Francorchamps
+3.0,SAI,55,Ferrari,1.0,2022,14,Spa-Francorchamps
+4.0,RUS,63,Mercedes,5.0,2022,14,Spa-Francorchamps
+5.0,ALO,14,Alpine,3.0,2022,14,Spa-Francorchamps
+6.0,LEC,16,Ferrari,15.0,2022,14,Spa-Francorchamps
+7.0,OCO,31,Alpine,16.0,2022,14,Spa-Francorchamps
+8.0,VET,5,Aston Martin,10.0,2022,14,Spa-Francorchamps
+9.0,GAS,10,AlphaTauri,0.0,2022,14,Spa-Francorchamps
+10.0,ALB,23,Williams,6.0,2022,14,Spa-Francorchamps
+11.0,STR,18,Aston Martin,9.0,2022,14,Spa-Francorchamps
+12.0,NOR,4,McLaren,17.0,2022,14,Spa-Francorchamps
+13.0,TSU,22,AlphaTauri,0.0,2022,14,Spa-Francorchamps
+14.0,ZHO,24,Alfa Romeo,18.0,2022,14,Spa-Francorchamps
+15.0,RIC,3,McLaren,7.0,2022,14,Spa-Francorchamps
+16.0,MAG,20,Haas F1 Team,12.0,2022,14,Spa-Francorchamps
+17.0,MSC,47,Haas F1 Team,19.0,2022,14,Spa-Francorchamps
+18.0,LAT,6,Williams,11.0,2022,14,Spa-Francorchamps
+19.0,BOT,77,Alfa Romeo,13.0,2022,14,Spa-Francorchamps
+20.0,HAM,44,Mercedes,4.0,2022,14,Spa-Francorchamps
+1.0,VER,1,Red Bull Racing,1.0,2022,15,Zandvoort
+2.0,RUS,63,Mercedes,6.0,2022,15,Zandvoort
+3.0,LEC,16,Ferrari,2.0,2022,15,Zandvoort
+4.0,HAM,44,Mercedes,4.0,2022,15,Zandvoort
+5.0,PER,11,Red Bull Racing,5.0,2022,15,Zandvoort
+6.0,ALO,14,Alpine,13.0,2022,15,Zandvoort
+7.0,NOR,4,McLaren,7.0,2022,15,Zandvoort
+8.0,SAI,55,Ferrari,3.0,2022,15,Zandvoort
+9.0,OCO,31,Alpine,12.0,2022,15,Zandvoort
+10.0,STR,18,Aston Martin,10.0,2022,15,Zandvoort
+11.0,GAS,10,AlphaTauri,11.0,2022,15,Zandvoort
+12.0,ALB,23,Williams,15.0,2022,15,Zandvoort
+13.0,MSC,47,Haas F1 Team,8.0,2022,15,Zandvoort
+14.0,VET,5,Aston Martin,19.0,2022,15,Zandvoort
+15.0,MAG,20,Haas F1 Team,18.0,2022,15,Zandvoort
+16.0,ZHO,24,Alfa Romeo,14.0,2022,15,Zandvoort
+17.0,RIC,3,McLaren,17.0,2022,15,Zandvoort
+18.0,LAT,6,Williams,20.0,2022,15,Zandvoort
+19.0,BOT,77,Alfa Romeo,16.0,2022,15,Zandvoort
+20.0,TSU,22,AlphaTauri,9.0,2022,15,Zandvoort
+1.0,VER,1,Red Bull Racing,7.0,2022,16,Monza
+2.0,LEC,16,Ferrari,1.0,2022,16,Monza
+3.0,RUS,63,Mercedes,2.0,2022,16,Monza
+4.0,SAI,55,Ferrari,18.0,2022,16,Monza
+5.0,HAM,44,Mercedes,19.0,2022,16,Monza
+6.0,PER,11,Red Bull Racing,13.0,2022,16,Monza
+7.0,NOR,4,McLaren,3.0,2022,16,Monza
+8.0,GAS,10,AlphaTauri,5.0,2022,16,Monza
+9.0,DEV,45,Williams,8.0,2022,16,Monza
+10.0,ZHO,24,Alfa Romeo,9.0,2022,16,Monza
+11.0,OCO,31,Alpine,14.0,2022,16,Monza
+12.0,MSC,47,Haas F1 Team,17.0,2022,16,Monza
+13.0,BOT,77,Alfa Romeo,15.0,2022,16,Monza
+14.0,TSU,22,AlphaTauri,20.0,2022,16,Monza
+15.0,LAT,6,Williams,10.0,2022,16,Monza
+16.0,MAG,20,Haas F1 Team,16.0,2022,16,Monza
+17.0,RIC,3,McLaren,4.0,2022,16,Monza
+18.0,STR,18,Aston Martin,12.0,2022,16,Monza
+19.0,ALO,14,Alpine,6.0,2022,16,Monza
+20.0,VET,5,Aston Martin,11.0,2022,16,Monza
+1.0,PER,11,Red Bull Racing,2.0,2022,17,Marina Bay
+2.0,LEC,16,Ferrari,1.0,2022,17,Marina Bay
+3.0,SAI,55,Ferrari,4.0,2022,17,Marina Bay
+4.0,NOR,4,McLaren,6.0,2022,17,Marina Bay
+5.0,RIC,3,McLaren,16.0,2022,17,Marina Bay
+6.0,STR,18,Aston Martin,11.0,2022,17,Marina Bay
+7.0,VER,1,Red Bull Racing,8.0,2022,17,Marina Bay
+8.0,VET,5,Aston Martin,13.0,2022,17,Marina Bay
+9.0,HAM,44,Mercedes,3.0,2022,17,Marina Bay
+10.0,GAS,10,AlphaTauri,7.0,2022,17,Marina Bay
+11.0,BOT,77,Alfa Romeo,15.0,2022,17,Marina Bay
+12.0,MAG,20,Haas F1 Team,9.0,2022,17,Marina Bay
+13.0,MSC,47,Haas F1 Team,12.0,2022,17,Marina Bay
+14.0,RUS,63,Mercedes,0.0,2022,17,Marina Bay
+15.0,TSU,22,AlphaTauri,10.0,2022,17,Marina Bay
+16.0,OCO,31,Alpine,17.0,2022,17,Marina Bay
+17.0,ALB,23,Williams,18.0,2022,17,Marina Bay
+18.0,ALO,14,Alpine,5.0,2022,17,Marina Bay
+19.0,LAT,6,Williams,19.0,2022,17,Marina Bay
+20.0,ZHO,24,Alfa Romeo,14.0,2022,17,Marina Bay
+1.0,VER,1,Red Bull Racing,1.0,2022,18,Suzuka
+2.0,PER,11,Red Bull Racing,4.0,2022,18,Suzuka
+3.0,LEC,16,Ferrari,2.0,2022,18,Suzuka
+4.0,OCO,31,Alpine,5.0,2022,18,Suzuka
+5.0,HAM,44,Mercedes,6.0,2022,18,Suzuka
+6.0,VET,5,Aston Martin,9.0,2022,18,Suzuka
+7.0,ALO,14,Alpine,7.0,2022,18,Suzuka
+8.0,RUS,63,Mercedes,8.0,2022,18,Suzuka
+9.0,LAT,6,Williams,20.0,2022,18,Suzuka
+10.0,NOR,4,McLaren,10.0,2022,18,Suzuka
+11.0,RIC,3,McLaren,11.0,2022,18,Suzuka
+12.0,STR,18,Aston Martin,19.0,2022,18,Suzuka
+13.0,TSU,22,AlphaTauri,13.0,2022,18,Suzuka
+14.0,MAG,20,Haas F1 Team,18.0,2022,18,Suzuka
+15.0,BOT,77,Alfa Romeo,12.0,2022,18,Suzuka
+16.0,ZHO,24,Alfa Romeo,14.0,2022,18,Suzuka
+17.0,MSC,47,Haas F1 Team,15.0,2022,18,Suzuka
+18.0,GAS,10,AlphaTauri,17.0,2022,18,Suzuka
+19.0,SAI,55,Ferrari,3.0,2022,18,Suzuka
+20.0,ALB,23,Williams,16.0,2022,18,Suzuka
+1.0,VER,1,Red Bull Racing,2.0,2022,19,Austin
+2.0,HAM,44,Mercedes,3.0,2022,19,Austin
+3.0,LEC,16,Ferrari,12.0,2022,19,Austin
+4.0,PER,11,Red Bull Racing,9.0,2022,19,Austin
+5.0,RUS,63,Mercedes,4.0,2022,19,Austin
+6.0,NOR,4,McLaren,6.0,2022,19,Austin
+7.0,ALO,14,Alpine,14.0,2022,19,Austin
+8.0,VET,5,Aston Martin,10.0,2022,19,Austin
+9.0,MAG,20,Haas F1 Team,13.0,2022,19,Austin
+10.0,TSU,22,AlphaTauri,19.0,2022,19,Austin
+11.0,OCO,31,Alpine,0.0,2022,19,Austin
+12.0,ZHO,24,Alfa Romeo,18.0,2022,19,Austin
+13.0,ALB,23,Williams,8.0,2022,19,Austin
+14.0,GAS,10,AlphaTauri,11.0,2022,19,Austin
+15.0,MSC,47,Haas F1 Team,16.0,2022,19,Austin
+16.0,RIC,3,McLaren,15.0,2022,19,Austin
+17.0,LAT,6,Williams,17.0,2022,19,Austin
+18.0,STR,18,Aston Martin,5.0,2022,19,Austin
+19.0,BOT,77,Alfa Romeo,7.0,2022,19,Austin
+20.0,SAI,55,Ferrari,1.0,2022,19,Austin
+1.0,VER,1,Red Bull Racing,1.0,2022,20,Mexico City
+2.0,HAM,44,Mercedes,3.0,2022,20,Mexico City
+3.0,PER,11,Red Bull Racing,4.0,2022,20,Mexico City
+4.0,RUS,63,Mercedes,2.0,2022,20,Mexico City
+5.0,SAI,55,Ferrari,5.0,2022,20,Mexico City
+6.0,LEC,16,Ferrari,7.0,2022,20,Mexico City
+7.0,RIC,3,McLaren,11.0,2022,20,Mexico City
+8.0,OCO,31,Alpine,10.0,2022,20,Mexico City
+9.0,NOR,4,McLaren,8.0,2022,20,Mexico City
+10.0,BOT,77,Alfa Romeo,6.0,2022,20,Mexico City
+11.0,GAS,10,AlphaTauri,14.0,2022,20,Mexico City
+12.0,ALB,23,Williams,17.0,2022,20,Mexico City
+13.0,ZHO,24,Alfa Romeo,12.0,2022,20,Mexico City
+14.0,VET,5,Aston Martin,16.0,2022,20,Mexico City
+15.0,STR,18,Aston Martin,20.0,2022,20,Mexico City
+16.0,MSC,47,Haas F1 Team,15.0,2022,20,Mexico City
+17.0,MAG,20,Haas F1 Team,19.0,2022,20,Mexico City
+18.0,LAT,6,Williams,18.0,2022,20,Mexico City
+19.0,ALO,14,Alpine,9.0,2022,20,Mexico City
+20.0,TSU,22,AlphaTauri,13.0,2022,20,Mexico City
+1.0,RUS,63,Mercedes,1.0,2022,21,São Paulo
+2.0,HAM,44,Mercedes,2.0,2022,21,São Paulo
+3.0,SAI,55,Ferrari,7.0,2022,21,São Paulo
+4.0,LEC,16,Ferrari,5.0,2022,21,São Paulo
+5.0,ALO,14,Alpine,17.0,2022,21,São Paulo
+6.0,VER,1,Red Bull Racing,3.0,2022,21,São Paulo
+7.0,PER,11,Red Bull Racing,4.0,2022,21,São Paulo
+8.0,OCO,31,Alpine,16.0,2022,21,São Paulo
+9.0,BOT,77,Alfa Romeo,14.0,2022,21,São Paulo
+10.0,STR,18,Aston Martin,15.0,2022,21,São Paulo
+11.0,VET,5,Aston Martin,9.0,2022,21,São Paulo
+12.0,ZHO,24,Alfa Romeo,13.0,2022,21,São Paulo
+13.0,MSC,47,Haas F1 Team,12.0,2022,21,São Paulo
+14.0,GAS,10,AlphaTauri,10.0,2022,21,São Paulo
+15.0,ALB,23,Williams,19.0,2022,21,São Paulo
+16.0,LAT,6,Williams,18.0,2022,21,São Paulo
+17.0,TSU,22,AlphaTauri,0.0,2022,21,São Paulo
+18.0,NOR,4,McLaren,6.0,2022,21,São Paulo
+19.0,MAG,20,Haas F1 Team,8.0,2022,21,São Paulo
+20.0,RIC,3,McLaren,11.0,2022,21,São Paulo
+1.0,VER,1,Red Bull Racing,1.0,2022,22,Yas Island
+2.0,LEC,16,Ferrari,3.0,2022,22,Yas Island
+3.0,PER,11,Red Bull Racing,2.0,2022,22,Yas Island
+4.0,SAI,55,Ferrari,4.0,2022,22,Yas Island
+5.0,RUS,63,Mercedes,6.0,2022,22,Yas Island
+6.0,NOR,4,McLaren,7.0,2022,22,Yas Island
+7.0,OCO,31,Alpine,8.0,2022,22,Yas Island
+8.0,STR,18,Aston Martin,14.0,2022,22,Yas Island
+9.0,RIC,3,McLaren,13.0,2022,22,Yas Island
+10.0,VET,5,Aston Martin,9.0,2022,22,Yas Island
+11.0,TSU,22,AlphaTauri,11.0,2022,22,Yas Island
+12.0,ZHO,24,Alfa Romeo,15.0,2022,22,Yas Island
+13.0,ALB,23,Williams,19.0,2022,22,Yas Island
+14.0,GAS,10,AlphaTauri,17.0,2022,22,Yas Island
+15.0,BOT,77,Alfa Romeo,18.0,2022,22,Yas Island
+16.0,MSC,47,Haas F1 Team,12.0,2022,22,Yas Island
+17.0,MAG,20,Haas F1 Team,16.0,2022,22,Yas Island
+18.0,HAM,44,Mercedes,5.0,2022,22,Yas Island
+19.0,LAT,6,Williams,20.0,2022,22,Yas Island
+20.0,ALO,14,Alpine,10.0,2022,22,Yas Island

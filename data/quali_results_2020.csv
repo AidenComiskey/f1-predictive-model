@@ -1,0 +1,341 @@
+Position,Abbreviation,DriverNumber,TeamName,Year,Round,Circuit
+1.0,BOT,77,Mercedes,2020,1,Spielberg
+2.0,HAM,44,Mercedes,2020,1,Spielberg
+3.0,VER,33,Red Bull Racing,2020,1,Spielberg
+4.0,NOR,4,McLaren,2020,1,Spielberg
+5.0,ALB,23,Red Bull Racing,2020,1,Spielberg
+6.0,PER,11,Racing Point,2020,1,Spielberg
+7.0,LEC,16,Ferrari,2020,1,Spielberg
+8.0,SAI,55,McLaren,2020,1,Spielberg
+9.0,STR,18,Racing Point,2020,1,Spielberg
+10.0,RIC,3,Renault,2020,1,Spielberg
+11.0,VET,5,Ferrari,2020,1,Spielberg
+12.0,GAS,10,AlphaTauri,2020,1,Spielberg
+13.0,KVY,26,AlphaTauri,2020,1,Spielberg
+14.0,OCO,31,Renault,2020,1,Spielberg
+15.0,GRO,8,Haas F1 Team,2020,1,Spielberg
+16.0,MAG,20,Haas F1 Team,2020,1,Spielberg
+17.0,RUS,63,Williams,2020,1,Spielberg
+18.0,GIO,99,Alfa Romeo Racing,2020,1,Spielberg
+19.0,RAI,7,Alfa Romeo Racing,2020,1,Spielberg
+20.0,LAT,6,Williams,2020,1,Spielberg
+1.0,HAM,44,Mercedes,2020,2,Spielberg
+2.0,VER,33,Red Bull Racing,2020,2,Spielberg
+3.0,SAI,55,McLaren,2020,2,Spielberg
+4.0,BOT,77,Mercedes,2020,2,Spielberg
+5.0,OCO,31,Renault,2020,2,Spielberg
+6.0,NOR,4,McLaren,2020,2,Spielberg
+7.0,ALB,23,Red Bull Racing,2020,2,Spielberg
+8.0,GAS,10,AlphaTauri,2020,2,Spielberg
+9.0,RIC,3,Renault,2020,2,Spielberg
+10.0,VET,5,Ferrari,2020,2,Spielberg
+11.0,LEC,16,Ferrari,2020,2,Spielberg
+12.0,RUS,63,Williams,2020,2,Spielberg
+13.0,STR,18,Racing Point,2020,2,Spielberg
+14.0,KVY,26,AlphaTauri,2020,2,Spielberg
+15.0,MAG,20,Haas F1 Team,2020,2,Spielberg
+16.0,RAI,7,Alfa Romeo Racing,2020,2,Spielberg
+17.0,PER,11,Racing Point,2020,2,Spielberg
+18.0,LAT,6,Williams,2020,2,Spielberg
+19.0,GIO,99,Alfa Romeo Racing,2020,2,Spielberg
+20.0,GRO,8,Haas F1 Team,2020,2,Spielberg
+1.0,HAM,44,Mercedes,2020,3,Budapest
+2.0,BOT,77,Mercedes,2020,3,Budapest
+3.0,STR,18,Racing Point,2020,3,Budapest
+4.0,PER,11,Racing Point,2020,3,Budapest
+5.0,VET,5,Ferrari,2020,3,Budapest
+6.0,LEC,16,Ferrari,2020,3,Budapest
+7.0,VER,33,Red Bull Racing,2020,3,Budapest
+8.0,NOR,4,McLaren,2020,3,Budapest
+9.0,SAI,55,McLaren,2020,3,Budapest
+10.0,GAS,10,AlphaTauri,2020,3,Budapest
+11.0,RIC,3,Renault,2020,3,Budapest
+12.0,RUS,63,Williams,2020,3,Budapest
+13.0,ALB,23,Red Bull Racing,2020,3,Budapest
+14.0,OCO,31,Renault,2020,3,Budapest
+15.0,LAT,6,Williams,2020,3,Budapest
+16.0,MAG,20,Haas F1 Team,2020,3,Budapest
+17.0,KVY,26,AlphaTauri,2020,3,Budapest
+18.0,GRO,8,Haas F1 Team,2020,3,Budapest
+19.0,GIO,99,Alfa Romeo Racing,2020,3,Budapest
+20.0,RAI,7,Alfa Romeo Racing,2020,3,Budapest
+1.0,HAM,44,Mercedes,2020,4,Silverstone
+2.0,BOT,77,Mercedes,2020,4,Silverstone
+3.0,VER,33,Red Bull Racing,2020,4,Silverstone
+4.0,LEC,16,Ferrari,2020,4,Silverstone
+5.0,NOR,4,McLaren,2020,4,Silverstone
+6.0,STR,18,Racing Point,2020,4,Silverstone
+7.0,SAI,55,McLaren,2020,4,Silverstone
+8.0,RIC,3,Renault,2020,4,Silverstone
+9.0,OCO,31,Renault,2020,4,Silverstone
+10.0,VET,5,Ferrari,2020,4,Silverstone
+11.0,GAS,10,AlphaTauri,2020,4,Silverstone
+12.0,ALB,23,Red Bull Racing,2020,4,Silverstone
+13.0,HUL,27,Racing Point,2020,4,Silverstone
+14.0,KVY,26,AlphaTauri,2020,4,Silverstone
+15.0,RUS,63,Williams,2020,4,Silverstone
+16.0,MAG,20,Haas F1 Team,2020,4,Silverstone
+17.0,GIO,99,Alfa Romeo Racing,2020,4,Silverstone
+18.0,RAI,7,Alfa Romeo Racing,2020,4,Silverstone
+19.0,GRO,8,Haas F1 Team,2020,4,Silverstone
+20.0,LAT,6,Williams,2020,4,Silverstone
+1.0,BOT,77,Mercedes,2020,5,Silverstone
+2.0,HAM,44,Mercedes,2020,5,Silverstone
+3.0,HUL,27,Racing Point,2020,5,Silverstone
+4.0,VER,33,Red Bull Racing,2020,5,Silverstone
+5.0,RIC,3,Renault,2020,5,Silverstone
+6.0,STR,18,Racing Point,2020,5,Silverstone
+7.0,GAS,10,AlphaTauri,2020,5,Silverstone
+8.0,LEC,16,Ferrari,2020,5,Silverstone
+9.0,ALB,23,Red Bull Racing,2020,5,Silverstone
+10.0,NOR,4,McLaren,2020,5,Silverstone
+11.0,OCO,31,Renault,2020,5,Silverstone
+12.0,VET,5,Ferrari,2020,5,Silverstone
+13.0,SAI,55,McLaren,2020,5,Silverstone
+14.0,GRO,8,Haas F1 Team,2020,5,Silverstone
+15.0,RUS,63,Williams,2020,5,Silverstone
+16.0,KVY,26,AlphaTauri,2020,5,Silverstone
+17.0,MAG,20,Haas F1 Team,2020,5,Silverstone
+18.0,LAT,6,Williams,2020,5,Silverstone
+19.0,GIO,99,Alfa Romeo Racing,2020,5,Silverstone
+20.0,RAI,7,Alfa Romeo Racing,2020,5,Silverstone
+1.0,HAM,44,Mercedes,2020,6,Barcelona
+2.0,BOT,77,Mercedes,2020,6,Barcelona
+3.0,VER,33,Red Bull Racing,2020,6,Barcelona
+4.0,PER,11,Racing Point,2020,6,Barcelona
+5.0,STR,18,Racing Point,2020,6,Barcelona
+6.0,ALB,23,Red Bull Racing,2020,6,Barcelona
+7.0,SAI,55,McLaren,2020,6,Barcelona
+8.0,NOR,4,McLaren,2020,6,Barcelona
+9.0,LEC,16,Ferrari,2020,6,Barcelona
+10.0,GAS,10,AlphaTauri,2020,6,Barcelona
+11.0,VET,5,Ferrari,2020,6,Barcelona
+12.0,KVY,26,AlphaTauri,2020,6,Barcelona
+13.0,RIC,3,Renault,2020,6,Barcelona
+14.0,RAI,7,Alfa Romeo Racing,2020,6,Barcelona
+15.0,OCO,31,Renault,2020,6,Barcelona
+16.0,MAG,20,Haas F1 Team,2020,6,Barcelona
+17.0,GRO,8,Haas F1 Team,2020,6,Barcelona
+18.0,RUS,63,Williams,2020,6,Barcelona
+19.0,LAT,6,Williams,2020,6,Barcelona
+20.0,GIO,99,Alfa Romeo Racing,2020,6,Barcelona
+1.0,HAM,44,Mercedes,2020,7,Spa-Francorchamps
+2.0,BOT,77,Mercedes,2020,7,Spa-Francorchamps
+3.0,VER,33,Red Bull Racing,2020,7,Spa-Francorchamps
+4.0,RIC,3,Renault,2020,7,Spa-Francorchamps
+5.0,ALB,23,Red Bull Racing,2020,7,Spa-Francorchamps
+6.0,OCO,31,Renault,2020,7,Spa-Francorchamps
+7.0,SAI,55,McLaren,2020,7,Spa-Francorchamps
+8.0,PER,11,Racing Point,2020,7,Spa-Francorchamps
+9.0,STR,18,Racing Point,2020,7,Spa-Francorchamps
+10.0,NOR,4,McLaren,2020,7,Spa-Francorchamps
+11.0,KVY,26,AlphaTauri,2020,7,Spa-Francorchamps
+12.0,GAS,10,AlphaTauri,2020,7,Spa-Francorchamps
+13.0,LEC,16,Ferrari,2020,7,Spa-Francorchamps
+14.0,VET,5,Ferrari,2020,7,Spa-Francorchamps
+15.0,RUS,63,Williams,2020,7,Spa-Francorchamps
+16.0,RAI,7,Alfa Romeo Racing,2020,7,Spa-Francorchamps
+17.0,GRO,8,Haas F1 Team,2020,7,Spa-Francorchamps
+18.0,GIO,99,Alfa Romeo Racing,2020,7,Spa-Francorchamps
+19.0,LAT,6,Williams,2020,7,Spa-Francorchamps
+20.0,MAG,20,Haas F1 Team,2020,7,Spa-Francorchamps
+1.0,HAM,44,Mercedes,2020,8,Monza
+2.0,BOT,77,Mercedes,2020,8,Monza
+3.0,SAI,55,McLaren,2020,8,Monza
+4.0,PER,11,Racing Point,2020,8,Monza
+5.0,VER,33,Red Bull Racing,2020,8,Monza
+6.0,NOR,4,McLaren,2020,8,Monza
+7.0,RIC,3,Renault,2020,8,Monza
+8.0,STR,18,Racing Point,2020,8,Monza
+9.0,ALB,23,Red Bull Racing,2020,8,Monza
+10.0,GAS,10,AlphaTauri,2020,8,Monza
+11.0,KVY,26,AlphaTauri,2020,8,Monza
+12.0,OCO,31,Renault,2020,8,Monza
+13.0,LEC,16,Ferrari,2020,8,Monza
+14.0,RAI,7,Alfa Romeo Racing,2020,8,Monza
+15.0,MAG,20,Haas F1 Team,2020,8,Monza
+16.0,GRO,8,Haas F1 Team,2020,8,Monza
+17.0,VET,5,Ferrari,2020,8,Monza
+18.0,GIO,99,Alfa Romeo Racing,2020,8,Monza
+19.0,RUS,63,Williams,2020,8,Monza
+20.0,LAT,6,Williams,2020,8,Monza
+1.0,HAM,44,Mercedes,2020,9,Mugello
+2.0,BOT,77,Mercedes,2020,9,Mugello
+3.0,VER,33,Red Bull Racing,2020,9,Mugello
+4.0,ALB,23,Red Bull Racing,2020,9,Mugello
+5.0,LEC,16,Ferrari,2020,9,Mugello
+6.0,PER,11,Racing Point,2020,9,Mugello
+7.0,STR,18,Racing Point,2020,9,Mugello
+8.0,RIC,3,Renault,2020,9,Mugello
+9.0,SAI,55,McLaren,2020,9,Mugello
+10.0,OCO,31,Renault,2020,9,Mugello
+11.0,NOR,4,McLaren,2020,9,Mugello
+12.0,KVY,26,AlphaTauri,2020,9,Mugello
+13.0,RAI,7,Alfa Romeo Racing,2020,9,Mugello
+14.0,VET,5,Ferrari,2020,9,Mugello
+15.0,GRO,8,Haas F1 Team,2020,9,Mugello
+16.0,GAS,10,AlphaTauri,2020,9,Mugello
+17.0,GIO,99,Alfa Romeo Racing,2020,9,Mugello
+18.0,RUS,63,Williams,2020,9,Mugello
+19.0,LAT,6,Williams,2020,9,Mugello
+20.0,MAG,20,Haas F1 Team,2020,9,Mugello
+1.0,HAM,44,Mercedes,2020,10,Sochi
+2.0,VER,33,Red Bull Racing,2020,10,Sochi
+3.0,BOT,77,Mercedes,2020,10,Sochi
+4.0,PER,11,Racing Point,2020,10,Sochi
+5.0,RIC,3,Renault,2020,10,Sochi
+6.0,SAI,55,McLaren,2020,10,Sochi
+7.0,OCO,31,Renault,2020,10,Sochi
+8.0,NOR,4,McLaren,2020,10,Sochi
+9.0,GAS,10,AlphaTauri,2020,10,Sochi
+10.0,ALB,23,Red Bull Racing,2020,10,Sochi
+11.0,LEC,16,Ferrari,2020,10,Sochi
+12.0,KVY,26,AlphaTauri,2020,10,Sochi
+13.0,STR,18,Racing Point,2020,10,Sochi
+14.0,RUS,63,Williams,2020,10,Sochi
+15.0,VET,5,Ferrari,2020,10,Sochi
+16.0,GRO,8,Haas F1 Team,2020,10,Sochi
+17.0,GIO,99,Alfa Romeo Racing,2020,10,Sochi
+18.0,MAG,20,Haas F1 Team,2020,10,Sochi
+19.0,LAT,6,Williams,2020,10,Sochi
+20.0,RAI,7,Alfa Romeo Racing,2020,10,Sochi
+1.0,BOT,77,Mercedes,2020,11,Nürburgring
+2.0,HAM,44,Mercedes,2020,11,Nürburgring
+3.0,VER,33,Red Bull Racing,2020,11,Nürburgring
+4.0,LEC,16,Ferrari,2020,11,Nürburgring
+5.0,ALB,23,Red Bull Racing,2020,11,Nürburgring
+6.0,RIC,3,Renault,2020,11,Nürburgring
+7.0,OCO,31,Renault,2020,11,Nürburgring
+8.0,NOR,4,McLaren,2020,11,Nürburgring
+9.0,PER,11,Racing Point,2020,11,Nürburgring
+10.0,SAI,55,McLaren,2020,11,Nürburgring
+11.0,VET,5,Ferrari,2020,11,Nürburgring
+12.0,GAS,10,AlphaTauri,2020,11,Nürburgring
+13.0,KVY,26,AlphaTauri,2020,11,Nürburgring
+14.0,GIO,99,Alfa Romeo Racing,2020,11,Nürburgring
+15.0,MAG,20,Haas F1 Team,2020,11,Nürburgring
+16.0,GRO,8,Haas F1 Team,2020,11,Nürburgring
+17.0,RUS,63,Williams,2020,11,Nürburgring
+18.0,LAT,6,Williams,2020,11,Nürburgring
+19.0,RAI,7,Alfa Romeo Racing,2020,11,Nürburgring
+20.0,HUL,27,Racing Point,2020,11,Nürburgring
+1.0,HAM,44,Mercedes,2020,12,Portimão
+2.0,BOT,77,Mercedes,2020,12,Portimão
+3.0,VER,33,Red Bull Racing,2020,12,Portimão
+4.0,LEC,16,Ferrari,2020,12,Portimão
+5.0,PER,11,Racing Point,2020,12,Portimão
+6.0,ALB,23,Red Bull Racing,2020,12,Portimão
+7.0,SAI,55,McLaren,2020,12,Portimão
+8.0,NOR,4,McLaren,2020,12,Portimão
+9.0,GAS,10,AlphaTauri,2020,12,Portimão
+10.0,RIC,3,Renault,2020,12,Portimão
+11.0,OCO,31,Renault,2020,12,Portimão
+12.0,STR,18,Racing Point,2020,12,Portimão
+13.0,KVY,26,AlphaTauri,2020,12,Portimão
+14.0,RUS,63,Williams,2020,12,Portimão
+15.0,VET,5,Ferrari,2020,12,Portimão
+16.0,RAI,7,Alfa Romeo Racing,2020,12,Portimão
+17.0,GIO,99,Alfa Romeo Racing,2020,12,Portimão
+18.0,GRO,8,Haas F1 Team,2020,12,Portimão
+19.0,MAG,20,Haas F1 Team,2020,12,Portimão
+20.0,LAT,6,Williams,2020,12,Portimão
+1.0,BOT,77,Mercedes,2020,13,Imola
+2.0,HAM,44,Mercedes,2020,13,Imola
+3.0,VER,33,Red Bull Racing,2020,13,Imola
+4.0,GAS,10,AlphaTauri,2020,13,Imola
+5.0,RIC,3,Renault,2020,13,Imola
+6.0,ALB,23,Red Bull Racing,2020,13,Imola
+7.0,LEC,16,Ferrari,2020,13,Imola
+8.0,KVY,26,AlphaTauri,2020,13,Imola
+9.0,NOR,4,McLaren,2020,13,Imola
+10.0,SAI,55,McLaren,2020,13,Imola
+11.0,PER,11,Racing Point,2020,13,Imola
+12.0,OCO,31,Renault,2020,13,Imola
+13.0,RUS,63,Williams,2020,13,Imola
+14.0,VET,5,Ferrari,2020,13,Imola
+15.0,STR,18,Racing Point,2020,13,Imola
+16.0,GRO,8,Haas F1 Team,2020,13,Imola
+17.0,MAG,20,Haas F1 Team,2020,13,Imola
+18.0,RAI,7,Alfa Romeo Racing,2020,13,Imola
+19.0,LAT,6,Williams,2020,13,Imola
+20.0,GIO,99,Alfa Romeo Racing,2020,13,Imola
+1.0,STR,18,Racing Point,2020,14,Istanbul
+2.0,VER,33,Red Bull Racing,2020,14,Istanbul
+3.0,PER,11,Racing Point,2020,14,Istanbul
+4.0,ALB,23,Red Bull Racing,2020,14,Istanbul
+5.0,RIC,3,Renault,2020,14,Istanbul
+6.0,HAM,44,Mercedes,2020,14,Istanbul
+7.0,OCO,31,Renault,2020,14,Istanbul
+8.0,RAI,7,Alfa Romeo Racing,2020,14,Istanbul
+9.0,BOT,77,Mercedes,2020,14,Istanbul
+10.0,GIO,99,Alfa Romeo Racing,2020,14,Istanbul
+11.0,NOR,4,McLaren,2020,14,Istanbul
+12.0,VET,5,Ferrari,2020,14,Istanbul
+13.0,SAI,55,McLaren,2020,14,Istanbul
+14.0,LEC,16,Ferrari,2020,14,Istanbul
+15.0,GAS,10,AlphaTauri,2020,14,Istanbul
+16.0,MAG,20,Haas F1 Team,2020,14,Istanbul
+17.0,KVY,26,AlphaTauri,2020,14,Istanbul
+18.0,RUS,63,Williams,2020,14,Istanbul
+19.0,GRO,8,Haas F1 Team,2020,14,Istanbul
+20.0,LAT,6,Williams,2020,14,Istanbul
+1.0,HAM,44,Mercedes,2020,15,Sakhir
+2.0,BOT,77,Mercedes,2020,15,Sakhir
+3.0,VER,33,Red Bull Racing,2020,15,Sakhir
+4.0,ALB,23,Red Bull Racing,2020,15,Sakhir
+5.0,PER,11,Racing Point,2020,15,Sakhir
+6.0,RIC,3,Renault,2020,15,Sakhir
+7.0,OCO,31,Renault,2020,15,Sakhir
+8.0,GAS,10,AlphaTauri,2020,15,Sakhir
+9.0,NOR,4,McLaren,2020,15,Sakhir
+10.0,KVY,26,AlphaTauri,2020,15,Sakhir
+11.0,VET,5,Ferrari,2020,15,Sakhir
+12.0,LEC,16,Ferrari,2020,15,Sakhir
+13.0,STR,18,Racing Point,2020,15,Sakhir
+14.0,RUS,63,Williams,2020,15,Sakhir
+15.0,SAI,55,McLaren,2020,15,Sakhir
+16.0,GIO,99,Alfa Romeo Racing,2020,15,Sakhir
+17.0,RAI,7,Alfa Romeo Racing,2020,15,Sakhir
+18.0,MAG,20,Haas F1 Team,2020,15,Sakhir
+19.0,GRO,8,Haas F1 Team,2020,15,Sakhir
+20.0,LAT,6,Williams,2020,15,Sakhir
+1.0,BOT,77,Mercedes,2020,16,Sakhir
+2.0,RUS,63,Mercedes,2020,16,Sakhir
+3.0,VER,33,Red Bull Racing,2020,16,Sakhir
+4.0,LEC,16,Ferrari,2020,16,Sakhir
+5.0,PER,11,Racing Point,2020,16,Sakhir
+6.0,KVY,26,AlphaTauri,2020,16,Sakhir
+7.0,RIC,3,Renault,2020,16,Sakhir
+8.0,SAI,55,McLaren,2020,16,Sakhir
+9.0,GAS,10,AlphaTauri,2020,16,Sakhir
+10.0,STR,18,Racing Point,2020,16,Sakhir
+11.0,OCO,31,Renault,2020,16,Sakhir
+12.0,ALB,23,Red Bull Racing,2020,16,Sakhir
+13.0,VET,5,Ferrari,2020,16,Sakhir
+14.0,GIO,99,Alfa Romeo Racing,2020,16,Sakhir
+15.0,NOR,4,McLaren,2020,16,Sakhir
+16.0,MAG,20,Haas F1 Team,2020,16,Sakhir
+17.0,LAT,6,Williams,2020,16,Sakhir
+18.0,AIT,89,Williams,2020,16,Sakhir
+19.0,RAI,7,Alfa Romeo Racing,2020,16,Sakhir
+20.0,FIT,51,Haas F1 Team,2020,16,Sakhir
+1.0,VER,33,Red Bull Racing,2020,17,Yas Island
+2.0,BOT,77,Mercedes,2020,17,Yas Island
+3.0,HAM,44,Mercedes,2020,17,Yas Island
+4.0,NOR,4,McLaren,2020,17,Yas Island
+5.0,ALB,23,Red Bull Racing,2020,17,Yas Island
+6.0,SAI,55,McLaren,2020,17,Yas Island
+7.0,KVY,26,AlphaTauri,2020,17,Yas Island
+8.0,STR,18,Racing Point,2020,17,Yas Island
+9.0,LEC,16,Ferrari,2020,17,Yas Island
+10.0,GAS,10,AlphaTauri,2020,17,Yas Island
+11.0,OCO,31,Renault,2020,17,Yas Island
+12.0,RIC,3,Renault,2020,17,Yas Island
+13.0,VET,5,Ferrari,2020,17,Yas Island
+14.0,GIO,99,Alfa Romeo Racing,2020,17,Yas Island
+15.0,PER,11,Racing Point,2020,17,Yas Island
+16.0,RAI,7,Alfa Romeo Racing,2020,17,Yas Island
+17.0,MAG,20,Haas F1 Team,2020,17,Yas Island
+18.0,RUS,63,Williams,2020,17,Yas Island
+19.0,FIT,51,Haas F1 Team,2020,17,Yas Island
+20.0,LAT,6,Williams,2020,17,Yas Island

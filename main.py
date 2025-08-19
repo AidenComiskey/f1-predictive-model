@@ -15,7 +15,7 @@ def get_race_results(year, round_num):
     
     return race_results
 
-# functiion to get results from qualifying from specified year and round
+# function to get results from qualifying from specified year and round
 def get_quali_results(year, round_num):
     quali = ff.get_session(year, round_num, 'Qualifying')
     quali.load()
@@ -27,53 +27,50 @@ def get_quali_results(year, round_num):
 
     return quali_results
 
-# function that gets data from all sessions from 2018-2025s latest round
-def get_all_data(start_year, end_year):
+# function to get quali and race data for a specified year using the helper functions
+def get_year_data(year):
     race_data = []
     quali_data = []
 
-    # loop through the years specified (range is exclusive) and get the schedule for each year
-    # number of rounds is different for different years
-    for year in range(start_year, end_year + 1):
+    try:
         schedule = ff.get_event_schedule(year)
+    except Exception as e:
+        print(f"Skipping {year} due to error: {e}")
+        return None, None
 
-        # iterate through each event in the schedule and check if the event has been or not
-        for _, event in schedule.iterrows():
-            if event['EventDate'] > pd.Timestamp.today():
-                continue
-            
-            # skip over pre season testing
-            if 'Testing' in event['EventName']:
-                continue
-            # get the quali and race results for the event and then add to the lists
-            round_num = event['RoundNumber']
+    for _, event in schedule.iterrows():
+        if event['EventDate'] > pd.Timestamp.today():
+            continue
+        if 'Testing' in event['EventName']:
+            continue
 
-            try:
-                quali_result = get_quali_results(year, round_num)
-                quali_data.append(quali_result)
-            except Exception as e:
-                print(f"Skipping quali {event['EventName']} ({year}) due to error: {e}")
-            try:
-                race_result = get_race_results(year, round_num)
-                race_data.append(race_result)
-            except Exception as e:
-                print(f"Skipping race {event['EventName']} ({year}) due to error: {e}")
+        round_num = event['RoundNumber']
 
-            # turn the lists into dataframes
-            race_df = pd.concat(race_data, ignore_index=True)
-            quali_df = pd.concat(quali_data, ignore_index=True)
+        try:
+            quali_result = get_quali_results(year, round_num)
+            quali_data.append(quali_result)
+        except Exception as e:
+            print(f"Skipping quali {event['EventName']} ({year}) due to error: {e}")
+
+        try:
+            race_result = get_race_results(year, round_num)
+            race_data.append(race_result)
+        except Exception as e:
+            print(f"Skipping race {event['EventName']} ({year}) due to error: {e}")
+
+    race_df = pd.concat(race_data, ignore_index=True) if race_data else None
+    quali_df = pd.concat(quali_data, ignore_index=True) if quali_data else None
 
     return race_df, quali_df
 
-    
-#df = get_race_results(2023, 1)
-#print(df)
-#df = get_quali_results(2025, 1)
-#print(df)
-race_df, quali_df = get_all_data(2024,2024)
-#print(race_df.head())
-#print(quali_df.head())
-print(race_df.groupby('Year')['Round'].nunique())
 
-# Count how many drivers per race
-print(race_df.groupby(['Year', 'Round']).size())
+for year in range(2018, 2026):  # up to 2025
+    try:
+        race_df, quali_df = get_year_data(year)  # should load from cache
+        race_df.to_csv(f"race_results_{year}.csv", index=False)
+        quali_df.to_csv(f"quali_results_{year}.csv", index=False)
+        print(f"Saved {year} data to CSV")
+    except Exception as e:
+        print(f"Skipping {year} due to error: {e}")
+
+        
