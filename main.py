@@ -1,6 +1,10 @@
 import pandas as pd
 import fastf1 as ff
 
+#TODO update race and quali functions to get more data like lap time and total time
+#     to improve data and replace data already gathered
+
+
 # cache to store the data fetched from the API
 ff.Cache.enable_cache('f1_cache')
 
