@@ -17,3 +17,5 @@ print("after drop na", df.shape)
 
 df.loc[df["GridPosition"] == 0, "GridPosition"] = 21
 print(df["GridPosition"].value_counts().sort_index())
+
+df.to_csv("data/basic_combined_data_clean.csv", index=False)
