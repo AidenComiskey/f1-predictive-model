@@ -10,4 +10,10 @@ print(df.isnull().sum())
 
 
 df = df.drop(columns=["DriverNumber_quali", "TeamName_quali", "Circuit_quali"])
-print(df.info())
+
+print("before drop na", df.shape)
+df = df.dropna()
+print("after drop na", df.shape)
+
+df.loc[df["GridPosition"] == 0, "GridPosition"] = 21
+print(df["GridPosition"].value_counts().sort_index())
