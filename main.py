@@ -1,5 +1,6 @@
 import pandas as pd
 import fastf1 as ff
+from fastf1.utils import to_timedelta
 
 #TODO update race and quali functions to get more data like lap time and total time
 #     to improve data and replace data already gathered
@@ -12,11 +13,25 @@ ff.Cache.enable_cache('f1_cache')
 def get_race_results(year, round_num):
     race = ff.get_session(year, round_num, 'Race')
     race.load()
-    race_results = race.results[['Position', 'Abbreviation', 'DriverNumber', 'TeamName', 'GridPosition']].copy()
+    race_results = race.results[['Position', 'Abbreviation', 'DriverNumber', 'TeamName', 'GridPosition', 'Status', 'Time']].copy()
+
+    # create a column for the race time in seconds and convert time column to seconds
+    race_results['RaceTime_Sec'] = race_results['Time'].apply(lambda x: to_timedelta(x).total_seconds() if pd.notna() else None)
+
+    # get all valid pit stops from the race and add it to pitstops column
+    # fill null values with 0 to indicate no pit stops
+    pitstops = race.laps.groupby('DriverNumber').apply(lambda x: (x['PitInTime'].notna() & x['PitOutTime'].notna()).sum())
+    race_results['PitStops'] = race_results['DriverNumber'].map(pitstops).fillna(0).astype(int)
+
+    # check if it was a wet race, true if rainfall is > 0mm
+    is_wet = race.weather_data['Rainfall'].sum() > 0
+    race_results['IsWetRace'] = int(is_wet)
 
     race_results['Year'] = year
     race_results['Round'] = round_num
     race_results['Circuit'] = race.event.Location
+
+    race_results.drop(columns=['Time'])
     
     return race_results
 
