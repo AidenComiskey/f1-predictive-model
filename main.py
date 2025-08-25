@@ -2,9 +2,6 @@ import pandas as pd
 import fastf1 as ff
 from fastf1.utils import to_timedelta
 
-#TODO update race and quali functions to get more data like lap time and total time
-#     to improve data and replace data already gathered
-
 
 # cache to store the data fetched from the API
 ff.Cache.enable_cache('f1_cache')
@@ -16,7 +13,7 @@ def get_race_results(year, round_num):
     race_results = race.results[['Position', 'Abbreviation', 'DriverNumber', 'TeamName', 'GridPosition', 'Status', 'Time']].copy()
 
     # create a column for the race time in seconds and convert time column to seconds
-    race_results['RaceTime_Sec'] = race_results['Time'].apply(lambda x: to_timedelta(x).total_seconds() if pd.notna() else None)
+    race_results['RaceTime_Sec'] = race_results['Time'].apply(lambda x: to_timedelta(x).total_seconds() if pd.notna(x) else None)
 
     # get all valid pit stops from the race and add it to pitstops column
     # fill null values with 0 to indicate no pit stops
@@ -31,7 +28,7 @@ def get_race_results(year, round_num):
     race_results['Round'] = round_num
     race_results['Circuit'] = race.event.Location
 
-    race_results.drop(columns=['Time'])
+    race_results.drop(columns=['Time'], inplace = True)
     
     return race_results
 
@@ -40,6 +37,28 @@ def get_quali_results(year, round_num):
     quali = ff.get_session(year, round_num, 'Qualifying')
     quali.load()
     quali_results = quali.results[['Position', 'Abbreviation', 'DriverNumber', 'TeamName']].copy()
+
+    # get every drivers fastest lap of qualifying
+    laps = quali.laps
+    fastest_laps = (
+        laps.groupby("DriverNumber")
+        .apply(lambda x: x.pick_fastest())
+        .reset_index(drop=True)
+    )
+
+    # turn the fastest lap times into seconds
+    fastest_laps['BestLap_Sec'] = fastest_laps['LapTime'].dt.total_seconds()
+
+    # merge the current quali results dataframe with the fastest laps dataframe
+    quali_results = quali_results.merge(
+        fastest_laps[['DriverNumber','BestLap_Sec']],
+        on='DriverNumber',
+        how='left'
+    )
+
+    # add if it was a wet qualifying into the dataframe
+    is_wet = quali.weather_data['Rainfall'].sum() > 0
+    quali_results['IsWetQuali'] = int(is_wet)
 
     quali_results['Year'] = year
     quali_results['Round'] = round_num
