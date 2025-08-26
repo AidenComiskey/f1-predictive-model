@@ -1,6 +1,7 @@
 import pandas as pd
 import fastf1 as ff
 from fastf1.utils import to_timedelta
+import numpy as np
 
 
 # cache to store the data fetched from the API
@@ -14,6 +15,66 @@ def get_race_results(year, round_num):
 
     # create a column for the race time in seconds and convert time column to seconds
     race_results['RaceTime_Sec'] = race_results['Time'].apply(lambda x: to_timedelta(x).total_seconds() if pd.notna(x) else None)
+
+    winner_time = race_results.loc[race_results['Position'] == 1, 'Time'].values[0]
+    winner_time_sec = to_timedelta(winner_time).total_seconds() if pd.notna(winner_time) else None
+
+    # Convert Time to seconds (gap for others, total for winner)
+    race_results['Gap_Sec'] = race_results['Time'].apply(lambda x: to_timedelta(x).total_seconds() if pd.notna(x) else np.nan)
+
+    # Calculate average lap time (for estimating lapped drivers)
+    avg_lap_time = race.laps['LapTime'].mean().total_seconds()
+
+    # Initialize columns
+    actual_times = []
+    laps_behind = []
+    is_finished = []
+    retirement_category = []
+
+    for idx, row in race_results.iterrows():
+        status = row['Status']
+        gap = row['Gap_Sec']
+
+        # Finished cases
+        if status == 'Finished':
+            actual_time = winner_time_sec + (gap if pd.notna(gap) else 0)
+            laps_behind.append(0)
+            is_finished.append(1)
+            retirement_category.append('Finished')
+
+        # Lapped cases: "+1 Lap", "+2 Laps"
+        elif isinstance(status, str) and status.startswith('+'):
+            try:
+                lap_diff = int(status.replace('+', '').split()[0])  # extract number
+            except:
+                lap_diff = 1  # fallback
+            estimated_time = winner_time_sec + lap_diff * avg_lap_time
+            actual_time = estimated_time
+            laps_behind.append(lap_diff)
+            is_finished.append(1)
+            retirement_category.append('Finished')  # still finished
+
+        # DNF cases
+        else:
+            actual_time = np.nan
+            laps_behind.append(np.nan)
+            is_finished.append(0)
+
+            # Categorize DNF reason
+            if 'Engine' in status or 'Gearbox' in status or 'PU' in status:
+                retirement_category.append('Mechanical')
+            elif 'Accident' in status or 'Crash' in status:
+                retirement_category.append('Crash')
+            else:
+                retirement_category.append('Other')
+
+        actual_times.append(actual_time)
+
+    # Add computed columns
+    race_results['ActualRaceTime'] = actual_times
+    race_results['LapsBehind'] = laps_behind
+    race_results['IsFinished'] = is_finished
+    race_results['RetirementCategory'] = retirement_category
 
     # get all valid pit stops from the race and add it to pitstops column
     # fill null values with 0 to indicate no pit stops
