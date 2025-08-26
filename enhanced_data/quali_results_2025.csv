@@ -1,0 +1,281 @@
+Position,Abbreviation,DriverNumber,TeamName,BestLap_Sec,IsWetQuali,Year,Round,Circuit
+1.0,NOR,4,McLaren,75.096,0,2025,1,Melbourne
+2.0,PIA,81,McLaren,75.18,0,2025,1,Melbourne
+3.0,VER,1,Red Bull Racing,75.481,0,2025,1,Melbourne
+4.0,RUS,63,Mercedes,75.546,0,2025,1,Melbourne
+5.0,TSU,22,Racing Bulls,75.67,0,2025,1,Melbourne
+6.0,ALB,23,Williams,75.737,0,2025,1,Melbourne
+7.0,LEC,16,Ferrari,75.755,0,2025,1,Melbourne
+8.0,HAM,44,Ferrari,75.919,0,2025,1,Melbourne
+9.0,GAS,10,Alpine,75.98,0,2025,1,Melbourne
+10.0,SAI,55,Williams,75.931,0,2025,1,Melbourne
+11.0,HAD,6,Racing Bulls,76.175,0,2025,1,Melbourne
+12.0,ALO,14,Aston Martin,76.288,0,2025,1,Melbourne
+13.0,STR,18,Aston Martin,76.369,0,2025,1,Melbourne
+14.0,DOO,7,Alpine,76.315,0,2025,1,Melbourne
+15.0,BOR,5,Kick Sauber,76.516,0,2025,1,Melbourne
+16.0,ANT,12,Mercedes,76.525,0,2025,1,Melbourne
+17.0,HUL,27,Kick Sauber,76.579,0,2025,1,Melbourne
+18.0,LAW,30,Red Bull Racing,77.094,0,2025,1,Melbourne
+19.0,OCO,31,Haas F1 Team,77.147,0,2025,1,Melbourne
+20.0,BEA,87,Haas F1 Team,,0,2025,1,Melbourne
+1.0,PIA,81,McLaren,90.641,0,2025,2,Shanghai
+2.0,RUS,63,Mercedes,90.723,0,2025,2,Shanghai
+3.0,NOR,4,McLaren,90.787,0,2025,2,Shanghai
+4.0,VER,1,Red Bull Racing,90.817,0,2025,2,Shanghai
+5.0,HAM,44,Ferrari,90.927,0,2025,2,Shanghai
+6.0,LEC,16,Ferrari,91.021,0,2025,2,Shanghai
+7.0,HAD,6,Racing Bulls,91.079,0,2025,2,Shanghai
+8.0,ANT,12,Mercedes,91.103,0,2025,2,Shanghai
+9.0,TSU,22,Racing Bulls,91.238,0,2025,2,Shanghai
+10.0,ALB,23,Williams,91.503,0,2025,2,Shanghai
+11.0,OCO,31,Haas F1 Team,91.625,0,2025,2,Shanghai
+12.0,HUL,27,Kick Sauber,91.632,0,2025,2,Shanghai
+13.0,ALO,14,Aston Martin,91.688,0,2025,2,Shanghai
+14.0,STR,18,Aston Martin,91.773,0,2025,2,Shanghai
+15.0,SAI,55,Williams,91.628,0,2025,2,Shanghai
+16.0,GAS,10,Alpine,91.992,0,2025,2,Shanghai
+17.0,BEA,87,Haas F1 Team,92.018,0,2025,2,Shanghai
+18.0,DOO,7,Alpine,92.092,0,2025,2,Shanghai
+19.0,BOR,5,Kick Sauber,92.141,0,2025,2,Shanghai
+20.0,LAW,30,Red Bull Racing,92.174,0,2025,2,Shanghai
+1.0,VER,1,Red Bull Racing,86.983,0,2025,3,Suzuka
+2.0,NOR,4,McLaren,86.995,0,2025,3,Suzuka
+3.0,PIA,81,McLaren,87.027,0,2025,3,Suzuka
+4.0,LEC,16,Ferrari,87.299,0,2025,3,Suzuka
+5.0,RUS,63,Mercedes,87.318,0,2025,3,Suzuka
+6.0,ANT,12,Mercedes,87.555,0,2025,3,Suzuka
+7.0,HAD,6,Racing Bulls,87.569,0,2025,3,Suzuka
+8.0,HAM,44,Ferrari,87.61,0,2025,3,Suzuka
+9.0,ALB,23,Williams,87.615,0,2025,3,Suzuka
+10.0,BEA,87,Haas F1 Team,87.711,0,2025,3,Suzuka
+11.0,GAS,10,Alpine,87.822,0,2025,3,Suzuka
+12.0,SAI,55,Williams,87.836,0,2025,3,Suzuka
+13.0,ALO,14,Aston Martin,87.897,0,2025,3,Suzuka
+14.0,LAW,30,Racing Bulls,87.906,0,2025,3,Suzuka
+15.0,TSU,22,Red Bull Racing,87.967,0,2025,3,Suzuka
+16.0,HUL,27,Kick Sauber,88.57,0,2025,3,Suzuka
+17.0,BOR,5,Kick Sauber,88.622,0,2025,3,Suzuka
+18.0,OCO,31,Haas F1 Team,88.696,0,2025,3,Suzuka
+19.0,DOO,7,Alpine,88.877,0,2025,3,Suzuka
+20.0,STR,18,Aston Martin,89.271,0,2025,3,Suzuka
+1.0,PIA,81,McLaren,89.841,0,2025,4,Sakhir
+2.0,RUS,63,Mercedes,90.009,0,2025,4,Sakhir
+3.0,LEC,16,Ferrari,90.175,0,2025,4,Sakhir
+4.0,ANT,12,Mercedes,90.213,0,2025,4,Sakhir
+5.0,GAS,10,Alpine,90.216,0,2025,4,Sakhir
+6.0,NOR,4,McLaren,90.267,0,2025,4,Sakhir
+7.0,VER,1,Red Bull Racing,90.423,0,2025,4,Sakhir
+8.0,SAI,55,Williams,90.68,0,2025,4,Sakhir
+9.0,HAM,44,Ferrari,90.772,0,2025,4,Sakhir
+10.0,TSU,22,Red Bull Racing,91.228,0,2025,4,Sakhir
+11.0,DOO,7,Alpine,91.245,0,2025,4,Sakhir
+12.0,HAD,6,Racing Bulls,91.271,0,2025,4,Sakhir
+13.0,ALO,14,Aston Martin,91.634,0,2025,4,Sakhir
+14.0,OCO,31,Haas F1 Team,91.594,0,2025,4,Sakhir
+15.0,ALB,23,Williams,92.04,0,2025,4,Sakhir
+16.0,HUL,27,Kick Sauber,92.067,0,2025,4,Sakhir
+17.0,LAW,30,Racing Bulls,92.165,0,2025,4,Sakhir
+18.0,BOR,5,Kick Sauber,92.186,0,2025,4,Sakhir
+19.0,STR,18,Aston Martin,92.283,0,2025,4,Sakhir
+20.0,BEA,87,Haas F1 Team,92.373,0,2025,4,Sakhir
+1.0,VER,1,Red Bull Racing,87.294,0,2025,5,Jeddah
+2.0,PIA,81,McLaren,87.304,0,2025,5,Jeddah
+3.0,RUS,63,Mercedes,87.407,0,2025,5,Jeddah
+4.0,LEC,16,Ferrari,87.67,0,2025,5,Jeddah
+5.0,ANT,12,Mercedes,87.798,0,2025,5,Jeddah
+6.0,SAI,55,Williams,88.024,0,2025,5,Jeddah
+7.0,HAM,44,Ferrari,88.102,0,2025,5,Jeddah
+8.0,TSU,22,Red Bull Racing,87.99,0,2025,5,Jeddah
+9.0,GAS,10,Alpine,88.025,0,2025,5,Jeddah
+10.0,NOR,4,McLaren,87.481,0,2025,5,Jeddah
+11.0,ALB,23,Williams,88.109,0,2025,5,Jeddah
+12.0,LAW,30,Racing Bulls,88.191,0,2025,5,Jeddah
+13.0,ALO,14,Aston Martin,88.303,0,2025,5,Jeddah
+14.0,HAD,6,Racing Bulls,88.418,0,2025,5,Jeddah
+15.0,BEA,87,Haas F1 Team,88.536,0,2025,5,Jeddah
+16.0,STR,18,Aston Martin,88.645,0,2025,5,Jeddah
+17.0,DOO,7,Alpine,88.739,0,2025,5,Jeddah
+18.0,HUL,27,Kick Sauber,88.782,0,2025,5,Jeddah
+19.0,OCO,31,Haas F1 Team,89.092,0,2025,5,Jeddah
+20.0,BOR,5,Kick Sauber,89.462,0,2025,5,Jeddah
+1.0,VER,1,Red Bull Racing,86.204,0,2025,6,Miami
+2.0,NOR,4,McLaren,86.269,0,2025,6,Miami
+3.0,ANT,12,Mercedes,86.271,0,2025,6,Miami
+4.0,PIA,81,McLaren,86.269,0,2025,6,Miami
+5.0,RUS,63,Mercedes,86.385,0,2025,6,Miami
+6.0,SAI,55,Williams,86.569,0,2025,6,Miami
+7.0,ALB,23,Williams,86.682,0,2025,6,Miami
+8.0,LEC,16,Ferrari,86.754,0,2025,6,Miami
+9.0,OCO,31,Haas F1 Team,86.824,0,2025,6,Miami
+10.0,TSU,22,Red Bull Racing,86.943,0,2025,6,Miami
+11.0,HAD,6,Racing Bulls,86.987,0,2025,6,Miami
+12.0,HAM,44,Ferrari,87.006,0,2025,6,Miami
+13.0,BOR,5,Kick Sauber,87.151,0,2025,6,Miami
+14.0,DOO,7,Alpine,87.186,0,2025,6,Miami
+15.0,LAW,30,Racing Bulls,87.363,0,2025,6,Miami
+16.0,HUL,27,Kick Sauber,87.473,0,2025,6,Miami
+17.0,ALO,14,Aston Martin,87.604,0,2025,6,Miami
+18.0,GAS,10,Alpine,87.71,0,2025,6,Miami
+19.0,STR,18,Aston Martin,87.83,0,2025,6,Miami
+20.0,BEA,87,Haas F1 Team,87.999,0,2025,6,Miami
+1.0,PIA,81,McLaren,74.67,0,2025,7,Imola
+2.0,VER,1,Red Bull Racing,74.704,0,2025,7,Imola
+3.0,RUS,63,Mercedes,74.807,0,2025,7,Imola
+4.0,NOR,4,McLaren,74.962,0,2025,7,Imola
+5.0,ALO,14,Aston Martin,75.431,0,2025,7,Imola
+6.0,SAI,55,Williams,75.198,0,2025,7,Imola
+7.0,ALB,23,Williams,75.473,0,2025,7,Imola
+8.0,STR,18,Aston Martin,75.497,0,2025,7,Imola
+9.0,HAD,6,Racing Bulls,75.51,0,2025,7,Imola
+10.0,GAS,10,Alpine,75.505,0,2025,7,Imola
+11.0,LEC,16,Ferrari,75.604,0,2025,7,Imola
+12.0,HAM,44,Ferrari,75.765,0,2025,7,Imola
+13.0,ANT,12,Mercedes,75.772,0,2025,7,Imola
+14.0,BOR,5,Kick Sauber,76.26,0,2025,7,Imola
+15.0,COL,43,Alpine,76.256,0,2025,7,Imola
+16.0,LAW,30,Racing Bulls,76.379,0,2025,7,Imola
+17.0,HUL,27,Kick Sauber,76.518,0,2025,7,Imola
+18.0,OCO,31,Haas F1 Team,76.613,0,2025,7,Imola
+19.0,BEA,87,Haas F1 Team,76.077,0,2025,7,Imola
+20.0,TSU,22,Red Bull Racing,,0,2025,7,Imola
+1.0,NOR,4,McLaren,69.954,0,2025,8,Monaco
+2.0,LEC,16,Ferrari,70.063,0,2025,8,Monaco
+3.0,PIA,81,McLaren,70.129,0,2025,8,Monaco
+4.0,HAM,44,Ferrari,70.382,0,2025,8,Monaco
+5.0,VER,1,Red Bull Racing,70.669,0,2025,8,Monaco
+6.0,HAD,6,Racing Bulls,70.923,0,2025,8,Monaco
+7.0,ALO,14,Aston Martin,70.924,0,2025,8,Monaco
+8.0,OCO,31,Haas F1 Team,70.942,0,2025,8,Monaco
+9.0,LAW,30,Racing Bulls,71.129,0,2025,8,Monaco
+10.0,ALB,23,Williams,70.732,0,2025,8,Monaco
+11.0,SAI,55,Williams,71.362,0,2025,8,Monaco
+12.0,TSU,22,Red Bull Racing,71.415,0,2025,8,Monaco
+13.0,HUL,27,Kick Sauber,71.596,0,2025,8,Monaco
+14.0,RUS,63,Mercedes,71.507,0,2025,8,Monaco
+15.0,ANT,12,Mercedes,71.88,0,2025,8,Monaco
+16.0,BOR,5,Kick Sauber,71.902,0,2025,8,Monaco
+17.0,BEA,87,Haas F1 Team,71.979,0,2025,8,Monaco
+18.0,GAS,10,Alpine,71.994,0,2025,8,Monaco
+19.0,STR,18,Aston Martin,72.563,0,2025,8,Monaco
+20.0,COL,43,Alpine,72.597,0,2025,8,Monaco
+1.0,PIA,81,McLaren,71.546,0,2025,9,Barcelona
+2.0,NOR,4,McLaren,71.755,0,2025,9,Barcelona
+3.0,VER,1,Red Bull Racing,71.848,0,2025,9,Barcelona
+4.0,RUS,63,Mercedes,71.848,0,2025,9,Barcelona
+5.0,HAM,44,Ferrari,72.045,0,2025,9,Barcelona
+6.0,ANT,12,Mercedes,72.111,0,2025,9,Barcelona
+7.0,LEC,16,Ferrari,72.131,0,2025,9,Barcelona
+8.0,GAS,10,Alpine,72.199,0,2025,9,Barcelona
+9.0,HAD,6,Racing Bulls,72.252,0,2025,9,Barcelona
+10.0,ALO,14,Aston Martin,72.284,0,2025,9,Barcelona
+11.0,ALB,23,Williams,72.641,0,2025,9,Barcelona
+12.0,BOR,5,Kick Sauber,72.756,0,2025,9,Barcelona
+13.0,LAW,30,Racing Bulls,72.763,0,2025,9,Barcelona
+14.0,STR,18,Aston Martin,73.038,0,2025,9,Barcelona
+15.0,BEA,87,Haas F1 Team,73.074,0,2025,9,Barcelona
+16.0,HUL,27,Kick Sauber,73.19,0,2025,9,Barcelona
+17.0,OCO,31,Haas F1 Team,73.201,0,2025,9,Barcelona
+18.0,SAI,55,Williams,73.203,0,2025,9,Barcelona
+19.0,COL,43,Alpine,73.334,0,2025,9,Barcelona
+20.0,TSU,22,Red Bull Racing,73.385,0,2025,9,Barcelona
+1.0,RUS,63,Mercedes,70.899,0,2025,10,Montréal
+2.0,VER,1,Red Bull Racing,71.059,0,2025,10,Montréal
+3.0,PIA,81,McLaren,71.12,0,2025,10,Montréal
+4.0,ANT,12,Mercedes,71.391,0,2025,10,Montréal
+5.0,HAM,44,Ferrari,71.526,0,2025,10,Montréal
+6.0,ALO,14,Aston Martin,71.586,0,2025,10,Montréal
+7.0,NOR,4,McLaren,71.599,0,2025,10,Montréal
+8.0,LEC,16,Ferrari,71.626,0,2025,10,Montréal
+9.0,HAD,6,Racing Bulls,71.867,0,2025,10,Montréal
+10.0,ALB,23,Williams,71.892,0,2025,10,Montréal
+11.0,TSU,22,Red Bull Racing,72.102,0,2025,10,Montréal
+12.0,COL,43,Alpine,72.142,0,2025,10,Montréal
+13.0,HUL,27,Kick Sauber,72.183,0,2025,10,Montréal
+14.0,BEA,87,Haas F1 Team,72.306,0,2025,10,Montréal
+15.0,OCO,31,Haas F1 Team,72.378,0,2025,10,Montréal
+16.0,BOR,5,Kick Sauber,72.385,0,2025,10,Montréal
+17.0,SAI,55,Williams,72.398,0,2025,10,Montréal
+18.0,STR,18,Aston Martin,72.517,0,2025,10,Montréal
+19.0,LAW,30,Racing Bulls,72.525,0,2025,10,Montréal
+20.0,GAS,10,Alpine,72.667,0,2025,10,Montréal
+1.0,NOR,4,McLaren,63.971,0,2025,11,Spielberg
+2.0,LEC,16,Ferrari,64.492,0,2025,11,Spielberg
+3.0,PIA,81,McLaren,64.554,0,2025,11,Spielberg
+4.0,HAM,44,Ferrari,64.582,0,2025,11,Spielberg
+5.0,RUS,63,Mercedes,64.763,0,2025,11,Spielberg
+6.0,LAW,30,Racing Bulls,64.926,0,2025,11,Spielberg
+7.0,VER,1,Red Bull Racing,64.836,0,2025,11,Spielberg
+8.0,BOR,5,Kick Sauber,64.846,0,2025,11,Spielberg
+9.0,ANT,12,Mercedes,65.052,0,2025,11,Spielberg
+10.0,GAS,10,Alpine,64.846,0,2025,11,Spielberg
+11.0,ALO,14,Aston Martin,65.128,0,2025,11,Spielberg
+12.0,ALB,23,Williams,65.143,0,2025,11,Spielberg
+13.0,HAD,6,Racing Bulls,65.063,0,2025,11,Spielberg
+14.0,COL,43,Alpine,65.278,0,2025,11,Spielberg
+15.0,BEA,87,Haas F1 Team,65.218,0,2025,11,Spielberg
+16.0,STR,18,Aston Martin,65.329,0,2025,11,Spielberg
+17.0,OCO,31,Haas F1 Team,65.364,0,2025,11,Spielberg
+18.0,TSU,22,Red Bull Racing,65.369,0,2025,11,Spielberg
+19.0,SAI,55,Williams,65.582,0,2025,11,Spielberg
+20.0,HUL,27,Kick Sauber,65.606,0,2025,11,Spielberg
+1.0,VER,1,Red Bull Racing,84.892,0,2025,12,Silverstone
+2.0,PIA,81,McLaren,84.995,0,2025,12,Silverstone
+3.0,NOR,4,McLaren,85.01,0,2025,12,Silverstone
+4.0,RUS,63,Mercedes,85.029,0,2025,12,Silverstone
+5.0,HAM,44,Ferrari,85.084,0,2025,12,Silverstone
+6.0,LEC,16,Ferrari,85.121,0,2025,12,Silverstone
+7.0,ANT,12,Mercedes,85.374,0,2025,12,Silverstone
+8.0,BEA,87,Haas F1 Team,85.471,0,2025,12,Silverstone
+9.0,ALO,14,Aston Martin,85.593,0,2025,12,Silverstone
+10.0,GAS,10,Alpine,85.711,0,2025,12,Silverstone
+11.0,SAI,55,Williams,85.746,0,2025,12,Silverstone
+12.0,TSU,22,Red Bull Racing,85.826,0,2025,12,Silverstone
+13.0,HAD,6,Racing Bulls,85.864,0,2025,12,Silverstone
+14.0,ALB,23,Williams,85.889,0,2025,12,Silverstone
+15.0,OCO,31,Haas F1 Team,85.95,0,2025,12,Silverstone
+16.0,LAW,30,Racing Bulls,86.44,0,2025,12,Silverstone
+17.0,BOR,5,Kick Sauber,86.446,0,2025,12,Silverstone
+18.0,STR,18,Aston Martin,86.504,0,2025,12,Silverstone
+19.0,HUL,27,Kick Sauber,86.574,0,2025,12,Silverstone
+20.0,COL,43,Alpine,87.06,0,2025,12,Silverstone
+1.0,NOR,4,McLaren,100.562,0,2025,13,Spa-Francorchamps
+2.0,PIA,81,McLaren,100.626,0,2025,13,Spa-Francorchamps
+3.0,LEC,16,Ferrari,100.9,0,2025,13,Spa-Francorchamps
+4.0,VER,1,Red Bull Racing,100.903,0,2025,13,Spa-Francorchamps
+5.0,ALB,23,Williams,101.201,0,2025,13,Spa-Francorchamps
+6.0,RUS,63,Mercedes,101.254,0,2025,13,Spa-Francorchamps
+7.0,TSU,22,Red Bull Racing,101.245,0,2025,13,Spa-Francorchamps
+8.0,HAD,6,Racing Bulls,101.281,0,2025,13,Spa-Francorchamps
+9.0,LAW,30,Racing Bulls,101.297,0,2025,13,Spa-Francorchamps
+10.0,BOR,5,Kick Sauber,101.336,0,2025,13,Spa-Francorchamps
+11.0,OCO,31,Haas F1 Team,101.525,0,2025,13,Spa-Francorchamps
+12.0,BEA,87,Haas F1 Team,101.617,0,2025,13,Spa-Francorchamps
+13.0,GAS,10,Alpine,101.633,0,2025,13,Spa-Francorchamps
+14.0,HUL,27,Kick Sauber,101.707,0,2025,13,Spa-Francorchamps
+15.0,SAI,55,Williams,101.691,0,2025,13,Spa-Francorchamps
+16.0,HAM,44,Ferrari,101.939,0,2025,13,Spa-Francorchamps
+17.0,COL,43,Alpine,102.022,0,2025,13,Spa-Francorchamps
+18.0,ANT,12,Mercedes,102.139,0,2025,13,Spa-Francorchamps
+19.0,ALO,14,Aston Martin,102.385,0,2025,13,Spa-Francorchamps
+20.0,STR,18,Aston Martin,102.502,0,2025,13,Spa-Francorchamps
+1.0,LEC,16,Ferrari,75.372,0,2025,14,Budapest
+2.0,PIA,81,McLaren,74.941,0,2025,14,Budapest
+3.0,NOR,4,McLaren,74.89,0,2025,14,Budapest
+4.0,RUS,63,Mercedes,75.201,0,2025,14,Budapest
+5.0,ALO,14,Aston Martin,75.281,0,2025,14,Budapest
+6.0,STR,18,Aston Martin,75.129,0,2025,14,Budapest
+7.0,BOR,5,Kick Sauber,75.586,0,2025,14,Budapest
+8.0,VER,1,Red Bull Racing,75.547,0,2025,14,Budapest
+9.0,LAW,30,Racing Bulls,75.63,0,2025,14,Budapest
+10.0,HAD,6,Racing Bulls,75.469,0,2025,14,Budapest
+11.0,BEA,87,Haas F1 Team,75.694,0,2025,14,Budapest
+12.0,HAM,44,Ferrari,75.702,0,2025,14,Budapest
+13.0,SAI,55,Williams,75.652,0,2025,14,Budapest
+14.0,COL,43,Alpine,75.875,0,2025,14,Budapest
+15.0,ANT,12,Mercedes,75.782,0,2025,14,Budapest
+16.0,TSU,22,Red Bull Racing,75.899,0,2025,14,Budapest
+17.0,GAS,10,Alpine,75.966,0,2025,14,Budapest
+18.0,OCO,31,Haas F1 Team,76.023,0,2025,14,Budapest
+19.0,HUL,27,Kick Sauber,76.081,0,2025,14,Budapest
+20.0,ALB,23,Williams,76.223,0,2025,14,Budapest

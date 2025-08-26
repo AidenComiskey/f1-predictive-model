@@ -1,0 +1,421 @@
+Position,Abbreviation,DriverNumber,TeamName,GridPosition,Status,RaceTime_Sec,PitStops,IsWetRace,Year,Round,Circuit
+1.0,VET,5,Ferrari,3.0,Finished,5373.283,0,1,2018,1,Melbourne
+2.0,HAM,44,Mercedes,1.0,Finished,5.036,0,1,2018,1,Melbourne
+3.0,RAI,7,Ferrari,2.0,Finished,6.309,0,1,2018,1,Melbourne
+4.0,RIC,3,Red Bull Racing,8.0,Finished,7.069,0,1,2018,1,Melbourne
+5.0,ALO,14,McLaren,10.0,Finished,27.886,0,1,2018,1,Melbourne
+6.0,VER,33,Red Bull Racing,4.0,Finished,28.945,0,1,2018,1,Melbourne
+7.0,HUL,27,Renault,7.0,Finished,32.671,0,1,2018,1,Melbourne
+8.0,BOT,77,Mercedes,15.0,Finished,34.339,0,1,2018,1,Melbourne
+9.0,VAN,2,McLaren,11.0,Finished,34.921,0,1,2018,1,Melbourne
+10.0,SAI,55,Renault,9.0,Finished,45.722,0,1,2018,1,Melbourne
+11.0,PER,11,Force India,12.0,Finished,46.817,0,1,2018,1,Melbourne
+12.0,OCO,31,Force India,14.0,Finished,60.278,0,1,2018,1,Melbourne
+13.0,LEC,16,Sauber,18.0,Finished,75.759,0,1,2018,1,Melbourne
+14.0,STR,18,Williams,13.0,Finished,78.288,0,1,2018,1,Melbourne
+15.0,HAR,28,Toro Rosso,16.0,+1 Lap,,0,1,2018,1,Melbourne
+16.0,GRO,8,Haas F1 Team,6.0,Wheel,,0,1,2018,1,Melbourne
+17.0,MAG,20,Haas F1 Team,5.0,Wheel,,0,1,2018,1,Melbourne
+18.0,GAS,10,Toro Rosso,20.0,Engine,,0,1,2018,1,Melbourne
+19.0,ERI,9,Sauber,17.0,Steering,,0,1,2018,1,Melbourne
+20.0,SIR,35,Williams,19.0,Brakes,,0,1,2018,1,Melbourne
+1.0,VET,5,Ferrari,1.0,Finished,5521.94,0,0,2018,2,Sakhir
+2.0,BOT,77,Mercedes,3.0,Finished,0.699,0,0,2018,2,Sakhir
+3.0,HAM,44,Mercedes,9.0,Finished,6.5120000000000005,0,0,2018,2,Sakhir
+4.0,GAS,10,Toro Rosso,5.0,Finished,62.234,0,0,2018,2,Sakhir
+5.0,MAG,20,Haas F1 Team,6.0,Finished,75.046,0,0,2018,2,Sakhir
+6.0,HUL,27,Renault,7.0,Finished,99.024,0,0,2018,2,Sakhir
+7.0,ALO,14,McLaren,13.0,+1 Lap,,0,0,2018,2,Sakhir
+8.0,VAN,2,McLaren,14.0,+1 Lap,,0,0,2018,2,Sakhir
+9.0,ERI,9,Sauber,17.0,+1 Lap,,0,0,2018,2,Sakhir
+10.0,OCO,31,Force India,8.0,+1 Lap,,0,0,2018,2,Sakhir
+11.0,SAI,55,Renault,10.0,+1 Lap,,0,0,2018,2,Sakhir
+12.0,LEC,16,Sauber,19.0,+1 Lap,,0,0,2018,2,Sakhir
+13.0,GRO,8,Haas F1 Team,16.0,+1 Lap,,0,0,2018,2,Sakhir
+14.0,STR,18,Williams,20.0,+1 Lap,,0,0,2018,2,Sakhir
+15.0,SIR,35,Williams,18.0,+1 Lap,,0,0,2018,2,Sakhir
+16.0,PER,11,Force India,12.0,+1 Lap,,0,0,2018,2,Sakhir
+17.0,HAR,28,Toro Rosso,11.0,+1 Lap,,0,0,2018,2,Sakhir
+18.0,RAI,7,Ferrari,2.0,Wheel,,0,0,2018,2,Sakhir
+19.0,VER,33,Red Bull Racing,15.0,Puncture,,0,0,2018,2,Sakhir
+20.0,RIC,3,Red Bull Racing,4.0,Electrical,,0,0,2018,2,Sakhir
+1.0,RIC,3,Red Bull Racing,6.0,Finished,5736.38,0,1,2018,3,Shanghai
+2.0,BOT,77,Mercedes,3.0,Finished,8.894,0,1,2018,3,Shanghai
+3.0,RAI,7,Ferrari,2.0,Finished,9.637,0,1,2018,3,Shanghai
+4.0,HAM,44,Mercedes,4.0,Finished,16.985,0,1,2018,3,Shanghai
+5.0,VER,33,Red Bull Racing,5.0,Finished,20.436,0,1,2018,3,Shanghai
+6.0,HUL,27,Renault,7.0,Finished,21.052,0,1,2018,3,Shanghai
+7.0,ALO,14,McLaren,13.0,Finished,30.639,0,1,2018,3,Shanghai
+8.0,VET,5,Ferrari,1.0,Finished,35.286,0,1,2018,3,Shanghai
+9.0,SAI,55,Renault,9.0,Finished,35.763,0,1,2018,3,Shanghai
+10.0,MAG,20,Haas F1 Team,11.0,Finished,39.594,0,1,2018,3,Shanghai
+11.0,OCO,31,Force India,12.0,Finished,44.05,0,1,2018,3,Shanghai
+12.0,PER,11,Force India,8.0,Finished,44.725,0,1,2018,3,Shanghai
+13.0,VAN,2,McLaren,14.0,Finished,49.373,0,1,2018,3,Shanghai
+14.0,STR,18,Williams,18.0,Finished,55.49,0,1,2018,3,Shanghai
+15.0,SIR,35,Williams,16.0,Finished,58.241,0,1,2018,3,Shanghai
+16.0,ERI,9,Sauber,20.0,Finished,62.604,0,1,2018,3,Shanghai
+17.0,GRO,8,Haas F1 Team,10.0,Finished,65.296,0,1,2018,3,Shanghai
+18.0,GAS,10,Toro Rosso,17.0,Finished,66.33,0,1,2018,3,Shanghai
+19.0,LEC,16,Sauber,19.0,Finished,82.575,0,1,2018,3,Shanghai
+20.0,HAR,28,Toro Rosso,15.0,Collision damage,,0,1,2018,3,Shanghai
+1.0,HAM,44,Mercedes,2.0,Finished,6224.291,0,0,2018,4,Baku
+2.0,RAI,7,Ferrari,6.0,Finished,2.46,0,0,2018,4,Baku
+3.0,PER,11,Force India,8.0,Finished,4.024,0,0,2018,4,Baku
+4.0,VET,5,Ferrari,1.0,Finished,5.329,0,0,2018,4,Baku
+5.0,SAI,55,Renault,9.0,Finished,7.515,0,0,2018,4,Baku
+6.0,LEC,16,Sauber,13.0,Finished,9.158,0,0,2018,4,Baku
+7.0,ALO,14,McLaren,12.0,Finished,10.931000000000001,0,0,2018,4,Baku
+8.0,STR,18,Williams,10.0,Finished,12.546,0,0,2018,4,Baku
+9.0,VAN,2,McLaren,16.0,Finished,14.152,0,0,2018,4,Baku
+10.0,HAR,28,Toro Rosso,19.0,Finished,18.03,0,0,2018,4,Baku
+11.0,ERI,9,Sauber,18.0,Finished,18.512,0,0,2018,4,Baku
+12.0,GAS,10,Toro Rosso,17.0,Finished,24.72,0,0,2018,4,Baku
+13.0,MAG,20,Haas F1 Team,15.0,Finished,40.663,0,0,2018,4,Baku
+14.0,BOT,77,Mercedes,3.0,Puncture,,0,0,2018,4,Baku
+15.0,GRO,8,Haas F1 Team,20.0,Accident,,0,0,2018,4,Baku
+16.0,VER,33,Red Bull Racing,5.0,Collision,,0,0,2018,4,Baku
+17.0,RIC,3,Red Bull Racing,4.0,Collision,,0,0,2018,4,Baku
+18.0,HUL,27,Renault,14.0,Accident,,0,0,2018,4,Baku
+19.0,OCO,31,Force India,7.0,Collision,,0,0,2018,4,Baku
+20.0,SIR,35,Williams,11.0,Collision,,0,0,2018,4,Baku
+1.0,HAM,44,Mercedes,1.0,Finished,5729.972,0,1,2018,5,Barcelona
+2.0,BOT,77,Mercedes,2.0,Finished,20.593,0,1,2018,5,Barcelona
+3.0,VER,33,Red Bull Racing,5.0,Finished,26.873,0,1,2018,5,Barcelona
+4.0,VET,5,Ferrari,3.0,Finished,27.584,0,1,2018,5,Barcelona
+5.0,RIC,3,Red Bull Racing,6.0,Finished,50.058,0,1,2018,5,Barcelona
+6.0,MAG,20,Haas F1 Team,7.0,+1 Lap,,0,1,2018,5,Barcelona
+7.0,SAI,55,Renault,9.0,+1 Lap,,0,1,2018,5,Barcelona
+8.0,ALO,14,McLaren,8.0,+1 Lap,,0,1,2018,5,Barcelona
+9.0,PER,11,Force India,15.0,+2 Laps,,0,1,2018,5,Barcelona
+10.0,LEC,16,Sauber,14.0,+2 Laps,,0,1,2018,5,Barcelona
+11.0,STR,18,Williams,18.0,+2 Laps,,0,1,2018,5,Barcelona
+12.0,HAR,28,Toro Rosso,20.0,+2 Laps,,0,1,2018,5,Barcelona
+13.0,ERI,9,Sauber,17.0,+2 Laps,,0,1,2018,5,Barcelona
+14.0,SIR,35,Williams,19.0,+3 Laps,,0,1,2018,5,Barcelona
+15.0,VAN,2,McLaren,11.0,Gearbox,,0,1,2018,5,Barcelona
+16.0,OCO,31,Force India,13.0,Oil leak,,0,1,2018,5,Barcelona
+17.0,RAI,7,Ferrari,4.0,Turbo,,0,1,2018,5,Barcelona
+18.0,GRO,8,Haas F1 Team,10.0,Collision,,0,1,2018,5,Barcelona
+19.0,GAS,10,Toro Rosso,12.0,Collision,,0,1,2018,5,Barcelona
+20.0,HUL,27,Renault,16.0,Collision,,0,1,2018,5,Barcelona
+1.0,RIC,3,Red Bull Racing,1.0,Finished,6174.807,0,1,2018,6,Monte Carlo
+2.0,VET,5,Ferrari,2.0,Finished,7.336,0,1,2018,6,Monte Carlo
+3.0,HAM,44,Mercedes,3.0,Finished,17.013,0,1,2018,6,Monte Carlo
+4.0,RAI,7,Ferrari,4.0,Finished,18.127,0,1,2018,6,Monte Carlo
+5.0,BOT,77,Mercedes,5.0,Finished,18.822,0,1,2018,6,Monte Carlo
+6.0,OCO,31,Force India,6.0,Finished,23.667,0,1,2018,6,Monte Carlo
+7.0,GAS,10,Toro Rosso,10.0,Finished,24.331,0,1,2018,6,Monte Carlo
+8.0,HUL,27,Renault,11.0,Finished,24.839,0,1,2018,6,Monte Carlo
+9.0,VER,33,Red Bull Racing,20.0,Finished,25.317,0,1,2018,6,Monte Carlo
+10.0,SAI,55,Renault,8.0,Finished,69.013,0,1,2018,6,Monte Carlo
+11.0,ERI,9,Sauber,16.0,Finished,69.864,0,1,2018,6,Monte Carlo
+12.0,PER,11,Force India,9.0,Finished,70.461,0,1,2018,6,Monte Carlo
+13.0,MAG,20,Haas F1 Team,19.0,Finished,74.823,0,1,2018,6,Monte Carlo
+14.0,VAN,2,McLaren,12.0,+1 Lap,,0,1,2018,6,Monte Carlo
+15.0,GRO,8,Haas F1 Team,18.0,+1 Lap,,0,1,2018,6,Monte Carlo
+16.0,SIR,35,Williams,13.0,+1 Lap,,0,1,2018,6,Monte Carlo
+17.0,STR,18,Williams,17.0,+2 Laps,,0,1,2018,6,Monte Carlo
+18.0,LEC,16,Sauber,14.0,Collision,,0,1,2018,6,Monte Carlo
+19.0,HAR,28,Toro Rosso,15.0,Collision,,0,1,2018,6,Monte Carlo
+20.0,ALO,14,McLaren,7.0,Gearbox,,0,1,2018,6,Monte Carlo
+1.0,VET,5,Ferrari,1.0,Finished,5311.377,0,0,2018,7,Montréal
+2.0,BOT,77,Mercedes,2.0,Finished,7.376,0,0,2018,7,Montréal
+3.0,VER,33,Red Bull Racing,3.0,Finished,8.36,0,0,2018,7,Montréal
+4.0,RIC,3,Red Bull Racing,6.0,Finished,20.892,0,0,2018,7,Montréal
+5.0,HAM,44,Mercedes,4.0,Finished,21.559,0,0,2018,7,Montréal
+6.0,RAI,7,Ferrari,5.0,Finished,27.184,0,0,2018,7,Montréal
+7.0,HUL,27,Renault,7.0,+1 Lap,,0,0,2018,7,Montréal
+8.0,SAI,55,Renault,9.0,+1 Lap,,0,0,2018,7,Montréal
+9.0,OCO,31,Force India,8.0,+1 Lap,,0,0,2018,7,Montréal
+10.0,LEC,16,Sauber,13.0,+1 Lap,,0,0,2018,7,Montréal
+11.0,GAS,10,Toro Rosso,16.0,+1 Lap,,0,0,2018,7,Montréal
+12.0,GRO,8,Haas F1 Team,20.0,+1 Lap,,0,0,2018,7,Montréal
+13.0,MAG,20,Haas F1 Team,11.0,+1 Lap,,0,0,2018,7,Montréal
+14.0,PER,11,Force India,10.0,+1 Lap,,0,0,2018,7,Montréal
+15.0,ERI,9,Sauber,19.0,+2 Laps,,0,0,2018,7,Montréal
+16.0,VAN,2,McLaren,15.0,+2 Laps,,0,0,2018,7,Montréal
+17.0,SIR,35,Williams,18.0,+2 Laps,,0,0,2018,7,Montréal
+18.0,ALO,14,McLaren,14.0,Exhaust,,1,0,2018,7,Montréal
+19.0,HAR,28,Toro Rosso,12.0,Collision,,0,0,2018,7,Montréal
+20.0,STR,18,Williams,17.0,Collision,,0,0,2018,7,Montréal
+1.0,HAM,44,Mercedes,1.0,Finished,5411.385,0,1,2018,8,Le Castellet
+2.0,VER,33,Red Bull Racing,4.0,Finished,7.09,0,1,2018,8,Le Castellet
+3.0,RAI,7,Ferrari,6.0,Finished,25.888,0,1,2018,8,Le Castellet
+4.0,RIC,3,Red Bull Racing,5.0,Finished,34.736,0,1,2018,8,Le Castellet
+5.0,VET,5,Ferrari,3.0,Finished,61.935,0,1,2018,8,Le Castellet
+6.0,MAG,20,Haas F1 Team,9.0,Finished,79.364,0,1,2018,8,Le Castellet
+7.0,BOT,77,Mercedes,2.0,Finished,80.632,0,1,2018,8,Le Castellet
+8.0,SAI,55,Renault,7.0,Finished,87.184,0,1,2018,8,Le Castellet
+9.0,HUL,27,Renault,12.0,Finished,91.989,0,1,2018,8,Le Castellet
+10.0,LEC,16,Sauber,8.0,Finished,93.873,0,1,2018,8,Le Castellet
+11.0,GRO,8,Haas F1 Team,10.0,+1 Lap,,0,1,2018,8,Le Castellet
+12.0,VAN,2,McLaren,17.0,+1 Lap,,0,1,2018,8,Le Castellet
+13.0,ERI,9,Sauber,15.0,+1 Lap,,0,1,2018,8,Le Castellet
+14.0,HAR,28,Toro Rosso,20.0,+1 Lap,,0,1,2018,8,Le Castellet
+15.0,SIR,35,Williams,18.0,+1 Lap,,0,1,2018,8,Le Castellet
+16.0,ALO,14,McLaren,16.0,Wheel,,0,1,2018,8,Le Castellet
+17.0,STR,18,Williams,19.0,Puncture,,0,1,2018,8,Le Castellet
+18.0,PER,11,Force India,13.0,Engine,,0,1,2018,8,Le Castellet
+19.0,OCO,31,Force India,11.0,Collision,,0,1,2018,8,Le Castellet
+20.0,GAS,10,Toro Rosso,14.0,Collision,,0,1,2018,8,Le Castellet
+1.0,VER,33,Red Bull Racing,4.0,Finished,4916.024,0,0,2018,9,Spielberg
+2.0,RAI,7,Ferrari,3.0,Finished,1.504,0,0,2018,9,Spielberg
+3.0,VET,5,Ferrari,6.0,Finished,3.181,0,0,2018,9,Spielberg
+4.0,GRO,8,Haas F1 Team,5.0,+1 Lap,,0,0,2018,9,Spielberg
+5.0,MAG,20,Haas F1 Team,8.0,+1 Lap,,0,0,2018,9,Spielberg
+6.0,OCO,31,Force India,11.0,+1 Lap,,0,0,2018,9,Spielberg
+7.0,PER,11,Force India,16.0,+1 Lap,,0,0,2018,9,Spielberg
+8.0,ALO,14,McLaren,13.0,+1 Lap,,0,0,2018,9,Spielberg
+9.0,LEC,16,Sauber,18.0,+1 Lap,,0,0,2018,9,Spielberg
+10.0,ERI,9,Sauber,20.0,+1 Lap,,0,0,2018,9,Spielberg
+11.0,GAS,10,Toro Rosso,12.0,+1 Lap,,0,0,2018,9,Spielberg
+12.0,SAI,55,Renault,9.0,+1 Lap,,0,0,2018,9,Spielberg
+13.0,SIR,35,Williams,17.0,+2 Laps,,0,0,2018,9,Spielberg
+14.0,STR,18,Williams,14.0,+2 Laps,,0,0,2018,9,Spielberg
+15.0,VAN,2,McLaren,15.0,Collision damage,,0,0,2018,9,Spielberg
+16.0,HAM,44,Mercedes,2.0,Fuel pressure,,0,0,2018,9,Spielberg
+17.0,HAR,28,Toro Rosso,19.0,Hydraulics,,0,0,2018,9,Spielberg
+18.0,RIC,3,Red Bull Racing,7.0,Exhaust,,0,0,2018,9,Spielberg
+19.0,BOT,77,Mercedes,1.0,Hydraulics,,0,0,2018,9,Spielberg
+20.0,HUL,27,Renault,10.0,Engine,,0,0,2018,9,Spielberg
+1.0,VET,5,Ferrari,2.0,Finished,5249.784,0,0,2018,10,Silverstone
+2.0,HAM,44,Mercedes,1.0,Finished,2.2640000000000002,0,0,2018,10,Silverstone
+3.0,RAI,7,Ferrari,3.0,Finished,3.652,0,0,2018,10,Silverstone
+4.0,BOT,77,Mercedes,4.0,Finished,8.883,0,0,2018,10,Silverstone
+5.0,RIC,3,Red Bull Racing,6.0,Finished,9.5,0,0,2018,10,Silverstone
+6.0,HUL,27,Renault,11.0,Finished,28.22,0,0,2018,10,Silverstone
+7.0,OCO,31,Force India,10.0,Finished,29.93,0,0,2018,10,Silverstone
+8.0,ALO,14,McLaren,13.0,Finished,31.115,0,0,2018,10,Silverstone
+9.0,MAG,20,Haas F1 Team,7.0,Finished,33.188,0,0,2018,10,Silverstone
+10.0,PER,11,Force India,12.0,Finished,34.708,0,0,2018,10,Silverstone
+11.0,VAN,2,McLaren,17.0,Finished,35.774,0,0,2018,10,Silverstone
+12.0,STR,18,Williams,19.0,Finished,38.106,0,0,2018,10,Silverstone
+13.0,GAS,10,Toro Rosso,14.0,Finished,39.129,0,0,2018,10,Silverstone
+14.0,SIR,35,Williams,18.0,Finished,48.113,0,0,2018,10,Silverstone
+15.0,VER,33,Red Bull Racing,5.0,Brakes,,0,0,2018,10,Silverstone
+16.0,GRO,8,Haas F1 Team,8.0,Collision,,0,0,2018,10,Silverstone
+17.0,SAI,55,Renault,16.0,Collision,,0,0,2018,10,Silverstone
+18.0,ERI,9,Sauber,15.0,Accident,,0,0,2018,10,Silverstone
+19.0,LEC,16,Sauber,9.0,Tyre,,0,0,2018,10,Silverstone
+20.0,HAR,28,Toro Rosso,0.0,Power Unit,,1,0,2018,10,Silverstone
+1.0,HAM,44,Mercedes,14.0,Finished,5549.845,0,1,2018,11,Hockenheim
+2.0,BOT,77,Mercedes,2.0,Finished,4.535,0,1,2018,11,Hockenheim
+3.0,RAI,7,Ferrari,3.0,Finished,6.732,0,1,2018,11,Hockenheim
+4.0,VER,33,Red Bull Racing,4.0,Finished,7.654,0,1,2018,11,Hockenheim
+5.0,HUL,27,Renault,7.0,Finished,26.609,0,1,2018,11,Hockenheim
+6.0,GRO,8,Haas F1 Team,6.0,Finished,28.871,0,1,2018,11,Hockenheim
+7.0,PER,11,Force India,10.0,Finished,30.556,0,1,2018,11,Hockenheim
+8.0,OCO,31,Force India,15.0,Finished,31.75,0,1,2018,11,Hockenheim
+9.0,ERI,9,Sauber,13.0,Finished,32.362,0,1,2018,11,Hockenheim
+10.0,HAR,28,Toro Rosso,17.0,Finished,34.197,0,1,2018,11,Hockenheim
+11.0,MAG,20,Haas F1 Team,5.0,Finished,34.919,0,1,2018,11,Hockenheim
+12.0,SAI,55,Renault,8.0,Finished,43.069,0,1,2018,11,Hockenheim
+13.0,VAN,2,McLaren,19.0,Finished,46.617,0,1,2018,11,Hockenheim
+14.0,GAS,10,Toro Rosso,16.0,+1 Lap,,0,1,2018,11,Hockenheim
+15.0,LEC,16,Sauber,9.0,+1 Lap,,0,1,2018,11,Hockenheim
+16.0,ALO,14,McLaren,11.0,Retired,,0,1,2018,11,Hockenheim
+17.0,STR,18,Williams,18.0,Engine,,0,1,2018,11,Hockenheim
+18.0,VET,5,Ferrari,1.0,Accident,,0,1,2018,11,Hockenheim
+19.0,SIR,35,Williams,12.0,Engine,,0,1,2018,11,Hockenheim
+20.0,RIC,3,Red Bull Racing,20.0,Engine,,0,1,2018,11,Hockenheim
+1.0,HAM,44,Mercedes,1.0,Finished,5836.427,0,0,2018,12,Budapest
+2.0,VET,5,Ferrari,4.0,Finished,17.123,0,0,2018,12,Budapest
+3.0,RAI,7,Ferrari,3.0,Finished,20.101,0,0,2018,12,Budapest
+4.0,RIC,3,Red Bull Racing,12.0,Finished,46.419,0,0,2018,12,Budapest
+5.0,BOT,77,Mercedes,2.0,Finished,50.0,0,0,2018,12,Budapest
+6.0,GAS,10,Toro Rosso,6.0,Finished,73.273,0,0,2018,12,Budapest
+7.0,MAG,20,Haas F1 Team,9.0,+1 Lap,,0,0,2018,12,Budapest
+8.0,ALO,14,McLaren,11.0,+1 Lap,,0,0,2018,12,Budapest
+9.0,SAI,55,Renault,5.0,+1 Lap,,0,0,2018,12,Budapest
+10.0,GRO,8,Haas F1 Team,10.0,+1 Lap,,0,0,2018,12,Budapest
+11.0,HAR,28,Toro Rosso,8.0,+1 Lap,,0,0,2018,12,Budapest
+12.0,HUL,27,Renault,13.0,+1 Lap,,0,0,2018,12,Budapest
+13.0,OCO,31,Force India,18.0,+1 Lap,,0,0,2018,12,Budapest
+14.0,PER,11,Force India,19.0,+1 Lap,,0,0,2018,12,Budapest
+15.0,ERI,9,Sauber,14.0,+2 Laps,,0,0,2018,12,Budapest
+16.0,SIR,35,Williams,20.0,+2 Laps,,0,0,2018,12,Budapest
+17.0,STR,18,Williams,15.0,+2 Laps,,0,0,2018,12,Budapest
+18.0,VAN,2,McLaren,16.0,Gearbox,,0,0,2018,12,Budapest
+19.0,VER,33,Red Bull Racing,7.0,Power loss,,0,0,2018,12,Budapest
+20.0,LEC,16,Sauber,17.0,Suspension,,0,0,2018,12,Budapest
+1.0,VET,5,Ferrari,2.0,Finished,5014.476,0,0,2018,13,Spa-Francorchamps
+2.0,HAM,44,Mercedes,1.0,Finished,11.061,0,0,2018,13,Spa-Francorchamps
+3.0,VER,33,Red Bull Racing,7.0,Finished,31.372,0,0,2018,13,Spa-Francorchamps
+4.0,BOT,77,Mercedes,19.0,Finished,63.605,1,0,2018,13,Spa-Francorchamps
+5.0,PER,11,Racing Point,4.0,Finished,71.023,0,0,2018,13,Spa-Francorchamps
+6.0,OCO,31,Racing Point,3.0,Finished,79.52,0,0,2018,13,Spa-Francorchamps
+7.0,GRO,8,Haas F1 Team,5.0,Finished,85.953,0,0,2018,13,Spa-Francorchamps
+8.0,MAG,20,Haas F1 Team,9.0,Finished,87.639,0,0,2018,13,Spa-Francorchamps
+9.0,GAS,10,Toro Rosso,10.0,Finished,105.892,0,0,2018,13,Spa-Francorchamps
+10.0,ERI,9,Sauber,13.0,+1 Lap,,0,0,2018,13,Spa-Francorchamps
+11.0,SAI,55,Renault,14.0,+1 Lap,,0,0,2018,13,Spa-Francorchamps
+12.0,SIR,35,Williams,16.0,+1 Lap,,0,0,2018,13,Spa-Francorchamps
+13.0,STR,18,Williams,17.0,+1 Lap,,0,0,2018,13,Spa-Francorchamps
+14.0,HAR,28,Toro Rosso,11.0,+1 Lap,,0,0,2018,13,Spa-Francorchamps
+15.0,VAN,2,McLaren,18.0,+1 Lap,,1,0,2018,13,Spa-Francorchamps
+16.0,RIC,3,Red Bull Racing,8.0,Retired,,0,0,2018,13,Spa-Francorchamps
+17.0,RAI,7,Ferrari,6.0,Brakes,,1,0,2018,13,Spa-Francorchamps
+18.0,LEC,16,Sauber,12.0,Accident,,0,0,2018,13,Spa-Francorchamps
+19.0,ALO,14,McLaren,15.0,Accident,,0,0,2018,13,Spa-Francorchamps
+20.0,HUL,27,Renault,20.0,Accident,,0,0,2018,13,Spa-Francorchamps
+1.0,HAM,44,Mercedes,3.0,Finished,4614.484,0,1,2018,14,Monza
+2.0,RAI,7,Ferrari,1.0,Finished,8.705,0,1,2018,14,Monza
+3.0,BOT,77,Mercedes,4.0,Finished,14.066,0,1,2018,14,Monza
+4.0,VET,5,Ferrari,2.0,Finished,16.151,0,1,2018,14,Monza
+5.0,VER,33,Red Bull Racing,5.0,Finished,18.208,0,1,2018,14,Monza
+6.0,OCO,31,Racing Point,8.0,Finished,57.761,0,1,2018,14,Monza
+7.0,PER,11,Racing Point,14.0,Finished,58.678,0,1,2018,14,Monza
+8.0,SAI,55,Renault,7.0,Finished,78.14,0,1,2018,14,Monza
+9.0,STR,18,Williams,10.0,+1 Lap,,0,1,2018,14,Monza
+10.0,SIR,35,Williams,12.0,+1 Lap,,0,1,2018,14,Monza
+11.0,LEC,16,Sauber,15.0,+1 Lap,,0,1,2018,14,Monza
+12.0,VAN,2,McLaren,17.0,+1 Lap,,0,1,2018,14,Monza
+13.0,HUL,27,Renault,20.0,+1 Lap,,0,1,2018,14,Monza
+14.0,GAS,10,Toro Rosso,9.0,+1 Lap,,0,1,2018,14,Monza
+15.0,ERI,9,Sauber,18.0,+1 Lap,,0,1,2018,14,Monza
+16.0,MAG,20,Haas F1 Team,11.0,+1 Lap,,0,1,2018,14,Monza
+17.0,RIC,3,Red Bull Racing,19.0,Engine,,0,1,2018,14,Monza
+18.0,ALO,14,McLaren,13.0,Engine,,0,1,2018,14,Monza
+19.0,HAR,28,Toro Rosso,16.0,Brakes,,0,1,2018,14,Monza
+20.0,GRO,8,Haas F1 Team,6.0,Disqualified,,0,1,2018,14,Monza
+1.0,HAM,44,Mercedes,1.0,Finished,6671.611,0,0,2018,15,Singapore
+2.0,VER,33,Red Bull Racing,2.0,Finished,8.961,0,0,2018,15,Singapore
+3.0,VET,5,Ferrari,3.0,Finished,39.984,0,0,2018,15,Singapore
+4.0,BOT,77,Mercedes,4.0,Finished,51.93,0,0,2018,15,Singapore
+5.0,RAI,7,Ferrari,5.0,Finished,53.001,0,0,2018,15,Singapore
+6.0,RIC,3,Red Bull Racing,6.0,Finished,53.982,0,0,2018,15,Singapore
+7.0,ALO,14,McLaren,11.0,Finished,103.001,0,0,2018,15,Singapore
+8.0,SAI,55,Renault,12.0,+1 Lap,,0,0,2018,15,Singapore
+9.0,LEC,16,Sauber,13.0,+1 Lap,,0,0,2018,15,Singapore
+10.0,HUL,27,Renault,10.0,+1 Lap,,0,0,2018,15,Singapore
+11.0,ERI,9,Sauber,14.0,+1 Lap,,0,0,2018,15,Singapore
+12.0,VAN,2,McLaren,18.0,+1 Lap,,0,0,2018,15,Singapore
+13.0,GAS,10,Toro Rosso,15.0,+1 Lap,,0,0,2018,15,Singapore
+14.0,STR,18,Williams,20.0,+1 Lap,,0,0,2018,15,Singapore
+15.0,GRO,8,Haas F1 Team,8.0,+1 Lap,,0,0,2018,15,Singapore
+16.0,PER,11,Racing Point,7.0,+1 Lap,,0,0,2018,15,Singapore
+17.0,HAR,28,Toro Rosso,17.0,+1 Lap,,0,0,2018,15,Singapore
+18.0,MAG,20,Haas F1 Team,16.0,+2 Laps,,0,0,2018,15,Singapore
+19.0,SIR,35,Williams,19.0,+2 Laps,,0,0,2018,15,Singapore
+20.0,OCO,31,Racing Point,9.0,Collision,,0,0,2018,15,Singapore
+1.0,HAM,44,Mercedes,2.0,Finished,5245.181,0,1,2018,16,Sochi
+2.0,BOT,77,Mercedes,1.0,Finished,2.545,0,1,2018,16,Sochi
+3.0,VET,5,Ferrari,3.0,Finished,7.487,0,1,2018,16,Sochi
+4.0,RAI,7,Ferrari,4.0,Finished,16.543,0,1,2018,16,Sochi
+5.0,VER,33,Red Bull Racing,19.0,Finished,31.016,0,1,2018,16,Sochi
+6.0,RIC,3,Red Bull Racing,18.0,Finished,80.451,0,1,2018,16,Sochi
+7.0,LEC,16,Sauber,7.0,Finished,98.39,0,1,2018,16,Sochi
+8.0,MAG,20,Haas F1 Team,5.0,+1 Lap,,0,1,2018,16,Sochi
+9.0,OCO,31,Racing Point,6.0,+1 Lap,,0,1,2018,16,Sochi
+10.0,PER,11,Racing Point,8.0,+1 Lap,,0,1,2018,16,Sochi
+11.0,GRO,8,Haas F1 Team,9.0,+1 Lap,,0,1,2018,16,Sochi
+12.0,HUL,27,Renault,12.0,+1 Lap,,0,1,2018,16,Sochi
+13.0,ERI,9,Sauber,10.0,+1 Lap,,0,1,2018,16,Sochi
+14.0,ALO,14,McLaren,16.0,+1 Lap,,0,1,2018,16,Sochi
+15.0,STR,18,Williams,14.0,+1 Lap,,0,1,2018,16,Sochi
+16.0,VAN,2,McLaren,15.0,+2 Laps,,0,1,2018,16,Sochi
+17.0,SAI,55,Renault,11.0,+2 Laps,,0,1,2018,16,Sochi
+18.0,SIR,35,Williams,13.0,+2 Laps,,0,1,2018,16,Sochi
+19.0,GAS,10,Toro Rosso,17.0,Brakes,,0,1,2018,16,Sochi
+20.0,HAR,28,Toro Rosso,20.0,Brakes,,1,1,2018,16,Sochi
+1.0,HAM,44,Mercedes,1.0,Finished,5237.062,0,0,2018,17,Suzuka
+2.0,BOT,77,Mercedes,2.0,Finished,12.919,0,0,2018,17,Suzuka
+3.0,VER,33,Red Bull Racing,3.0,Finished,14.295,0,0,2018,17,Suzuka
+4.0,RIC,3,Red Bull Racing,15.0,Finished,19.495,0,0,2018,17,Suzuka
+5.0,RAI,7,Ferrari,4.0,Finished,50.998,0,0,2018,17,Suzuka
+6.0,VET,5,Ferrari,8.0,Finished,69.873,0,0,2018,17,Suzuka
+7.0,PER,11,Racing Point,9.0,Finished,79.379,0,0,2018,17,Suzuka
+8.0,GRO,8,Haas F1 Team,5.0,Finished,87.198,0,0,2018,17,Suzuka
+9.0,OCO,31,Racing Point,11.0,Finished,88.055,0,0,2018,17,Suzuka
+10.0,SAI,55,Renault,13.0,+1 Lap,,0,0,2018,17,Suzuka
+11.0,GAS,10,Toro Rosso,7.0,+1 Lap,,0,0,2018,17,Suzuka
+12.0,ERI,9,Sauber,20.0,+1 Lap,,0,0,2018,17,Suzuka
+13.0,HAR,28,Toro Rosso,6.0,+1 Lap,,0,0,2018,17,Suzuka
+14.0,ALO,14,McLaren,18.0,+1 Lap,,0,0,2018,17,Suzuka
+15.0,VAN,2,McLaren,19.0,+1 Lap,,0,0,2018,17,Suzuka
+16.0,SIR,35,Williams,17.0,+1 Lap,,0,0,2018,17,Suzuka
+17.0,STR,18,Williams,14.0,+1 Lap,,0,0,2018,17,Suzuka
+18.0,LEC,16,Sauber,10.0,Mechanical,,0,0,2018,17,Suzuka
+19.0,HUL,27,Renault,16.0,Engine,,0,0,2018,17,Suzuka
+20.0,MAG,20,Haas F1 Team,12.0,Collision damage,,0,0,2018,17,Suzuka
+1.0,RAI,7,Ferrari,2.0,Finished,5658.643,0,0,2018,18,Austin
+2.0,VER,33,Red Bull Racing,18.0,Finished,1.2810000000000001,0,0,2018,18,Austin
+3.0,HAM,44,Mercedes,1.0,Finished,2.342,0,0,2018,18,Austin
+4.0,VET,5,Ferrari,5.0,Finished,18.222,0,0,2018,18,Austin
+5.0,BOT,77,Mercedes,3.0,Finished,24.744,0,0,2018,18,Austin
+6.0,HUL,27,Renault,7.0,Finished,87.21,0,0,2018,18,Austin
+7.0,SAI,55,Renault,11.0,Finished,94.994,0,0,2018,18,Austin
+8.0,PER,11,Racing Point,10.0,Finished,101.08,0,0,2018,18,Austin
+9.0,HAR,28,Toro Rosso,20.0,+1 Lap,,0,0,2018,18,Austin
+10.0,ERI,9,Sauber,16.0,+1 Lap,,0,0,2018,18,Austin
+11.0,VAN,2,McLaren,17.0,+1 Lap,,0,0,2018,18,Austin
+12.0,GAS,10,Toro Rosso,19.0,+1 Lap,,0,0,2018,18,Austin
+13.0,SIR,35,Williams,14.0,+1 Lap,,0,0,2018,18,Austin
+14.0,STR,18,Williams,15.0,+2 Laps,,0,0,2018,18,Austin
+15.0,LEC,16,Sauber,9.0,Collision damage,,0,0,2018,18,Austin
+16.0,RIC,3,Red Bull Racing,4.0,Battery,,0,0,2018,18,Austin
+17.0,GRO,8,Haas F1 Team,8.0,Collision damage,,1,0,2018,18,Austin
+18.0,ALO,14,McLaren,13.0,Collision,,0,0,2018,18,Austin
+19.0,OCO,31,Racing Point,6.0,Disqualified,,0,0,2018,18,Austin
+20.0,MAG,20,Haas F1 Team,12.0,Disqualified,,0,0,2018,18,Austin
+1.0,VER,33,Red Bull Racing,2.0,Finished,5908.851,0,0,2018,19,Mexico City
+2.0,VET,5,Ferrari,4.0,Finished,17.316,0,0,2018,19,Mexico City
+3.0,RAI,7,Ferrari,6.0,Finished,49.914,0,0,2018,19,Mexico City
+4.0,HAM,44,Mercedes,3.0,Finished,78.738,0,0,2018,19,Mexico City
+5.0,BOT,77,Mercedes,5.0,+1 Lap,,0,0,2018,19,Mexico City
+6.0,HUL,27,Renault,7.0,+2 Laps,,0,0,2018,19,Mexico City
+7.0,LEC,16,Sauber,9.0,+2 Laps,,0,0,2018,19,Mexico City
+8.0,VAN,2,McLaren,15.0,+2 Laps,,0,0,2018,19,Mexico City
+9.0,ERI,9,Sauber,10.0,+2 Laps,,0,0,2018,19,Mexico City
+10.0,GAS,10,Toro Rosso,20.0,+2 Laps,,0,0,2018,19,Mexico City
+11.0,OCO,31,Racing Point,11.0,+2 Laps,,0,0,2018,19,Mexico City
+12.0,STR,18,Williams,17.0,+2 Laps,,0,0,2018,19,Mexico City
+13.0,SIR,35,Williams,19.0,+2 Laps,,0,0,2018,19,Mexico City
+14.0,HAR,28,Toro Rosso,14.0,+2 Laps,,0,0,2018,19,Mexico City
+15.0,MAG,20,Haas F1 Team,16.0,+2 Laps,,0,0,2018,19,Mexico City
+16.0,GRO,8,Haas F1 Team,18.0,+3 Laps,,0,0,2018,19,Mexico City
+17.0,RIC,3,Red Bull Racing,1.0,Engine,,0,0,2018,19,Mexico City
+18.0,PER,11,Racing Point,13.0,Brakes,,0,0,2018,19,Mexico City
+19.0,SAI,55,Renault,8.0,Suspension,,0,0,2018,19,Mexico City
+20.0,ALO,14,McLaren,12.0,Engine,,0,0,2018,19,Mexico City
+1.0,HAM,44,Mercedes,1.0,Finished,5229.066,0,0,2018,20,São Paulo
+2.0,VER,33,Red Bull Racing,5.0,Finished,1.4689999999999999,0,0,2018,20,São Paulo
+3.0,RAI,7,Ferrari,4.0,Finished,4.764,0,0,2018,20,São Paulo
+4.0,RIC,3,Red Bull Racing,11.0,Finished,5.193,0,0,2018,20,São Paulo
+5.0,BOT,77,Mercedes,3.0,Finished,22.943,0,0,2018,20,São Paulo
+6.0,VET,5,Ferrari,2.0,Finished,26.997,0,0,2018,20,São Paulo
+7.0,LEC,16,Sauber,7.0,Finished,44.199,0,0,2018,20,São Paulo
+8.0,GRO,8,Haas F1 Team,8.0,Finished,51.23,0,0,2018,20,São Paulo
+9.0,MAG,20,Haas F1 Team,10.0,Finished,52.857,0,0,2018,20,São Paulo
+10.0,PER,11,Racing Point,12.0,+1 Lap,,0,0,2018,20,São Paulo
+11.0,HAR,28,Toro Rosso,16.0,+1 Lap,,0,0,2018,20,São Paulo
+12.0,SAI,55,Renault,15.0,+1 Lap,,0,0,2018,20,São Paulo
+13.0,GAS,10,Toro Rosso,9.0,+1 Lap,,0,0,2018,20,São Paulo
+14.0,VAN,2,McLaren,20.0,+1 Lap,,0,0,2018,20,São Paulo
+15.0,OCO,31,Racing Point,18.0,+1 Lap,,0,0,2018,20,São Paulo
+16.0,SIR,35,Williams,14.0,+2 Laps,,0,0,2018,20,São Paulo
+17.0,ALO,14,McLaren,17.0,+2 Laps,,0,0,2018,20,São Paulo
+18.0,STR,18,Williams,19.0,+2 Laps,,0,0,2018,20,São Paulo
+19.0,HUL,27,Renault,13.0,Overheating,,0,0,2018,20,São Paulo
+20.0,ERI,9,Sauber,6.0,Collision,,0,0,2018,20,São Paulo
+1.0,HAM,44,Mercedes,1.0,Finished,5980.382,0,1,2018,21,Yas Marina
+2.0,VET,5,Ferrari,3.0,Finished,2.581,0,1,2018,21,Yas Marina
+3.0,VER,33,Red Bull Racing,6.0,Finished,12.706,0,1,2018,21,Yas Marina
+4.0,RIC,3,Red Bull Racing,5.0,Finished,15.379,0,1,2018,21,Yas Marina
+5.0,BOT,77,Mercedes,2.0,Finished,47.957,0,1,2018,21,Yas Marina
+6.0,SAI,55,Renault,11.0,Finished,72.548,0,1,2018,21,Yas Marina
+7.0,LEC,16,Sauber,8.0,Finished,90.789,0,1,2018,21,Yas Marina
+8.0,PER,11,Racing Point,14.0,Finished,91.275,0,1,2018,21,Yas Marina
+9.0,GRO,8,Haas F1 Team,7.0,+1 Lap,,0,1,2018,21,Yas Marina
+10.0,MAG,20,Haas F1 Team,13.0,+1 Lap,,0,1,2018,21,Yas Marina
+11.0,ALO,14,McLaren,15.0,+1 Lap,,0,1,2018,21,Yas Marina
+12.0,HAR,28,Toro Rosso,16.0,+1 Lap,,0,1,2018,21,Yas Marina
+13.0,STR,18,Williams,20.0,+1 Lap,,0,1,2018,21,Yas Marina
+14.0,VAN,2,McLaren,18.0,+1 Lap,,0,1,2018,21,Yas Marina
+15.0,SIR,35,Williams,19.0,+1 Lap,,0,1,2018,21,Yas Marina
+16.0,GAS,10,Toro Rosso,17.0,Engine,,0,1,2018,21,Yas Marina
+17.0,OCO,31,Racing Point,9.0,Engine,,0,1,2018,21,Yas Marina
+18.0,ERI,9,Sauber,12.0,Power loss,,0,1,2018,21,Yas Marina
+19.0,RAI,7,Ferrari,4.0,Power loss,,0,1,2018,21,Yas Marina
+20.0,HUL,27,Renault,10.0,Collision,,0,1,2018,21,Yas Marina
