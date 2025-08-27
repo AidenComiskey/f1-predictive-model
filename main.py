@@ -13,26 +13,6 @@ def get_race_results(year, round_num):
     race.load()
     race_results = race.results[['Position', 'Abbreviation', 'DriverNumber', 'TeamName', 'GridPosition', 'Status']].copy()
 
-    # get the average lap time for each driver and add it as a column to the data
-    # only count laps under the green flag (not under safety car)
-    # Only keep laps with valid LapTime
-    valid_laps = race.laps[race.laps['LapTime'].notna()]
-
-    # filter green flag laps if TrackStatus exists
-    if 'TrackStatus' in valid_laps.columns:
-        valid_laps = valid_laps[valid_laps['TrackStatus'] == 'Green']
-
-    # Compute average per driver
-    avg_lap_times = valid_laps.groupby('DriverNumber')['LapTime'].mean()
-
-    # Convert timedelta to seconds
-    if avg_lap_times.dtype == 'timedelta64[ns]':
-        avg_lap_times = avg_lap_times.dt.total_seconds()
-
-    # Map to race_results
-    race_results['AvgLapTime'] = race_results['DriverNumber'].map(avg_lap_times)
-
-
     # Initialize columns
     is_finished = []
     retirement_category = []
@@ -61,11 +41,6 @@ def get_race_results(year, round_num):
     # Add computed columns
     race_results['IsFinished'] = is_finished
     race_results['RetirementCategory'] = retirement_category
-
-    # get all valid pit stops from the race and add it to pitstops column
-    # fill null values with 0 to indicate no pit stops
-    pitstops = race.laps.groupby('DriverNumber').apply(lambda x: (x['PitInTime'].notna() & x['PitOutTime'].notna()).sum())
-    race_results['PitStops'] = race_results['DriverNumber'].map(pitstops).fillna(0).astype(int)
 
     # check if it was a wet race, true if rainfall is > 0mm
     is_wet = race.weather_data['Rainfall'].sum() > 0
