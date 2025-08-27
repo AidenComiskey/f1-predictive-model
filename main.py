@@ -11,13 +11,13 @@ ff.Cache.enable_cache('f1_cache')
 def get_race_results(year, round_num):
     race = ff.get_session(year, round_num, 'Race')
     race.load()
-    race_results = race.results[['Position', 'Abbreviation', 'DriverNumber', 'TeamName', 'GridPosition', 'Status', 'Time']].copy()
-
-    # create a column for the race time in seconds and convert time column to seconds
-    race_results['RaceTime_Sec'] = race_results['Time'].apply(lambda x: to_timedelta(x).total_seconds() if pd.notna(x) else None)
+    race_results = race.results[['Position', 'Abbreviation', 'DriverNumber', 'TeamName', 'GridPosition', 'Status']].copy()
 
     # get the average lap time for each driver and add it as a column to the data
-    avg_lap_times = (race.laps.groupby('DriverNumber')['LapTime']
+    # only count laps under the green flag (not under safety car)
+    green_flag_laps = race.laps[race.laps['TrackStatus'] == "Green"]
+
+    avg_lap_times = (green_flag_laps.groupby('DriverNumber')['LapTime']
                      .mean()
                      .dt.total_seconds())
     race_results['AvgLapTime'] = race_results['DriverNumber'].map(avg_lap_times)
@@ -75,11 +75,13 @@ def get_race_results(year, round_num):
     is_wet = race.weather_data['Rainfall'].sum() > 0
     race_results['IsWetRace'] = int(is_wet)
 
+    # add column to indicate if there was a safety car deployed during the race
+    has_sc = any(race.session_events['EventType'] == 'SAFETY_CAR_DEPLOYED')
+    race_results['SafetyCarDeployed'] = int(has_sc)
+
     race_results['Year'] = year
     race_results['Round'] = round_num
     race_results['Circuit'] = race.event.Location
-
-    race_results.drop(columns=['Time'], inplace = True)
     
     return race_results
 
