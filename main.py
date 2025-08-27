@@ -15,16 +15,19 @@ def get_race_results(year, round_num):
 
     # get the average lap time for each driver and add it as a column to the data
     # only count laps under the green flag (not under safety car)
-    green_flag_laps = race.laps[race.laps['TrackStatus'] == "Green"]
+    if 'TrackStatus' in race.laps.columns:
+        green_flag_laps = race.laps[race.laps['TrackStatus'] == 'Green']
+    else:
+        green_flag_laps = race.laps.copy()
 
-    avg_lap_times = (green_flag_laps.groupby('DriverNumber')['LapTime']
-                     .mean()
-                     .dt.total_seconds())
+    avg_lap_times = green_flag_laps.groupby('DriverNumber')['LapTime'].mean()
+    # convert timedelta to seconds if LapTime exists
+    if avg_lap_times.dtype == 'timedelta64[ns]':
+        avg_lap_times = avg_lap_times.dt.total_seconds()
     race_results['AvgLapTime'] = race_results['DriverNumber'].map(avg_lap_times)
 
 
     # Initialize columns
-    laps_behind = []
     is_finished = []
     retirement_category = []
 
@@ -33,23 +36,11 @@ def get_race_results(year, round_num):
 
         # Finished cases
         if status == 'Finished':
-            laps_behind.append(0)
             is_finished.append(1)
             retirement_category.append('Finished')
 
-        # Lapped cases: "+1 Lap", "+2 Laps"
-        elif isinstance(status, str) and status.startswith('+'):
-            try:
-                lap_diff = int(status.replace('+', '').split()[0])  # extract number
-            except:
-                lap_diff = 1  # fallback
-            laps_behind.append(lap_diff)
-            is_finished.append(1)
-            retirement_category.append('Finished')  # still finished
-
         # DNF cases
         else:
-            laps_behind.append(np.nan)
             is_finished.append(0)
 
             # Categorize DNF reason
@@ -62,7 +53,6 @@ def get_race_results(year, round_num):
 
 
     # Add computed columns
-    race_results['LapsBehind'] = laps_behind
     race_results['IsFinished'] = is_finished
     race_results['RetirementCategory'] = retirement_category
 
