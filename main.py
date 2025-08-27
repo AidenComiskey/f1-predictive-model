@@ -15,15 +15,21 @@ def get_race_results(year, round_num):
 
     # get the average lap time for each driver and add it as a column to the data
     # only count laps under the green flag (not under safety car)
-    if 'TrackStatus' in race.laps.columns:
-        green_flag_laps = race.laps[race.laps['TrackStatus'] == 'Green']
-    else:
-        green_flag_laps = race.laps.copy()
+    # Only keep laps with valid LapTime
+    valid_laps = race.laps[race.laps['LapTime'].notna()]
 
-    avg_lap_times = green_flag_laps.groupby('DriverNumber')['LapTime'].mean()
-    # convert timedelta to seconds if LapTime exists
+    # filter green flag laps if TrackStatus exists
+    if 'TrackStatus' in valid_laps.columns:
+        valid_laps = valid_laps[valid_laps['TrackStatus'] == 'Green']
+
+    # Compute average per driver
+    avg_lap_times = valid_laps.groupby('DriverNumber')['LapTime'].mean()
+
+    # Convert timedelta to seconds
     if avg_lap_times.dtype == 'timedelta64[ns]':
         avg_lap_times = avg_lap_times.dt.total_seconds()
+
+    # Map to race_results
     race_results['AvgLapTime'] = race_results['DriverNumber'].map(avg_lap_times)
 
 
