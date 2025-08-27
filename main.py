@@ -75,10 +75,6 @@ def get_race_results(year, round_num):
     is_wet = race.weather_data['Rainfall'].sum() > 0
     race_results['IsWetRace'] = int(is_wet)
 
-    # add column to indicate if there was a safety car deployed during the race
-    has_sc = any(race.session_events['EventType'] == 'SAFETY_CAR_DEPLOYED')
-    race_results['SafetyCarDeployed'] = int(has_sc)
-
     race_results['Year'] = year
     race_results['Round'] = round_num
     race_results['Circuit'] = race.event.Location
