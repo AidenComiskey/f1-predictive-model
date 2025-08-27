@@ -1,0 +1,441 @@
+Position,Abbreviation,DriverNumber,TeamName,GridPosition,Status,IsFinished,RetirementCategory,IsWetRace,Year,Round,Circuit
+1.0,HAM,44,Mercedes,2.0,Finished,1,Finished,0,2021,1,Sakhir
+2.0,VER,33,Red Bull Racing,1.0,Finished,1,Finished,0,2021,1,Sakhir
+3.0,BOT,77,Mercedes,3.0,Finished,1,Finished,0,2021,1,Sakhir
+4.0,NOR,4,McLaren,7.0,Finished,1,Finished,0,2021,1,Sakhir
+5.0,PER,11,Red Bull Racing,0.0,Finished,1,Finished,0,2021,1,Sakhir
+6.0,LEC,16,Ferrari,4.0,Finished,1,Finished,0,2021,1,Sakhir
+7.0,RIC,3,McLaren,6.0,Finished,1,Finished,0,2021,1,Sakhir
+8.0,SAI,55,Ferrari,8.0,Finished,1,Finished,0,2021,1,Sakhir
+9.0,TSU,22,AlphaTauri,13.0,Finished,1,Finished,0,2021,1,Sakhir
+10.0,STR,18,Aston Martin,10.0,Finished,1,Finished,0,2021,1,Sakhir
+11.0,RAI,7,Alfa Romeo Racing,14.0,Finished,1,Finished,0,2021,1,Sakhir
+12.0,GIO,99,Alfa Romeo Racing,12.0,+1 Lap,0,Other,0,2021,1,Sakhir
+13.0,OCO,31,Alpine,16.0,+1 Lap,0,Other,0,2021,1,Sakhir
+14.0,RUS,63,Williams,15.0,+1 Lap,0,Other,0,2021,1,Sakhir
+15.0,VET,5,Aston Martin,20.0,+1 Lap,0,Other,0,2021,1,Sakhir
+16.0,MSC,47,Haas F1 Team,18.0,+1 Lap,0,Other,0,2021,1,Sakhir
+17.0,GAS,10,AlphaTauri,5.0,Retired,0,Other,0,2021,1,Sakhir
+18.0,LAT,6,Williams,17.0,Retired,0,Other,0,2021,1,Sakhir
+19.0,ALO,14,Alpine,9.0,Brakes,0,Other,0,2021,1,Sakhir
+20.0,MAZ,9,Haas F1 Team,19.0,Accident,0,Crash,0,2021,1,Sakhir
+1.0,VER,33,Red Bull Racing,3.0,Finished,1,Finished,1,2021,2,Imola
+2.0,HAM,44,Mercedes,1.0,Finished,1,Finished,1,2021,2,Imola
+3.0,NOR,4,McLaren,7.0,Finished,1,Finished,1,2021,2,Imola
+4.0,LEC,16,Ferrari,4.0,Finished,1,Finished,1,2021,2,Imola
+5.0,SAI,55,Ferrari,11.0,Finished,1,Finished,1,2021,2,Imola
+6.0,RIC,3,McLaren,6.0,Finished,1,Finished,1,2021,2,Imola
+7.0,GAS,10,AlphaTauri,5.0,Finished,1,Finished,1,2021,2,Imola
+8.0,STR,18,Aston Martin,10.0,Finished,1,Finished,1,2021,2,Imola
+9.0,OCO,31,Alpine,9.0,Finished,1,Finished,1,2021,2,Imola
+10.0,ALO,14,Alpine,15.0,Finished,1,Finished,1,2021,2,Imola
+11.0,PER,11,Red Bull Racing,2.0,Finished,1,Finished,1,2021,2,Imola
+12.0,TSU,22,AlphaTauri,20.0,Finished,1,Finished,1,2021,2,Imola
+13.0,RAI,7,Alfa Romeo Racing,16.0,Finished,1,Finished,1,2021,2,Imola
+14.0,GIO,99,Alfa Romeo Racing,17.0,+1 Lap,0,Other,1,2021,2,Imola
+15.0,VET,5,Aston Martin,0.0,Gearbox,0,Mechanical,1,2021,2,Imola
+16.0,MSC,47,Haas F1 Team,18.0,+2 Laps,0,Other,1,2021,2,Imola
+17.0,MAZ,9,Haas F1 Team,19.0,+2 Laps,0,Other,1,2021,2,Imola
+18.0,BOT,77,Mercedes,8.0,Collision,0,Other,1,2021,2,Imola
+19.0,RUS,63,Williams,12.0,Collision,0,Other,1,2021,2,Imola
+20.0,LAT,6,Williams,14.0,Collision,0,Other,1,2021,2,Imola
+1.0,HAM,44,Mercedes,2.0,Finished,1,Finished,0,2021,3,Portimão
+2.0,VER,33,Red Bull Racing,3.0,Finished,1,Finished,0,2021,3,Portimão
+3.0,BOT,77,Mercedes,1.0,Finished,1,Finished,0,2021,3,Portimão
+4.0,PER,11,Red Bull Racing,4.0,Finished,1,Finished,0,2021,3,Portimão
+5.0,NOR,4,McLaren,7.0,Finished,1,Finished,0,2021,3,Portimão
+6.0,LEC,16,Ferrari,8.0,Finished,1,Finished,0,2021,3,Portimão
+7.0,OCO,31,Alpine,6.0,Finished,1,Finished,0,2021,3,Portimão
+8.0,ALO,14,Alpine,13.0,Finished,1,Finished,0,2021,3,Portimão
+9.0,RIC,3,McLaren,16.0,Finished,1,Finished,0,2021,3,Portimão
+10.0,GAS,10,AlphaTauri,9.0,Finished,1,Finished,0,2021,3,Portimão
+11.0,SAI,55,Ferrari,5.0,Finished,1,Finished,0,2021,3,Portimão
+12.0,GIO,99,Alfa Romeo Racing,12.0,+1 Lap,0,Other,0,2021,3,Portimão
+13.0,VET,5,Aston Martin,10.0,+1 Lap,0,Other,0,2021,3,Portimão
+14.0,STR,18,Aston Martin,17.0,+1 Lap,0,Other,0,2021,3,Portimão
+15.0,TSU,22,AlphaTauri,14.0,+1 Lap,0,Other,0,2021,3,Portimão
+16.0,RUS,63,Williams,11.0,+1 Lap,0,Other,0,2021,3,Portimão
+17.0,MSC,47,Haas F1 Team,19.0,+2 Laps,0,Other,0,2021,3,Portimão
+18.0,LAT,6,Williams,18.0,+2 Laps,0,Other,0,2021,3,Portimão
+19.0,MAZ,9,Haas F1 Team,20.0,+2 Laps,0,Other,0,2021,3,Portimão
+20.0,RAI,7,Alfa Romeo Racing,15.0,Collision damage,0,Other,0,2021,3,Portimão
+1.0,HAM,44,Mercedes,1.0,Finished,1,Finished,0,2021,4,Barcelona
+2.0,VER,33,Red Bull Racing,2.0,Finished,1,Finished,0,2021,4,Barcelona
+3.0,BOT,77,Mercedes,3.0,Finished,1,Finished,0,2021,4,Barcelona
+4.0,LEC,16,Ferrari,4.0,Finished,1,Finished,0,2021,4,Barcelona
+5.0,PER,11,Red Bull Racing,8.0,Finished,1,Finished,0,2021,4,Barcelona
+6.0,RIC,3,McLaren,7.0,Finished,1,Finished,0,2021,4,Barcelona
+7.0,SAI,55,Ferrari,6.0,Finished,1,Finished,0,2021,4,Barcelona
+8.0,NOR,4,McLaren,9.0,+1 Lap,0,Other,0,2021,4,Barcelona
+9.0,OCO,31,Alpine,5.0,+1 Lap,0,Other,0,2021,4,Barcelona
+10.0,GAS,10,AlphaTauri,12.0,+1 Lap,0,Other,0,2021,4,Barcelona
+11.0,STR,18,Aston Martin,11.0,+1 Lap,0,Other,0,2021,4,Barcelona
+12.0,RAI,7,Alfa Romeo Racing,17.0,+1 Lap,0,Other,0,2021,4,Barcelona
+13.0,VET,5,Aston Martin,13.0,+1 Lap,0,Other,0,2021,4,Barcelona
+14.0,RUS,63,Williams,15.0,+1 Lap,0,Other,0,2021,4,Barcelona
+15.0,GIO,99,Alfa Romeo Racing,14.0,+1 Lap,0,Other,0,2021,4,Barcelona
+16.0,LAT,6,Williams,19.0,+1 Lap,0,Other,0,2021,4,Barcelona
+17.0,ALO,14,Alpine,10.0,+1 Lap,0,Other,0,2021,4,Barcelona
+18.0,MSC,47,Haas F1 Team,18.0,+2 Laps,0,Other,0,2021,4,Barcelona
+19.0,MAZ,9,Haas F1 Team,20.0,+2 Laps,0,Other,0,2021,4,Barcelona
+20.0,TSU,22,AlphaTauri,16.0,Electrical,0,Other,0,2021,4,Barcelona
+1.0,VER,33,Red Bull Racing,2.0,Finished,1,Finished,0,2021,5,Monte Carlo
+2.0,SAI,55,Ferrari,4.0,Finished,1,Finished,0,2021,5,Monte Carlo
+3.0,NOR,4,McLaren,5.0,Finished,1,Finished,0,2021,5,Monte Carlo
+4.0,PER,11,Red Bull Racing,9.0,Finished,1,Finished,0,2021,5,Monte Carlo
+5.0,VET,5,Aston Martin,8.0,Finished,1,Finished,0,2021,5,Monte Carlo
+6.0,GAS,10,AlphaTauri,6.0,Finished,1,Finished,0,2021,5,Monte Carlo
+7.0,HAM,44,Mercedes,7.0,Finished,1,Finished,0,2021,5,Monte Carlo
+8.0,STR,18,Aston Martin,13.0,+1 Lap,0,Other,0,2021,5,Monte Carlo
+9.0,OCO,31,Alpine,11.0,+1 Lap,0,Other,0,2021,5,Monte Carlo
+10.0,GIO,99,Alfa Romeo Racing,10.0,+1 Lap,0,Other,0,2021,5,Monte Carlo
+11.0,RAI,7,Alfa Romeo Racing,14.0,+1 Lap,0,Other,0,2021,5,Monte Carlo
+12.0,RIC,3,McLaren,12.0,+1 Lap,0,Other,0,2021,5,Monte Carlo
+13.0,ALO,14,Alpine,17.0,+1 Lap,0,Other,0,2021,5,Monte Carlo
+14.0,RUS,63,Williams,15.0,+1 Lap,0,Other,0,2021,5,Monte Carlo
+15.0,LAT,6,Williams,18.0,+1 Lap,0,Other,0,2021,5,Monte Carlo
+16.0,TSU,22,AlphaTauri,16.0,+1 Lap,0,Other,0,2021,5,Monte Carlo
+17.0,MAZ,9,Haas F1 Team,19.0,+3 Laps,0,Other,0,2021,5,Monte Carlo
+18.0,MSC,47,Haas F1 Team,20.0,+3 Laps,0,Other,0,2021,5,Monte Carlo
+19.0,BOT,77,Mercedes,3.0,Wheel nut,0,Other,0,2021,5,Monte Carlo
+20.0,LEC,16,Ferrari,1.0,Driveshaft,0,Other,0,2021,5,Monte Carlo
+1.0,PER,11,Red Bull Racing,6.0,Finished,1,Finished,0,2021,6,Baku
+2.0,VET,5,Aston Martin,11.0,Finished,1,Finished,0,2021,6,Baku
+3.0,GAS,10,AlphaTauri,4.0,Finished,1,Finished,0,2021,6,Baku
+4.0,LEC,16,Ferrari,1.0,Finished,1,Finished,0,2021,6,Baku
+5.0,NOR,4,McLaren,9.0,Finished,1,Finished,0,2021,6,Baku
+6.0,ALO,14,Alpine,8.0,Finished,1,Finished,0,2021,6,Baku
+7.0,TSU,22,AlphaTauri,7.0,Finished,1,Finished,0,2021,6,Baku
+8.0,SAI,55,Ferrari,5.0,Finished,1,Finished,0,2021,6,Baku
+9.0,RIC,3,McLaren,13.0,Finished,1,Finished,0,2021,6,Baku
+10.0,RAI,7,Alfa Romeo Racing,14.0,Finished,1,Finished,0,2021,6,Baku
+11.0,GIO,99,Alfa Romeo Racing,20.0,Finished,1,Finished,0,2021,6,Baku
+12.0,BOT,77,Mercedes,10.0,Finished,1,Finished,0,2021,6,Baku
+13.0,MSC,47,Haas F1 Team,17.0,Finished,1,Finished,0,2021,6,Baku
+14.0,MAZ,9,Haas F1 Team,18.0,Finished,1,Finished,0,2021,6,Baku
+15.0,HAM,44,Mercedes,2.0,Finished,1,Finished,0,2021,6,Baku
+16.0,LAT,6,Williams,16.0,Finished,1,Finished,0,2021,6,Baku
+17.0,RUS,63,Williams,15.0,Gearbox,0,Mechanical,0,2021,6,Baku
+18.0,VER,33,Red Bull Racing,3.0,Accident,0,Crash,0,2021,6,Baku
+19.0,STR,18,Aston Martin,19.0,Accident,0,Crash,0,2021,6,Baku
+20.0,OCO,31,Alpine,12.0,Turbo,0,Other,0,2021,6,Baku
+1.0,VER,33,Red Bull Racing,1.0,Finished,1,Finished,0,2021,7,Le Castellet
+2.0,HAM,44,Mercedes,2.0,Finished,1,Finished,0,2021,7,Le Castellet
+3.0,PER,11,Red Bull Racing,4.0,Finished,1,Finished,0,2021,7,Le Castellet
+4.0,BOT,77,Mercedes,3.0,Finished,1,Finished,0,2021,7,Le Castellet
+5.0,NOR,4,McLaren,8.0,Finished,1,Finished,0,2021,7,Le Castellet
+6.0,RIC,3,McLaren,10.0,Finished,1,Finished,0,2021,7,Le Castellet
+7.0,GAS,10,AlphaTauri,6.0,Finished,1,Finished,0,2021,7,Le Castellet
+8.0,ALO,14,Alpine,9.0,Finished,1,Finished,0,2021,7,Le Castellet
+9.0,VET,5,Aston Martin,12.0,Finished,1,Finished,0,2021,7,Le Castellet
+10.0,STR,18,Aston Martin,19.0,Finished,1,Finished,0,2021,7,Le Castellet
+11.0,SAI,55,Ferrari,5.0,Finished,1,Finished,0,2021,7,Le Castellet
+12.0,RUS,63,Williams,14.0,+1 Lap,0,Other,0,2021,7,Le Castellet
+13.0,TSU,22,AlphaTauri,0.0,+1 Lap,0,Other,0,2021,7,Le Castellet
+14.0,OCO,31,Alpine,11.0,+1 Lap,0,Other,0,2021,7,Le Castellet
+15.0,GIO,99,Alfa Romeo Racing,13.0,+1 Lap,0,Other,0,2021,7,Le Castellet
+16.0,LEC,16,Ferrari,7.0,+1 Lap,0,Other,0,2021,7,Le Castellet
+17.0,RAI,7,Alfa Romeo Racing,17.0,+1 Lap,0,Other,0,2021,7,Le Castellet
+18.0,LAT,6,Williams,16.0,+1 Lap,0,Other,0,2021,7,Le Castellet
+19.0,MSC,47,Haas F1 Team,15.0,+1 Lap,0,Other,0,2021,7,Le Castellet
+20.0,MAZ,9,Haas F1 Team,18.0,+1 Lap,0,Other,0,2021,7,Le Castellet
+1.0,VER,33,Red Bull Racing,1.0,Finished,1,Finished,0,2021,8,Spielberg
+2.0,HAM,44,Mercedes,2.0,Finished,1,Finished,0,2021,8,Spielberg
+3.0,BOT,77,Mercedes,5.0,Finished,1,Finished,0,2021,8,Spielberg
+4.0,PER,11,Red Bull Racing,4.0,Finished,1,Finished,0,2021,8,Spielberg
+5.0,NOR,4,McLaren,3.0,+1 Lap,0,Other,0,2021,8,Spielberg
+6.0,SAI,55,Ferrari,12.0,+1 Lap,0,Other,0,2021,8,Spielberg
+7.0,LEC,16,Ferrari,7.0,+1 Lap,0,Other,0,2021,8,Spielberg
+8.0,STR,18,Aston Martin,9.0,+1 Lap,0,Other,0,2021,8,Spielberg
+9.0,ALO,14,Alpine,8.0,+1 Lap,0,Other,0,2021,8,Spielberg
+10.0,TSU,22,AlphaTauri,11.0,+1 Lap,0,Other,0,2021,8,Spielberg
+11.0,RAI,7,Alfa Romeo Racing,18.0,+1 Lap,0,Other,0,2021,8,Spielberg
+12.0,VET,5,Aston Martin,14.0,+1 Lap,0,Other,0,2021,8,Spielberg
+13.0,RIC,3,McLaren,13.0,+1 Lap,0,Other,0,2021,8,Spielberg
+14.0,OCO,31,Alpine,17.0,+1 Lap,0,Other,0,2021,8,Spielberg
+15.0,GIO,99,Alfa Romeo Racing,15.0,+1 Lap,0,Other,0,2021,8,Spielberg
+16.0,MSC,47,Haas F1 Team,19.0,+2 Laps,0,Other,0,2021,8,Spielberg
+17.0,LAT,6,Williams,16.0,+3 Laps,0,Other,0,2021,8,Spielberg
+18.0,MAZ,9,Haas F1 Team,20.0,+3 Laps,0,Other,0,2021,8,Spielberg
+19.0,RUS,63,Williams,10.0,Engine,0,Mechanical,0,2021,8,Spielberg
+20.0,GAS,10,AlphaTauri,6.0,Collision,0,Other,0,2021,8,Spielberg
+1.0,VER,33,Red Bull Racing,1.0,Finished,1,Finished,1,2021,9,Spielberg
+2.0,BOT,77,Mercedes,5.0,Finished,1,Finished,1,2021,9,Spielberg
+3.0,NOR,4,McLaren,2.0,Finished,1,Finished,1,2021,9,Spielberg
+4.0,HAM,44,Mercedes,4.0,Finished,1,Finished,1,2021,9,Spielberg
+5.0,SAI,55,Ferrari,10.0,Finished,1,Finished,1,2021,9,Spielberg
+6.0,PER,11,Red Bull Racing,3.0,Finished,1,Finished,1,2021,9,Spielberg
+7.0,RIC,3,McLaren,13.0,Finished,1,Finished,1,2021,9,Spielberg
+8.0,LEC,16,Ferrari,12.0,Finished,1,Finished,1,2021,9,Spielberg
+9.0,GAS,10,AlphaTauri,6.0,Finished,1,Finished,1,2021,9,Spielberg
+10.0,ALO,14,Alpine,14.0,+1 Lap,0,Other,1,2021,9,Spielberg
+11.0,RUS,63,Williams,8.0,+1 Lap,0,Other,1,2021,9,Spielberg
+12.0,TSU,22,AlphaTauri,7.0,+1 Lap,0,Other,1,2021,9,Spielberg
+13.0,STR,18,Aston Martin,9.0,+1 Lap,0,Other,1,2021,9,Spielberg
+14.0,GIO,99,Alfa Romeo Racing,15.0,+1 Lap,0,Other,1,2021,9,Spielberg
+15.0,RAI,7,Alfa Romeo Racing,16.0,+1 Lap,0,Other,1,2021,9,Spielberg
+16.0,LAT,6,Williams,18.0,+1 Lap,0,Other,1,2021,9,Spielberg
+17.0,VET,5,Aston Martin,11.0,Collision,0,Other,1,2021,9,Spielberg
+18.0,MSC,47,Haas F1 Team,19.0,+2 Laps,0,Other,1,2021,9,Spielberg
+19.0,MAZ,9,Haas F1 Team,20.0,+2 Laps,0,Other,1,2021,9,Spielberg
+20.0,OCO,31,Alpine,17.0,Collision,0,Other,1,2021,9,Spielberg
+1.0,HAM,44,Mercedes,2.0,Finished,1,Finished,0,2021,10,Silverstone
+2.0,LEC,16,Ferrari,4.0,Finished,1,Finished,0,2021,10,Silverstone
+3.0,BOT,77,Mercedes,3.0,Finished,1,Finished,0,2021,10,Silverstone
+4.0,NOR,4,McLaren,5.0,Finished,1,Finished,0,2021,10,Silverstone
+5.0,RIC,3,McLaren,6.0,Finished,1,Finished,0,2021,10,Silverstone
+6.0,SAI,55,Ferrari,10.0,Finished,1,Finished,0,2021,10,Silverstone
+7.0,ALO,14,Alpine,7.0,Finished,1,Finished,0,2021,10,Silverstone
+8.0,STR,18,Aston Martin,14.0,Finished,1,Finished,0,2021,10,Silverstone
+9.0,OCO,31,Alpine,9.0,Finished,1,Finished,0,2021,10,Silverstone
+10.0,TSU,22,AlphaTauri,16.0,Finished,1,Finished,0,2021,10,Silverstone
+11.0,GAS,10,AlphaTauri,11.0,Finished,1,Finished,0,2021,10,Silverstone
+12.0,RUS,63,Williams,12.0,+1 Lap,0,Other,0,2021,10,Silverstone
+13.0,GIO,99,Alfa Romeo Racing,15.0,+1 Lap,0,Other,0,2021,10,Silverstone
+14.0,LAT,6,Williams,17.0,+1 Lap,0,Other,0,2021,10,Silverstone
+15.0,RAI,7,Alfa Romeo Racing,13.0,+1 Lap,0,Other,0,2021,10,Silverstone
+16.0,PER,11,Red Bull Racing,0.0,+1 Lap,0,Other,0,2021,10,Silverstone
+17.0,MAZ,9,Haas F1 Team,19.0,+1 Lap,0,Other,0,2021,10,Silverstone
+18.0,MSC,47,Haas F1 Team,18.0,+1 Lap,0,Other,0,2021,10,Silverstone
+19.0,VET,5,Aston Martin,8.0,Retired,0,Other,0,2021,10,Silverstone
+20.0,VER,33,Red Bull Racing,1.0,Collision,0,Other,0,2021,10,Silverstone
+1.0,OCO,31,Alpine,8.0,Finished,1,Finished,1,2021,11,Budapest
+2.0,HAM,44,Mercedes,1.0,Finished,1,Finished,1,2021,11,Budapest
+3.0,SAI,55,Ferrari,15.0,Finished,1,Finished,1,2021,11,Budapest
+4.0,ALO,14,Alpine,9.0,Finished,1,Finished,1,2021,11,Budapest
+5.0,GAS,10,AlphaTauri,5.0,Finished,1,Finished,1,2021,11,Budapest
+6.0,TSU,22,AlphaTauri,16.0,Finished,1,Finished,1,2021,11,Budapest
+7.0,LAT,6,Williams,18.0,Finished,1,Finished,1,2021,11,Budapest
+8.0,RUS,63,Williams,17.0,Finished,1,Finished,1,2021,11,Budapest
+9.0,VER,33,Red Bull Racing,3.0,Finished,1,Finished,1,2021,11,Budapest
+10.0,RAI,7,Alfa Romeo Racing,13.0,+1 Lap,0,Other,1,2021,11,Budapest
+11.0,RIC,3,McLaren,11.0,+1 Lap,0,Other,1,2021,11,Budapest
+12.0,MSC,47,Haas F1 Team,20.0,+1 Lap,0,Other,1,2021,11,Budapest
+13.0,GIO,99,Alfa Romeo Racing,0.0,+1 Lap,0,Other,1,2021,11,Budapest
+14.0,MAZ,9,Haas F1 Team,19.0,Collision,0,Other,1,2021,11,Budapest
+15.0,NOR,4,McLaren,6.0,Collision,0,Other,1,2021,11,Budapest
+16.0,BOT,77,Mercedes,2.0,Collision,0,Other,1,2021,11,Budapest
+17.0,PER,11,Red Bull Racing,4.0,Collision,0,Other,1,2021,11,Budapest
+18.0,LEC,16,Ferrari,7.0,Collision,0,Other,1,2021,11,Budapest
+19.0,STR,18,Aston Martin,12.0,Collision,0,Other,1,2021,11,Budapest
+20.0,VET,5,Aston Martin,10.0,Disqualified,0,Other,1,2021,11,Budapest
+1.0,VER,33,Red Bull Racing,1.0,Finished,1,Finished,1,2021,12,Spa-Francorchamps
+2.0,RUS,63,Williams,2.0,Finished,1,Finished,1,2021,12,Spa-Francorchamps
+3.0,HAM,44,Mercedes,3.0,Finished,1,Finished,1,2021,12,Spa-Francorchamps
+4.0,RIC,3,McLaren,4.0,Finished,1,Finished,1,2021,12,Spa-Francorchamps
+5.0,VET,5,Aston Martin,5.0,Finished,1,Finished,1,2021,12,Spa-Francorchamps
+6.0,GAS,10,AlphaTauri,6.0,Finished,1,Finished,1,2021,12,Spa-Francorchamps
+7.0,OCO,31,Alpine,8.0,Finished,1,Finished,1,2021,12,Spa-Francorchamps
+8.0,LEC,16,Ferrari,9.0,Finished,1,Finished,1,2021,12,Spa-Francorchamps
+9.0,LAT,6,Williams,10.0,Finished,1,Finished,1,2021,12,Spa-Francorchamps
+10.0,SAI,55,Ferrari,11.0,Finished,1,Finished,1,2021,12,Spa-Francorchamps
+11.0,ALO,14,Alpine,12.0,Finished,1,Finished,1,2021,12,Spa-Francorchamps
+12.0,BOT,77,Mercedes,13.0,Finished,1,Finished,1,2021,12,Spa-Francorchamps
+13.0,GIO,99,Alfa Romeo Racing,14.0,Finished,1,Finished,1,2021,12,Spa-Francorchamps
+14.0,NOR,4,McLaren,15.0,Finished,1,Finished,1,2021,12,Spa-Francorchamps
+15.0,TSU,22,AlphaTauri,16.0,Finished,1,Finished,1,2021,12,Spa-Francorchamps
+16.0,MSC,47,Haas F1 Team,17.0,Finished,1,Finished,1,2021,12,Spa-Francorchamps
+17.0,MAZ,9,Haas F1 Team,18.0,Finished,1,Finished,1,2021,12,Spa-Francorchamps
+18.0,RAI,7,Alfa Romeo Racing,0.0,Finished,1,Finished,1,2021,12,Spa-Francorchamps
+19.0,PER,11,Red Bull Racing,0.0,Finished,1,Finished,1,2021,12,Spa-Francorchamps
+20.0,STR,18,Aston Martin,19.0,Finished,1,Finished,1,2021,12,Spa-Francorchamps
+1.0,VER,33,Red Bull Racing,1.0,Finished,1,Finished,0,2021,13,Zandvoort
+2.0,HAM,44,Mercedes,2.0,Finished,1,Finished,0,2021,13,Zandvoort
+3.0,BOT,77,Mercedes,3.0,Finished,1,Finished,0,2021,13,Zandvoort
+4.0,GAS,10,AlphaTauri,4.0,+1 Lap,0,Other,0,2021,13,Zandvoort
+5.0,LEC,16,Ferrari,5.0,+1 Lap,0,Other,0,2021,13,Zandvoort
+6.0,ALO,14,Alpine,9.0,+1 Lap,0,Other,0,2021,13,Zandvoort
+7.0,SAI,55,Ferrari,6.0,+1 Lap,0,Other,0,2021,13,Zandvoort
+8.0,PER,11,Red Bull Racing,0.0,+1 Lap,0,Other,0,2021,13,Zandvoort
+9.0,OCO,31,Alpine,8.0,+1 Lap,0,Other,0,2021,13,Zandvoort
+10.0,NOR,4,McLaren,13.0,+1 Lap,0,Other,0,2021,13,Zandvoort
+11.0,RIC,3,McLaren,10.0,+1 Lap,0,Other,0,2021,13,Zandvoort
+12.0,STR,18,Aston Martin,12.0,+2 Laps,0,Other,0,2021,13,Zandvoort
+13.0,VET,5,Aston Martin,15.0,+2 Laps,0,Other,0,2021,13,Zandvoort
+14.0,GIO,99,Alfa Romeo Racing,7.0,+2 Laps,0,Other,0,2021,13,Zandvoort
+15.0,KUB,88,Alfa Romeo Racing,16.0,+2 Laps,0,Other,0,2021,13,Zandvoort
+16.0,LAT,6,Williams,0.0,+2 Laps,0,Other,0,2021,13,Zandvoort
+17.0,RUS,63,Williams,11.0,Gearbox,0,Mechanical,0,2021,13,Zandvoort
+18.0,MSC,47,Haas F1 Team,17.0,+3 Laps,0,Other,0,2021,13,Zandvoort
+19.0,TSU,22,AlphaTauri,14.0,Power Unit,0,Other,0,2021,13,Zandvoort
+20.0,MAZ,9,Haas F1 Team,18.0,Hydraulics,0,Other,0,2021,13,Zandvoort
+1.0,RIC,3,McLaren,2.0,Finished,1,Finished,0,2021,14,Monza
+2.0,NOR,4,McLaren,3.0,Finished,1,Finished,0,2021,14,Monza
+3.0,BOT,77,Mercedes,19.0,Finished,1,Finished,0,2021,14,Monza
+4.0,LEC,16,Ferrari,5.0,Finished,1,Finished,0,2021,14,Monza
+5.0,PER,11,Red Bull Racing,8.0,Finished,1,Finished,0,2021,14,Monza
+6.0,SAI,55,Ferrari,6.0,Finished,1,Finished,0,2021,14,Monza
+7.0,STR,18,Aston Martin,9.0,Finished,1,Finished,0,2021,14,Monza
+8.0,ALO,14,Alpine,10.0,Finished,1,Finished,0,2021,14,Monza
+9.0,RUS,63,Williams,14.0,Finished,1,Finished,0,2021,14,Monza
+10.0,OCO,31,Alpine,12.0,Finished,1,Finished,0,2021,14,Monza
+11.0,LAT,6,Williams,13.0,Finished,1,Finished,0,2021,14,Monza
+12.0,VET,5,Aston Martin,11.0,Finished,1,Finished,0,2021,14,Monza
+13.0,GIO,99,Alfa Romeo Racing,7.0,Finished,1,Finished,0,2021,14,Monza
+14.0,KUB,88,Alfa Romeo Racing,17.0,Finished,1,Finished,0,2021,14,Monza
+15.0,MSC,47,Haas F1 Team,18.0,Finished,1,Finished,0,2021,14,Monza
+16.0,MAZ,9,Haas F1 Team,16.0,Power Unit,0,Other,0,2021,14,Monza
+17.0,HAM,44,Mercedes,4.0,Collision,0,Other,0,2021,14,Monza
+18.0,VER,33,Red Bull Racing,1.0,Collision,0,Other,0,2021,14,Monza
+19.0,GAS,10,AlphaTauri,0.0,Suspension,0,Other,0,2021,14,Monza
+20.0,TSU,22,AlphaTauri,0.0,Brakes,0,Other,0,2021,14,Monza
+1.0,HAM,44,Mercedes,4.0,Finished,1,Finished,1,2021,15,Sochi
+2.0,VER,33,Red Bull Racing,20.0,Finished,1,Finished,1,2021,15,Sochi
+3.0,SAI,55,Ferrari,2.0,Finished,1,Finished,1,2021,15,Sochi
+4.0,RIC,3,McLaren,5.0,Finished,1,Finished,1,2021,15,Sochi
+5.0,BOT,77,Mercedes,16.0,Finished,1,Finished,1,2021,15,Sochi
+6.0,ALO,14,Alpine,6.0,Finished,1,Finished,1,2021,15,Sochi
+7.0,NOR,4,McLaren,1.0,Finished,1,Finished,1,2021,15,Sochi
+8.0,RAI,7,Alfa Romeo Racing,13.0,Finished,1,Finished,1,2021,15,Sochi
+9.0,PER,11,Red Bull Racing,8.0,Finished,1,Finished,1,2021,15,Sochi
+10.0,RUS,63,Williams,3.0,Finished,1,Finished,1,2021,15,Sochi
+11.0,STR,18,Aston Martin,7.0,Finished,1,Finished,1,2021,15,Sochi
+12.0,VET,5,Aston Martin,10.0,+1 Lap,0,Other,1,2021,15,Sochi
+13.0,GAS,10,AlphaTauri,11.0,+1 Lap,0,Other,1,2021,15,Sochi
+14.0,OCO,31,Alpine,9.0,+1 Lap,0,Other,1,2021,15,Sochi
+15.0,LEC,16,Ferrari,19.0,+1 Lap,0,Other,1,2021,15,Sochi
+16.0,GIO,99,Alfa Romeo Racing,17.0,+1 Lap,0,Other,1,2021,15,Sochi
+17.0,TSU,22,AlphaTauri,12.0,+1 Lap,0,Other,1,2021,15,Sochi
+18.0,MAZ,9,Haas F1 Team,15.0,+2 Laps,0,Other,1,2021,15,Sochi
+19.0,LAT,6,Williams,18.0,Accident,0,Crash,1,2021,15,Sochi
+20.0,MSC,47,Haas F1 Team,14.0,Oil leak,0,Other,1,2021,15,Sochi
+1.0,BOT,77,Mercedes,1.0,Finished,1,Finished,0,2021,16,Istanbul
+2.0,VER,33,Red Bull Racing,2.0,Finished,1,Finished,0,2021,16,Istanbul
+3.0,PER,11,Red Bull Racing,6.0,Finished,1,Finished,0,2021,16,Istanbul
+4.0,LEC,16,Ferrari,3.0,Finished,1,Finished,0,2021,16,Istanbul
+5.0,HAM,44,Mercedes,11.0,Finished,1,Finished,0,2021,16,Istanbul
+6.0,GAS,10,AlphaTauri,4.0,Finished,1,Finished,0,2021,16,Istanbul
+7.0,NOR,4,McLaren,7.0,Finished,1,Finished,0,2021,16,Istanbul
+8.0,SAI,55,Ferrari,19.0,Finished,1,Finished,0,2021,16,Istanbul
+9.0,STR,18,Aston Martin,8.0,Finished,1,Finished,0,2021,16,Istanbul
+10.0,OCO,31,Alpine,12.0,+1 Lap,0,Other,0,2021,16,Istanbul
+11.0,GIO,99,Alfa Romeo Racing,16.0,+1 Lap,0,Other,0,2021,16,Istanbul
+12.0,RAI,7,Alfa Romeo Racing,17.0,+1 Lap,0,Other,0,2021,16,Istanbul
+13.0,RIC,3,McLaren,20.0,+1 Lap,0,Other,0,2021,16,Istanbul
+14.0,TSU,22,AlphaTauri,9.0,+1 Lap,0,Other,0,2021,16,Istanbul
+15.0,RUS,63,Williams,13.0,+1 Lap,0,Other,0,2021,16,Istanbul
+16.0,ALO,14,Alpine,5.0,+1 Lap,0,Other,0,2021,16,Istanbul
+17.0,LAT,6,Williams,15.0,+1 Lap,0,Other,0,2021,16,Istanbul
+18.0,VET,5,Aston Martin,10.0,+1 Lap,0,Other,0,2021,16,Istanbul
+19.0,MSC,47,Haas F1 Team,14.0,+2 Laps,0,Other,0,2021,16,Istanbul
+20.0,MAZ,9,Haas F1 Team,18.0,+2 Laps,0,Other,0,2021,16,Istanbul
+1.0,VER,33,Red Bull Racing,1.0,Finished,1,Finished,0,2021,17,Austin
+2.0,HAM,44,Mercedes,2.0,Finished,1,Finished,0,2021,17,Austin
+3.0,PER,11,Red Bull Racing,3.0,Finished,1,Finished,0,2021,17,Austin
+4.0,LEC,16,Ferrari,4.0,Finished,1,Finished,0,2021,17,Austin
+5.0,RIC,3,McLaren,6.0,Finished,1,Finished,0,2021,17,Austin
+6.0,BOT,77,Mercedes,9.0,Finished,1,Finished,0,2021,17,Austin
+7.0,SAI,55,Ferrari,5.0,Finished,1,Finished,0,2021,17,Austin
+8.0,NOR,4,McLaren,7.0,Finished,1,Finished,0,2021,17,Austin
+9.0,TSU,22,AlphaTauri,10.0,+1 Lap,0,Other,0,2021,17,Austin
+10.0,VET,5,Aston Martin,18.0,+1 Lap,0,Other,0,2021,17,Austin
+11.0,GIO,99,Alfa Romeo Racing,12.0,+1 Lap,0,Other,0,2021,17,Austin
+12.0,STR,18,Aston Martin,13.0,+1 Lap,0,Other,0,2021,17,Austin
+13.0,RAI,7,Alfa Romeo Racing,15.0,+1 Lap,0,Other,0,2021,17,Austin
+14.0,RUS,63,Williams,20.0,+1 Lap,0,Other,0,2021,17,Austin
+15.0,LAT,6,Williams,14.0,+1 Lap,0,Other,0,2021,17,Austin
+16.0,MSC,47,Haas F1 Team,16.0,+2 Laps,0,Other,0,2021,17,Austin
+17.0,MAZ,9,Haas F1 Team,17.0,+2 Laps,0,Other,0,2021,17,Austin
+18.0,ALO,14,Alpine,19.0,Rear wing,0,Other,0,2021,17,Austin
+19.0,OCO,31,Alpine,11.0,Mechanical,0,Other,0,2021,17,Austin
+20.0,GAS,10,AlphaTauri,8.0,Suspension,0,Other,0,2021,17,Austin
+1.0,VER,33,Red Bull Racing,3.0,Finished,1,Finished,0,2021,18,Mexico City
+2.0,HAM,44,Mercedes,2.0,Finished,1,Finished,0,2021,18,Mexico City
+3.0,PER,11,Red Bull Racing,4.0,Finished,1,Finished,0,2021,18,Mexico City
+4.0,GAS,10,AlphaTauri,5.0,Finished,1,Finished,0,2021,18,Mexico City
+5.0,LEC,16,Ferrari,8.0,Finished,1,Finished,0,2021,18,Mexico City
+6.0,SAI,55,Ferrari,6.0,+1 Lap,0,Other,0,2021,18,Mexico City
+7.0,VET,5,Aston Martin,9.0,+1 Lap,0,Other,0,2021,18,Mexico City
+8.0,RAI,7,Alfa Romeo Racing,10.0,+1 Lap,0,Other,0,2021,18,Mexico City
+9.0,ALO,14,Alpine,12.0,+1 Lap,0,Other,0,2021,18,Mexico City
+10.0,NOR,4,McLaren,18.0,+1 Lap,0,Other,0,2021,18,Mexico City
+11.0,GIO,99,Alfa Romeo Racing,11.0,+1 Lap,0,Other,0,2021,18,Mexico City
+12.0,RIC,3,McLaren,7.0,+1 Lap,0,Other,0,2021,18,Mexico City
+13.0,OCO,31,Alpine,19.0,+1 Lap,0,Other,0,2021,18,Mexico City
+14.0,STR,18,Aston Martin,20.0,+2 Laps,0,Other,0,2021,18,Mexico City
+15.0,BOT,77,Mercedes,1.0,+2 Laps,0,Other,0,2021,18,Mexico City
+16.0,RUS,63,Williams,16.0,+2 Laps,0,Other,0,2021,18,Mexico City
+17.0,LAT,6,Williams,13.0,+2 Laps,0,Other,0,2021,18,Mexico City
+18.0,MAZ,9,Haas F1 Team,15.0,+3 Laps,0,Other,0,2021,18,Mexico City
+19.0,MSC,47,Haas F1 Team,14.0,Collision,0,Other,0,2021,18,Mexico City
+20.0,TSU,22,AlphaTauri,17.0,Collision,0,Other,0,2021,18,Mexico City
+1.0,HAM,44,Mercedes,10.0,Finished,1,Finished,0,2021,19,São Paulo
+2.0,VER,33,Red Bull Racing,2.0,Finished,1,Finished,0,2021,19,São Paulo
+3.0,BOT,77,Mercedes,1.0,Finished,1,Finished,0,2021,19,São Paulo
+4.0,PER,11,Red Bull Racing,4.0,Finished,1,Finished,0,2021,19,São Paulo
+5.0,LEC,16,Ferrari,6.0,Finished,1,Finished,0,2021,19,São Paulo
+6.0,SAI,55,Ferrari,3.0,Finished,1,Finished,0,2021,19,São Paulo
+7.0,GAS,10,AlphaTauri,7.0,+1 Lap,0,Other,0,2021,19,São Paulo
+8.0,OCO,31,Alpine,8.0,+1 Lap,0,Other,0,2021,19,São Paulo
+9.0,ALO,14,Alpine,12.0,+1 Lap,0,Other,0,2021,19,São Paulo
+10.0,NOR,4,McLaren,5.0,+1 Lap,0,Other,0,2021,19,São Paulo
+11.0,VET,5,Aston Martin,9.0,+1 Lap,0,Other,0,2021,19,São Paulo
+12.0,RAI,7,Alfa Romeo Racing,0.0,+1 Lap,0,Other,0,2021,19,São Paulo
+13.0,RUS,63,Williams,17.0,+1 Lap,0,Other,0,2021,19,São Paulo
+14.0,GIO,99,Alfa Romeo Racing,13.0,+1 Lap,0,Other,0,2021,19,São Paulo
+15.0,TSU,22,AlphaTauri,15.0,+1 Lap,0,Other,0,2021,19,São Paulo
+16.0,LAT,6,Williams,16.0,+1 Lap,0,Other,0,2021,19,São Paulo
+17.0,MAZ,9,Haas F1 Team,19.0,+2 Laps,0,Other,0,2021,19,São Paulo
+18.0,MSC,47,Haas F1 Team,18.0,+2 Laps,0,Other,0,2021,19,São Paulo
+19.0,RIC,3,McLaren,11.0,Power loss,0,Other,0,2021,19,São Paulo
+20.0,STR,18,Aston Martin,14.0,Collision damage,0,Other,0,2021,19,São Paulo
+1.0,HAM,44,Mercedes,1.0,Finished,1,Finished,1,2021,20,Lusail
+2.0,VER,33,Red Bull Racing,7.0,Finished,1,Finished,1,2021,20,Lusail
+3.0,ALO,14,Alpine,3.0,Finished,1,Finished,1,2021,20,Lusail
+4.0,PER,11,Red Bull Racing,11.0,Finished,1,Finished,1,2021,20,Lusail
+5.0,OCO,31,Alpine,9.0,Finished,1,Finished,1,2021,20,Lusail
+6.0,STR,18,Aston Martin,12.0,Finished,1,Finished,1,2021,20,Lusail
+7.0,SAI,55,Ferrari,5.0,Finished,1,Finished,1,2021,20,Lusail
+8.0,LEC,16,Ferrari,13.0,Finished,1,Finished,1,2021,20,Lusail
+9.0,NOR,4,McLaren,4.0,+1 Lap,0,Other,1,2021,20,Lusail
+10.0,VET,5,Aston Martin,10.0,+1 Lap,0,Other,1,2021,20,Lusail
+11.0,GAS,10,AlphaTauri,2.0,+1 Lap,0,Other,1,2021,20,Lusail
+12.0,RIC,3,McLaren,14.0,+1 Lap,0,Other,1,2021,20,Lusail
+13.0,TSU,22,AlphaTauri,8.0,+1 Lap,0,Other,1,2021,20,Lusail
+14.0,RAI,7,Alfa Romeo Racing,16.0,+1 Lap,0,Other,1,2021,20,Lusail
+15.0,GIO,99,Alfa Romeo Racing,18.0,+1 Lap,0,Other,1,2021,20,Lusail
+16.0,MSC,47,Haas F1 Team,19.0,+1 Lap,0,Other,1,2021,20,Lusail
+17.0,RUS,63,Williams,15.0,+2 Laps,0,Other,1,2021,20,Lusail
+18.0,MAZ,9,Haas F1 Team,20.0,+2 Laps,0,Other,1,2021,20,Lusail
+19.0,LAT,6,Williams,17.0,Puncture,0,Other,1,2021,20,Lusail
+20.0,BOT,77,Mercedes,6.0,Damage,0,Other,1,2021,20,Lusail
+1.0,HAM,44,Mercedes,1.0,Finished,1,Finished,0,2021,21,Jeddah
+2.0,VER,33,Red Bull Racing,3.0,Finished,1,Finished,0,2021,21,Jeddah
+3.0,BOT,77,Mercedes,2.0,Finished,1,Finished,0,2021,21,Jeddah
+4.0,OCO,31,Alpine,9.0,Finished,1,Finished,0,2021,21,Jeddah
+5.0,RIC,3,McLaren,11.0,Finished,1,Finished,0,2021,21,Jeddah
+6.0,GAS,10,AlphaTauri,6.0,Finished,1,Finished,0,2021,21,Jeddah
+7.0,LEC,16,Ferrari,4.0,Finished,1,Finished,0,2021,21,Jeddah
+8.0,SAI,55,Ferrari,15.0,Finished,1,Finished,0,2021,21,Jeddah
+9.0,GIO,99,Alfa Romeo Racing,10.0,Finished,1,Finished,0,2021,21,Jeddah
+10.0,NOR,4,McLaren,7.0,Finished,1,Finished,0,2021,21,Jeddah
+11.0,STR,18,Aston Martin,18.0,Finished,1,Finished,0,2021,21,Jeddah
+12.0,LAT,6,Williams,16.0,Finished,1,Finished,0,2021,21,Jeddah
+13.0,ALO,14,Alpine,13.0,+1 Lap,0,Other,0,2021,21,Jeddah
+14.0,TSU,22,AlphaTauri,8.0,+1 Lap,0,Other,0,2021,21,Jeddah
+15.0,RAI,7,Alfa Romeo Racing,12.0,+1 Lap,0,Other,0,2021,21,Jeddah
+16.0,VET,5,Aston Martin,17.0,Collision damage,0,Other,0,2021,21,Jeddah
+17.0,PER,11,Red Bull Racing,5.0,Collision,0,Other,0,2021,21,Jeddah
+18.0,MAZ,9,Haas F1 Team,20.0,Collision,0,Other,0,2021,21,Jeddah
+19.0,RUS,63,Williams,14.0,Collision,0,Other,0,2021,21,Jeddah
+20.0,MSC,47,Haas F1 Team,19.0,Accident,0,Crash,0,2021,21,Jeddah
+1.0,VER,33,Red Bull Racing,1.0,Finished,1,Finished,0,2021,22,Yas Island
+2.0,HAM,44,Mercedes,2.0,Finished,1,Finished,0,2021,22,Yas Island
+3.0,SAI,55,Ferrari,5.0,Finished,1,Finished,0,2021,22,Yas Island
+4.0,TSU,22,AlphaTauri,8.0,Finished,1,Finished,0,2021,22,Yas Island
+5.0,GAS,10,AlphaTauri,12.0,Finished,1,Finished,0,2021,22,Yas Island
+6.0,BOT,77,Mercedes,6.0,Finished,1,Finished,0,2021,22,Yas Island
+7.0,NOR,4,McLaren,3.0,Finished,1,Finished,0,2021,22,Yas Island
+8.0,ALO,14,Alpine,11.0,Finished,1,Finished,0,2021,22,Yas Island
+9.0,OCO,31,Alpine,9.0,Finished,1,Finished,0,2021,22,Yas Island
+10.0,LEC,16,Ferrari,7.0,Finished,1,Finished,0,2021,22,Yas Island
+11.0,VET,5,Aston Martin,15.0,Finished,1,Finished,0,2021,22,Yas Island
+12.0,RIC,3,McLaren,10.0,+1 Lap,0,Other,0,2021,22,Yas Island
+13.0,STR,18,Aston Martin,13.0,+1 Lap,0,Other,0,2021,22,Yas Island
+14.0,MSC,47,Haas F1 Team,19.0,+1 Lap,0,Other,0,2021,22,Yas Island
+15.0,PER,11,Red Bull Racing,4.0,Engine,0,Mechanical,0,2021,22,Yas Island
+16.0,LAT,6,Williams,16.0,Accident,0,Crash,0,2021,22,Yas Island
+17.0,GIO,99,Alfa Romeo Racing,14.0,Gearbox,0,Mechanical,0,2021,22,Yas Island
+18.0,RUS,63,Williams,17.0,Gearbox,0,Mechanical,0,2021,22,Yas Island
+19.0,RAI,7,Alfa Romeo Racing,18.0,Brakes,0,Other,0,2021,22,Yas Island
+,MAZ,9,Haas F1 Team,,Illness,0,Other,0,2021,22,Yas Island
