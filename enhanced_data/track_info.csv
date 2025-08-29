@@ -1,0 +1,32 @@
+Circuit,Country,TrackLength_km,Corners,Type,OvertakingDifficulty
+Melbourne,Australia,5.303,16,Permanent,Moderate
+Sakhir,Bahrain,5.412,15,Permanent,Moderate
+Shanghai,China,5.451,16,Permanent,Moderate
+Baku,Azerbaijan,6.003,20,Street,Difficult
+Barcelona,Spain,4.655,16,Permanent,Difficult
+Monte Carlo,Monaco,3.337,19,Street,Extremely Difficult
+Montréal,Canada,4.361,14,Permanent,Easy
+Le Castellet,France,5.842,15,Permanent,Difficult
+Spielberg,Austria,4.318,10,Permanent,Extremely Easy
+Silverstone,UK,5.891,18,Permanent,Moderate
+Hockenheim,Germany,4.574,17,Permanent,Moderate
+Budapest,Hungary,4.381,14,Permanent,Difficult
+Spa-Francorchamps,Belgium,7.004,19,Permanent,Moderate
+Monza,Italy,5.793,11,Permanent,Extremely Easy
+Singapore,Singapore,5.063,23,Street,Extremely Difficult
+Sochi,Russia,5.848,18,Permanent,Moderate
+Suzuka,Japan,5.807,18,Permanent,Moderate
+Austin,USA,5.513,20,Permanent,Moderate
+Mexico City,Mexico,4.304,17,Permanent,Difficult
+São Paulo,Brazil,4.309,15,Permanent,Difficult
+Yas Marina,UAE,5.554,21,Permanent,Difficult
+Mugello,Italy,5.245,15,Permanent,Difficult
+Nürburgring,Germany,5.148,16,Permanent,Difficult
+Portimão,Portugal,4.684,15,Permanent,Moderate
+Imola,Italy,4.909,19,Permanent,Difficult
+Istanbul,Turkey,5.338,14,Permanent,Difficult
+Zandvoort,Netherlands,4.259,14,Permanent,Difficult
+Lusail,Qatar,5.412,16,Permanent,Moderate
+Jeddah,Saudi Arabia,6.174,27,Street,Extremely Difficult
+Miami,USA,5.412,19,Permanent,Moderate
+Las Vegas,USA,6.12,17,Street,Extremely Difficult
