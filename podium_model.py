@@ -1,5 +1,6 @@
 import pandas as pd
 import numpy as np
+import joblib
 from sklearn.preprocessing import LabelEncoder
 from sklearn.model_selection import train_test_split
 from xgboost import XGBRegressor
@@ -13,11 +14,18 @@ le_circuit = LabelEncoder()
 le_type = LabelEncoder()
 le_overtake = LabelEncoder()
 
+
 df['Driver_to_num'] = le_driver.fit_transform(df['Abbreviation'])
 df['Team_to_num'] = le_team.fit_transform(df['TeamName_race'])
 df['Circuit_to_num'] = le_circuit.fit_transform(df["Circuit"])
 df['Type_to_num'] = le_type.fit_transform(df["Type"])
 df['OvertakingDifficulty_to_num'] = le_overtake.fit_transform(df['OvertakingDifficulty'])
+
+joblib.dump(le_driver, "encoders/le_driver.pkl")
+joblib.dump(le_team, "encoders/le_team.pkl")
+joblib.dump(le_circuit, "encoders/le_circuit.pkl")
+joblib.dump(le_type, "encoders/le_type.pkl")
+joblib.dump(le_overtake, "encoders/le_overtake.pkl")
 
 df['RaceID'] = df['Year'].astype(str) + "_" + df['Round'].astype(str)
 
@@ -99,3 +107,5 @@ for race in test_races:
 
 exact_podium_acc = podium_accuracy / len(test_races)
 print(f"Exact podium accuracy per race: {exact_podium_acc:.3f}")
+
+joblib.dump(model, 'f1_position_model.pkl')
