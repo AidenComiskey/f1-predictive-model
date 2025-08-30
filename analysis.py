@@ -77,9 +77,24 @@ df['DriverCircuitForm'] = (
 )
 
 # Team rolling form (last 3 races)
-df['TeamForm'] = (
-    df.groupby('TeamName_race')['Position_race']
-      .transform(lambda x: x.shift().rolling(3, min_periods=1).mean())
+team_race = (
+    df.groupby(['TeamName_race', 'Year', 'Round'], as_index=False)['Position_race']
+      .mean()
+      .rename(columns={'Position_race': 'TeamAvgFinish'})
+    .sort_values(['TeamName_race', 'Year', 'Round'])
+)
+
+# 2) shifted rolling mean over last 3 races (allow 1–2 early)
+team_race['TeamForm'] = (
+    team_race.groupby('TeamName_race')['TeamAvgFinish']
+             .transform(lambda x: x.shift().rolling(3, min_periods=1).mean())
+)
+
+# 3) merge back to driver rows
+df = df.merge(
+    team_race[['TeamName_race', 'Year', 'Round', 'TeamForm']],
+    on=['TeamName_race', 'Year', 'Round'],
+    how='left'
 )
 
 # Rookie race flag (first race for each driver)
