@@ -59,8 +59,6 @@ df["Circuit_race"] = df["Circuit_race"].replace(circuit_mapping)
 track_df = pd.read_csv("enhanced_data/track_info.csv")
 df = df.merge(track_df, left_on='Circuit_race', right_on='Circuit', how='left')
 
-df['PositionDelta'] = df['Position_race'] - df['GridPosition']
-
 # sort so past races come before current ones
 df = df.sort_values(['Abbreviation', 'Year', 'Round'])
 
