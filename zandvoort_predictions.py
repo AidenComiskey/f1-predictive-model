@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 import joblib
-from main import get_quali_results
+from main import get_quali_results, get_race_results
 
 # Load trained model and encoders
 model = joblib.load("f1_position_model.pkl")
@@ -11,12 +11,31 @@ le_circuit = joblib.load("encoders/le_circuit.pkl")
 le_type = joblib.load("encoders/le_type.pkl")
 le_overtake = joblib.load("encoders/le_overtake.pkl")
 
-# Load historical data and track info
-df_clean = pd.read_csv("enhanced_data/combined_data_clean.csv")
+# Load track info
 track_df = pd.read_csv("enhanced_data/track_info.csv")
+
+def update_dataset(year, round_number):
+    """Fetch the last race results and append to dataset."""
+    df_clean = pd.read_csv("enhanced_data/combined_data_clean.csv")
+    
+    # Avoid duplicate appends
+    if not ((df_clean["Year"] == year) & (df_clean["Round"] == round_number)).any():
+        print(f"Adding results for {year} Round {round_number}")
+        new_race = get_race_results(year, round_number)  # you'll need this function
+        df_clean = pd.concat([df_clean, new_race], ignore_index=True)
+        df_clean.to_csv("enhanced_data/combined_data_clean.csv", index=False)
+    else:
+        print(f"Results for {year} Round {round_number} already in dataset.")
 
 def predict_race_podium(year, round_number, circuit_name):
     # Get qualifying results
+
+    if round_number > 1:
+        update_dataset(year, round_number - 1)
+    
+    # (re)load dataset with latest results
+    df_clean = pd.read_csv("enhanced_data/combined_data_clean.csv")
+
     qualiresult = get_quali_results(year, round_number)
     
     # Grid position is usually same as quali position
@@ -96,4 +115,4 @@ def predict_race_podium(year, round_number, circuit_name):
     return podium
 
 # Example usage
-predicted_podium = predict_race_podium(2025, 15, "Zandvoort")
+predicted_podium = predict_race_podium(2025, 17, "Baku")
